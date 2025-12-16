@@ -6,6 +6,15 @@
     <title>Swamp Attack</title>
     <link rel="stylesheet" href="../css/global-variables.css">
     <link rel="icon" href="../images/swampattack.png" type="image/png" />
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
 </head>
 <body>
     <div class="top-controls">

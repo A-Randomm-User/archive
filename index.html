@@ -6,6 +6,15 @@
     <title>Save</title>
     <link rel="stylesheet" href="global-variables.css">
     <link rel="icon" href="icon.png" type="image/png" />
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
 </head>
 <style>
     table {

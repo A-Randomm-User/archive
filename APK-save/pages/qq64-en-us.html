@@ -7,6 +7,15 @@
     <link rel="stylesheet" href="../css/global-variables.css">
     <link rel="icon" href="../images/qq.png" type="image/png" />
     <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
     <style>
 table {
   font-family: arial, sans-serif;

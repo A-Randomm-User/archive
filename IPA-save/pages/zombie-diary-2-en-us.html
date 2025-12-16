@@ -6,6 +6,15 @@
     <title>Zombie Diary 2</title>
     <link rel="stylesheet" href="../css/global-variables.css">
     <link rel="icon" href="../images/zombiediary2.png" type="image/png" />
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
 </head>
 <body>
     <div class="top-controls">
