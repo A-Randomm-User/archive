@@ -2,6 +2,12 @@ html {
     scroll-behavior: smooth;  
 }
 
+html,
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
 :root {
     --bg-color: #ffffff;
     --text-color: #333333;
@@ -74,6 +80,13 @@ body {
     transition: 
         background-color var(--transition-time),
         color var(--transition-time);
+}
+
+@media (prefers-color-scheme: dark) {
+    html:not(.dark-mode) {
+        --bg-color: #1a1a1a;
+        --text-color: #f0f0f0;
+    }
 }
 
 .button-link {
