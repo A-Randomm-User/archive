@@ -216,3 +216,10 @@ th {
 .close-btn:hover {
     color: #000;
 }
+
+.responsive-table-wrapper {
+            width: 100%;
+            overflow-x: auto;     
+            -webkit-overflow-scrolling: touch; 
+            margin-top: 20px;
+        }
