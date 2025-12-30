@@ -119,6 +119,30 @@
   "Official Download Link": "https:\/\/update.code.visualstudio.com\/1.95.0\/darwin-universal\/stable",
   "Baidu Netdisk <br> (Password 1234)": "https:\/\/pan.baidu.com\/s\/1RF6JlbpxoMHuQNIGNeo6Nw?pwd=1234",
   "Github": "https:\/\/github.com\/A-Randomm-User\/macOS-save\/releases\/download\/vsc-universal\/Visual.Studio.Code-1.95.0.app.zip"
+ },
+ {
+  "Version": "1.94.2",
+  "Release Date": "September, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https:\/\/update.code.visualstudio.com\/1.94.2\/darwin-universal\/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1vsrCq8rOM05Y46Fpl1Ozbw?pwd=1234",
+  "Github": "https:\/\/github.com\/A-Randomm-User\/macOS-save\/releases\/download\/vsc-universal\/Visual.Studio.Code-1.94.2.app.zip"
+ },
+ {
+  "Version": "1.94.1",
+  "Release Date": "September, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.94.1/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1nTgIGDcvjBmTisMWeRbuQw?pwd=1234",
+  "Github": "https:\/\/github.com\/A-Randomm-User\/macOS-save\/releases\/download\/vsc-universal\/Visual.Studio.Code-1.94.1.app.zip"
+ },
+ {
+  "Version": "1.94.0",
+  "Release Date": "September, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.94.0/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1voOS9ulHK7MYwVdbE2v84g?pwd=1234",
+  "Github": "https:\/\/github.com\/A-Randomm-User\/macOS-save\/releases\/download\/vsc-universal\/Visual.Studio.Code-1.94.0.app.zip"
  }
  ]
 }
