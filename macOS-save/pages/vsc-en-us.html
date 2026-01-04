@@ -22,7 +22,7 @@
       <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
       <a class="top-link" href="javascript:void(0)">
             <button class="button-func" onclick="toggleDarkMode()">
-                    Appearance <!--文本内容-->
+                    Appearance
                 </button>
             </a>
     </div>
@@ -61,12 +61,10 @@ function loadJSON(callback) {
 function convertToLink(text) {
   if (typeof text !== 'string') return text;
 
-  // itms-services
   if (text.match(/^itms-services:\/\/\?action=download-manifest&url=/i)) {
     return '<a href="' + text + '">Download</a>';
   }
 
-  // http / https / ftp
   if (text.match(/^(https?:\/\/|ftp:\/\/)/i)) {
     return '<a href="' + text + '" target="_blank">Download</a>';
   }
@@ -114,14 +112,12 @@ function showGroup(data, groupName) {
   var headers = Object.keys(rows[0]);
   var html = '<h3>' + groupName + '</h3><table>';
 
-  // Header row
   html += '<tr>';
   for (var i = 0; i < headers.length; i++) {
     html += '<th>' + headers[i] + '</th>';
   }
   html += '</tr>';
 
-  // Data rows
   for (var r = 0; r < rows.length; r++) {
     html += '<tr>';
     for (var c = 0; c < headers.length; c++) {

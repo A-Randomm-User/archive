@@ -196,7 +196,6 @@ th {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-/* 弹窗内容 */
 .popup-content {
     background-color: white;
     background: var(--bg-color, white);
