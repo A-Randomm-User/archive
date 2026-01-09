@@ -1,4 +1,22 @@
 {
+"iPhone 5s (iPhone 6,1 / iPhone 6,2) ":[
+ {
+  "Version": "12.0",
+  "Build": "16A5354b",
+  "Release Date": "13 August, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5354b_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/091-99897/E472F736-9CB7-11E8-A00A-B2DDA30B52A2/iPhone_4.0_64bit_12.0_16A5354b_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Frs1PUQpvDXcUYysiIK--g?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A5357b",
+  "Release Date": "15 August, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5357b_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-00353/097D32B4-9FD1-11E8-9115-E362DF4FC48E/iPhone_4.0_64bit_12.0_16A5357b_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wCtxN4buHC8Wf14IxxL-yw?pwd=1234"
+ }
+],
 "iPhone 6 (iPhone 7,2) ":[
  {
   "Version": "12.1",
