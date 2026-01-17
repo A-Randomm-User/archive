@@ -1,6 +1,30 @@
 {
 "iPad (5th Generation) (iPad6,11 / iPad6,12)":[
  {
+  "Version": "11.0",
+  "Build": "15A5278f",
+  "Release Date": "5 June, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_11.0_15A5278f_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_5_2017_Seed/iPad_64bit_TouchID_11.0_15A5278f_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/16AD7b1MFc0AQhXiqQUbAGg?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5304i",
+  "Release Date": "21 June, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_11.0_15A5304i_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-19509-20170621-CA8105BE-55D4-11E7-BFA8-04B5C244ED54/iPad_64bit_TouchID_11.0_15A5304i_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1IAHp4CUMaO1pBs7HpJxTrw?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5304j",
+  "Release Date": "26 June, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_11.0_15A5304j_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-20368-20170626-060C7F1C-582A-11E7-A782-8532C344ED54/iPad_64bit_TouchID_11.0_15A5304j_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uR9SoOM8OzLBKhC5Kf_cbQ?pwd=1234"
+ },
+ {
   "Version": "11.2.5",
   "Build": "15D5037e",
   "Release Date": "13 December, 2017",
