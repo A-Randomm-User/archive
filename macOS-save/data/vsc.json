@@ -159,6 +159,72 @@
   "Official Download Link": "https://update.code.visualstudio.com/1.93.0/darwin-universal/stable",
   "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1D9bmFuGyDOlkxMD0s8MMqg?pwd=1234",
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-universal/Visual.Studio.Code-1.93.0.app.zip"
+ },
+ {
+  "Version": "1.92.2",
+  "Release Date": "July, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.92.2/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1kf7qW5-yNvS_IOu5vwj4zw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-universal/Visual.Studio.Code-1.92.2.app.zip"
+ },
+ {
+  "Version": "1.92.1",
+  "Release Date": "July, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.92.1/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1_8ni5WZYdRdENDw-zSE7kw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-universal/Visual.Studio.Code-1.92.1.app.zip"
+ },
+ {
+  "Version": "1.92.0",
+  "Release Date": "July, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.92.0/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1qrIkO_IhFFxpHv16v6dZcg?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-universal/Visual.Studio.Code-1.92.0.app.zip"
+ },
+ {
+  "Version": "1.91.1",
+  "Release Date": "June, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.91.1/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1rNNar73h6JZEuKPjmf8YYw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-universal/Visual.Studio.Code-1.91.1.app.zip"
+ },
+ {
+  "Version": "1.91.0",
+  "Release Date": "June, 2024",
+  "macOS Support": "macOS Catalina",
+  "Official Download Link": "https://update.code.visualstudio.com/1.91.0/darwin-universal/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/13HduOHS6q-VvIPxm5aYb9Q?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-universal/Visual.Studio.Code-1.91.0.app.zip"
+ }
+ ],
+ "Intel":[
+ {
+  "Version": "1.78.2",
+  "Release Date": "April, 2023",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://update.code.visualstudio.com/1.78.2/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/15OCgsRJloeRHoE-pIuzaig?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.78.2.app.zip"
+ },
+ {
+  "Version": "1.78.1",
+  "Release Date": "April, 2023",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://update.code.visualstudio.com/1.78.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1REpAMdS2ZnhCn4KUeC3Wow?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.78.1.app.zip"
+ },
+ {
+  "Version": "1.78.0",
+  "Release Date": "April, 2023",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://update.code.visualstudio.com/1.78.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1997bHvk5jSTIP5kTKSv-tw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.78.0.app.zip"
  }
  ],
  "Apple Silicon":[
