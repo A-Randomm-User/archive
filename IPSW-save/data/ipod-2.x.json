@@ -3,6 +3,7 @@
  {
   "Version": "2.0.1",
   "Build": "5B108",
+  "Type": "Release",
   "Release Date": "4 August, 2008",
   "Orginal File Name": "iPod1,1_2.0.1_5B108_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -12,6 +13,7 @@
  {
   "Version": "2.0.2",
   "Build": "5C1",
+  "Type": "Release",
   "Release Date": "18 August, 2008",
   "Orginal File Name": "iPod1,1_2.0.2_5C1_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -21,6 +23,7 @@
  {
   "Version": "2.1.1",
   "Build": "5F137",
+  "Type": "Release",
   "Release Date": "17 September, 2008",
   "Orginal File Name": "iPod1.1_2.1.1_5F138_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -30,6 +33,7 @@
  {
   "Version": "2.2",
   "Build": "5G77",
+  "Type": "Release",
   "Release Date": "21 November, 2008",
   "Orginal File Name": "iPod1.1_2.2_5G77_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -39,6 +43,7 @@
  {
   "Version": "2.2.1",
   "Build": "5H11",
+  "Type": "Release",
   "Release Date": "27 January, 2009",
   "Orginal File Name": "iPod1.1_2.2.1_5H11_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -50,6 +55,7 @@
  {
   "Version": "2.1.1",
   "Build": "5F138",
+  "Type": "Release",
   "Release Date": "9 September, 2008",
   "Orginal File Name": "iPod2,1_2.1.1_5F138_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -59,6 +65,7 @@
  {
   "Version": "2.2",
   "Build": "5G77a",
+  "Type": "Release",
   "Release Date": "21 November, 2008",
   "Orginal File Name": "iPod2,1_2.2_5G77a_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",
@@ -68,6 +75,7 @@
  {
   "Version": "2.2.1",
   "Build": "5H11a",
+  "Type": "Release",
   "Release Date": "27 January, 2009",
   "Orginal File Name": "iPod2,1_2.2.1_5H11a_Restore.ipsw",
   "Apple Server": "Paid Upgrade Series",

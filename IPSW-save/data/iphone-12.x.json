@@ -3,6 +3,7 @@
  {
   "Version": "12.0",
   "Build": "16A5354b",
+  "Type": "Beta",
   "Release Date": "13 August, 2018",
   "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5354b_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/091-99897/E472F736-9CB7-11E8-A00A-B2DDA30B52A2/iPhone_4.0_64bit_12.0_16A5354b_Restore.ipsw",
@@ -11,6 +12,7 @@
  {
   "Version": "12.0",
   "Build": "16A5357b",
+  "Type": "Beta",
   "Release Date": "15 August, 2018",
   "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5357b_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-00353/097D32B4-9FD1-11E8-9115-E362DF4FC48E/iPhone_4.0_64bit_12.0_16A5357b_Restore.ipsw",
@@ -19,16 +21,36 @@
  {
   "Version": "12.0",
   "Build": "16A5362a",
+  "Type": "Beta",
   "Release Date": "20 August, 2018",
   "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5362a_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-00968/ADC7C46A-A305-11E8-B6C3-F826D945CB70/iPhone_4.0_64bit_12.0_16A5362a_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10MZkc74NU7WnMTUAcrcH-w?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A5364a",
+  "Type": "Beta",
+  "Release Date": "23 August, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5364a_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-01920/19AC4B66-A661-11E8-8697-B62CBC2B0A7E/iPhone_4.0_64bit_12.0_16A5364a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mSALFMnOevxPmvQZlgzY2Q?pwd=1234"
+ },
+ {
+  "Version": "12.5.8",
+  "Build": "16H88",
+  "Type": "Release",
+  "Release Date": "26 January, 2026",
+  "Orginal File Name": "iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1G8wYNlVZnFehymkWapDXMg?pwd=1234"
  }
 ],
 "iPhone 6 (iPhone 7,2) ":[
  {
   "Version": "12.1",
   "Build": "16B5077c",
+  "Type": "Beta",
   "Release Date": "9 October, 2018",
   "Orginal File Name": "iPhone_4.7_12.1_16B5077c_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-12345/A5EA45CE-C8EE-11E8-ABEE-13D06D2878E5/iPhone_4.7_12.1_16B5077c_Restore.ipsw",
@@ -39,6 +61,7 @@
  {
   "Version": "12.0",
   "Build": "16A5365b",
+  "Type": "Beta",
   "Release Date": "27 August, 2018",
   "Orginal File Name": "iPhone_5.5_P3_12.0_16A5365b_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-03252/FEDDA922-A829-11E8-AA22-FAA9AADE3CC1/iPhone_5.5_P3_12.0_16A5365b_Restore.ipsw",
@@ -47,6 +70,7 @@
  {
   "Version": "12.0",
   "Build": "16A5357b",
+  "Type": "Beta",
   "Release Date": "15 August, 2018",
   "Orginal File Name": "iPhone_5.5_P3_12.0_16A5357b_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-00261/09828502-9FD1-11E8-90B2-859D5F67E281/iPhone_5.5_P3_12.0_16A5357b_Restore.ipsw",
@@ -55,6 +79,7 @@
  {
   "Version": "12.1.1",
   "Build": "16C5050a",
+  "Type": "Beta",
   "Release Date": "15 November, 2018",
   "Orginal File Name": "iPhone_5.5_P3_12.1.1_16C5050a_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-24784/D0E47A9A-E786-11E8-A935-049D55D8F596/iPhone_5.5_P3_12.1.1_16C5050a_Restore.ipsw",
