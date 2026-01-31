@@ -229,6 +229,30 @@
  ],
  "Apple Silicon":[
  {
+  "Version": "1.79.2",
+  "Release Date": "May, 2023",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://update.code.visualstudio.com/1.79.2/darwin-arm64/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1xLsHD9cf2YChkIDCJlPTsw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-silicon/Visual.Studio.Code-1.79.2.app.zip"
+ },
+ {
+  "Version": "1.79.1",
+  "Release Date": "May, 2023",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://update.code.visualstudio.com/1.79.1/darwin-arm64/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1b7ybh688RjqzItTrOkI1zg?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-silicon/Visual.Studio.Code-1.79.1.app.zip"
+ },
+ {
+  "Version": "1.79.0",
+  "Release Date": "May, 2023",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://update.code.visualstudio.com/1.79.0/darwin-arm64/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/10DrvqlA3_bc0wAeNQjSWxw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-silicon/Visual.Studio.Code-1.79.0.app.zip"
+ },
+ {
   "Version": "1.78.2",
   "Release Date": "April, 2023",
   "macOS Support": "macOS High Sierra",
