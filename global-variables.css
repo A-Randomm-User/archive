@@ -185,6 +185,30 @@ th {
     background-color: color-mix(in srgb, var(--button-bg) 85%, #000 15%);
 }
 
+.sheet-2-btn {
+    font-size: 18px;
+    padding: 10px 14px;
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: 1px solid var(--border-color, #999);
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: serif;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin: 5px;  
+    width: calc(50% - 10px);
+    word-break: break-word;
+    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
+}
+
+.sheet-2-btn:hover {
+    background-color: color-mix(in srgb, var(--button-bg) 85%, #000 15%);
+}
+
 .popup {
     display: none;
     position: fixed;
