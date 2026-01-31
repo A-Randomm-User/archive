@@ -37,6 +37,60 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mSALFMnOevxPmvQZlgzY2Q?pwd=1234"
  },
  {
+  "Version": "12.0",
+  "Build": "16A5365b",
+  "Type": "Beta",
+  "Release Date": "27 August, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5365b_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-03281/FEDBF686-A829-11E8-BCA3-AC9CF8C47A36/iPhone_4.0_64bit_12.0_16A5365b_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_teakVkDC4_4KTz-SfkbAA?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A5366a",
+  "Type": "Beta",
+  "Release Date": "31 August, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A5366a_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-03595/B73B8B1E-ABF5-11E8-B874-C242F0B9A487/iPhone_4.0_64bit_12.0_16A5366a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VeaUiS77naAkQuWzdUGv5g?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A336",
+  "Type": "Golden Master",
+  "Release Date": "12 September, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A366_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallFCS/fullrestores/091-63009/116F8BD8-AC8E-11E8-A3AF-9B7076D145D8/iPhone_4.0_64bit_12.0_16A366_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11IaPppyn3FwCEEwN9z3z4A?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A336",
+  "Type": "Release",
+  "Release Date": "17 September, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0_16A366_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallFCS/fullrestores/091-63009/116F8BD8-AC8E-11E8-A3AF-9B7076D145D8/iPhone_4.0_64bit_12.0_16A366_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11IaPppyn3FwCEEwN9z3z4A?pwd=1234"
+ },
+ {
+  "Version": "12.0.1",
+  "Build": "16A404",
+  "Type": "Release",
+  "Release Date": "8 October, 2018",
+  "Orginal File Name": "iPhone_4.0_64bit_12.0.1_16A404_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallFCS/fullrestores/041-09290/34963678-C5EA-11E8-AE7F-8224A7DA43E1/iPhone_4.0_64bit_12.0.1_16A404_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1s1xrVaOHIWY9jXsQSCAYSQ?pwd=1234"
+ },
+ {
+  "Version": "12.1.3",
+  "Build": "16D39",
+  "Type": "Release",
+  "Release Date": "22 January, 2019",
+  "Orginal File Name": "iPhone_4.0_64bit_12.1.3_16D39_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019WinterFCS/fullrestores/041-16709/7C7B2F86-15ED-11E9-A5E9-9755B489F907/iPhone_4.0_64bit_12.1.3_16D39_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1lkCI_ZCaolDnlbeYSpJCbg?pwd=1234"
+ },
+ {
   "Version": "12.5.8",
   "Build": "16H88",
   "Type": "Release",
@@ -55,6 +109,39 @@
   "Orginal File Name": "iPhone_4.7_12.1_16B5077c_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-12345/A5EA45CE-C8EE-11E8-ABEE-13D06D2878E5/iPhone_4.7_12.1_16B5077c_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uhrj7IEn7sZkW2LxxFEDQg?pwd=1234"
+ }
+],
+"iPhone 6s (iPhone 8,1) ":[
+ {
+  "Version": "12.1.3",
+  "Build": "16D39",
+  "Type": "Release",
+  "Release Date": "22 January, 2019",
+  "Orginal File Name": "iPhone_4.7_12.1.3_16D39_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019WinterFCS/fullrestores/041-17677/7C7B2EBE-15ED-11E9-A5E9-9955B489F907/iPhone_4.7_12.1.3_16D39_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QR5wAGn78esoaWIz_u4LtQ?pwd=1234"
+ }
+],
+"iPhone SE (1st Generation) (iPhone 8,4) ":[
+ {
+  "Version": "12.1.3",
+  "Build": "16D39",
+  "Type": "Release",
+  "Release Date": "22 January, 2019",
+  "Orginal File Name": "iPhone_4.0_64bit_12.1.3_16D39_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019WinterFCS/fullrestores/041-16709/7C7B2F86-15ED-11E9-A5E9-9755B489F907/iPhone_4.0_64bit_12.1.3_16D39_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nIufiuVV9v777Q4l2neQAQ?pwd=1234"
+ }
+],
+"iPhone 7 (iPhone 9,1 / iPhone 9,3) ":[
+ {
+  "Version": "12.0",
+  "Build": "16A5308e",
+  "Type": "Beta",
+  "Release Date": "19 June, 2018",
+  "Orginal File Name": "iPhone_4.7_P3_12.0_16A5308e_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018/iosseed/091-88094-20180618-A95B300E-70E4-11E8-A901-761B8896EC1B/iPhone_4.7_P3_12.0_16A5308e_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1DVNXwYB8YAJpP3Qfdh7BBA?pwd=1234"
  }
 ],
 "iPhone 7 Plus (iPhone 9,2 / iPhone 9,4) ":[
@@ -84,6 +171,37 @@
   "Orginal File Name": "iPhone_5.5_P3_12.1.1_16C5050a_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-24784/D0E47A9A-E786-11E8-A935-049D55D8F596/iPhone_5.5_P3_12.1.1_16C5050a_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qdBJvXzFr1c5DQco8Pgfyw?pwd=1234"
+ },
+ {
+  "Version": "12.1.3",
+  "Build": "16D39",
+  "Type": "Release",
+  "Release Date": "22 January, 2019",
+  "Orginal File Name": "iPhone_5.5_P3_12.1.3_16D39_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019WinterFCS/fullrestores/041-16623/7C6C5D1C-15ED-11E9-8DC5-8055B489F907/iPhone_5.5_P3_12.1.3_16D39_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1g1-E9eNWtIIVSDZ_TcB6pg?pwd=1234"
+ }
+],
+"iPhone 8 (iPhone 10,1 / iPhone 10,4) ":[
+ {
+  "Version": "12.0",
+  "Build": "16A5308e",
+  "Type": "Beta",
+  "Release Date": "19 June, 2018",
+  "Orginal File Name": "iPhone_4.7_P3_12.0_16A5308e_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018/iosseed/091-88094-20180618-A95B300E-70E4-11E8-A901-761B8896EC1B/iPhone_4.7_P3_12.0_16A5308e_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1htDkGeOZI9RXvVreT9rzvQ?pwd=1234"
+ }
+],
+"iPhone 8 Plus (iPhone 10,2 / iPhone 10,5) ":[
+ {
+  "Version": "12.1.3",
+  "Build": "16D39",
+  "Type": "Release",
+  "Release Date": "22 January, 2019",
+  "Orginal File Name": "iPhone_5.5_P3_12.1.3_16D39_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019WinterFCS/fullrestores/041-16623/7C6C5D1C-15ED-11E9-8DC5-8055B489F907/iPhone_5.5_P3_12.1.3_16D39_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ub8DI0PRBz1TMzzShrQLKg?pwd=1234"
  }
 ]
 }
