@@ -248,8 +248,8 @@ th {
 }
 
 .responsive-table-wrapper {
-            width: 100%;
-            overflow-x: auto;     
-            -webkit-overflow-scrolling: touch; 
-            margin-top: 20px;
-        }
+    width: 100%;
+    overflow-x: auto;     
+    -webkit-overflow-scrolling: touch; 
+    margin-top: 20px;
+}
