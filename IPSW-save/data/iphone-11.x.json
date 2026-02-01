@@ -1,4 +1,51 @@
 {
+"iPhone 5s (iPhone 6,1 / iPhone 6,2) ":[
+ {
+  "Version": "11.0",
+  "Build": "15A5278f",
+  "Type": "Beta",
+  "Release Date": "5 June, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.0_15A5278f_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_5_2017_Seed/iPhone_4.0_64bit_11.0_15A5278f_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_gNeeRvlvS0Fj4z56NZxGQ?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5304i",
+  "Type": "Beta",
+  "Release Date": "21 June, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.0_15A5304i_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-19469-20170621-CA863CE6-55D4-11E7-B8D2-00B5C244ED54/iPhone_4.0_64bit_11.0_15A5304i_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11om1273yxgo4eyAa6lWAhQ?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5304j",
+  "Type": "Beta",
+  "Release Date": "26 June, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.0_15A5304j_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-20411-20170626-060CA1CC-582A-11E7-BF15-8632C344ED54/iPhone_4.0_64bit_11.0_15A5304j_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1y6DgJJDZuskUGeazXQePMQ?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5318g",
+  "Type": "Beta",
+  "Release Date": "10 July, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.0_15A5318g_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-21662-2017071o-420FE32C-6339-11E7-B4B2-0085494DD6D5/iPhone_4.0_64bit_11.0_15A5318g_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1G3HbT0sBGT-Bv7W55ZbGDw?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5327g",
+  "Type": "Beta",
+  "Release Date": "24 July, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.0_15A5327g_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-22213-20170724-EBB551D4-6E22-11E7-BE6A-860101BA0AE3/iPhone_4.0_64bit_11.0_15A5327g_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Jk9TUBftFPkAFMFCSNdLsQ?pwd=1234"
+ }
+],
 "iPhone 6 (iPhone 7,2) ":[
  {
   "Version": "11.0",
