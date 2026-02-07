@@ -5,7 +5,7 @@
   "Build": "12A4265u",
   "Type": "Beta",
   "Release Date": "2 June, 2014",
-  "Orginal File Name": "iPhone_4.0_64bit_10.0_14A5297c_Restore.ipsw",
+  "Orginal File Name": "iPhone5,1_8.0_12A4265u_Restore.ipsw",
   "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/wwdc_2014/ios_8_beta_wg4j9a/ios_8_beta__iphone_5_model_a1428__12a4265u.zip",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aVywIBts7AL0HelzyUZs7Q?pwd=1234"
  },
@@ -14,9 +14,27 @@
   "Build": "12A4297e",
   "Type": "Beta",
   "Release Date": "17 June, 2016",
-  "Orginal File Name": "iPhone_4.0_64bit_10.0_14A5309d_Restore.ipsw",
+  "Orginal File Name": "iPhone5,1_8.0_12A4297e_Restore.ipsw",
   "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/ios/ios_8_beta_2_mf5r7v/ios_8_beta_2__iphone_5_model_a1428__12a4297e.zip",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1H9egfuewgS7EjLAbtddwCg?pwd=1234"
+ },
+ {
+  "Version": "8.0",
+  "Build": "12A4318c",
+  "Type": "Beta",
+  "Release Date": "7 July, 2016",
+  "Orginal File Name": "iPhone_4.0_64bit_10.0_14A5309d_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/ios/ios_8_beta_3_zfi8vl/ios_8_beta_3__iphone_5_model_a1428__12a4318c.zip",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mxCzatQs8S4IE3VWe9KW6w?pwd=1234"
+ },
+ {
+  "Version": "8.0",
+  "Build": "12A4331d",
+  "Type": "Beta",
+  "Release Date": "21 July, 2016",
+  "Orginal File Name": "iPhone_4.0_64bit_10.0_14A5309d_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/ios/ios_8_beta_4_ym8ro2/ios_8_beta_4__iphone_5_model_a1428__12a4331d.zip",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eqlY75NdDTaRc0bGOWtPzA?pwd=1234"
  }
 ]
 }
