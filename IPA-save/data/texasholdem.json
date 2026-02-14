@@ -17,6 +17,24 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VElnWH_eX0vr8N3VnFEfzQ?pwd=1234"
  }
 ],
+"Jailbroken 64":[
+ {
+  "Version": "2.0",
+  "IPA ID": 1804601,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Texas-Hold-Em/Jailbroken32_HoldEm.2.0.ipa&bundle=com.apple.Holdem&version=2.0&title=Hold'Em",
+  "Terabox": "https://1024terabox.com/s/1H58kiuJg7MfhEfuO9lmFWQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pqQ53FohrKTLSrxTR6kCnw?pwd=1234"
+ },
+ {
+  "Version": "2.1",
+  "IPA ID": 831952927,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Texas-Hold-Em/Jailbroken32_HoldEm.2.1.ipa&bundle=com.apple.Holdem&version=2.1&title=Hold'Em",
+  "Terabox": "https://1024terabox.com/s/1xTz2QE4g5tCgg_c69AGo6Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1h5qJ_SuDT793RR7XKvffBg"
+ }
+],
 "Official":[
  {
   "Version": "1.0",
@@ -33,6 +51,22 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Texas-Hold-Em/Official_HoldEm.1.1.ipa&bundle=com.apple.Holdem&version=1.1&title=Hold'Em",
   "Terabox": "https://1024terabox.com/s/1Fby1FJFNjFoSaVOkIxC-Pw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TM2Hhfkf-Ja2q1tqybL8bQ?pwd=1234"
+ },
+ {
+  "Version": "2.0",
+  "IPA ID": 1804601,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Texas-Hold-Em/Official_HoldEm.2.0.ipa&bundle=com.apple.Holdem&version=2.0&title=Hold'Em",
+  "Terabox": "https://1024terabox.com/s/1SQyNGr9eS7vX5WfrIdMOLA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ckXpe1ZoK1pU4x_5p5s1WA?pwd=1234"
+ },
+ {
+  "Version": "2.1",
+  "IPA ID": 831952927,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Texas-Hold-Em/Official_HoldEm.2.1.ipa&bundle=com.apple.Holdem&version=2.1&title=Hold'Em",
+  "Terabox": "https://1024terabox.com/s/1JMMI9aMNqHDZRKqjtXAzPQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1H-MoXM1xX9N2Go_Dve3lYg?pwd=1234"
  }
 ]
 }
