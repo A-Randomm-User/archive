@@ -272,3 +272,20 @@ th {
     -webkit-overflow-scrolling: touch; 
     margin-top: 20px;
 }
+
+summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary h2::before {
+  content: "▸ ";
+}
+
+details[open] summary h2::before {
+  content: "▾ ";
+}
