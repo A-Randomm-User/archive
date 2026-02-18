@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classic Keynote</title>
+    <title>iWork Suite</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/classic-keynote.png" type="image/png" />
+    <link rel="icon" href="../images/iwork-suite.png" type="image/png" />
+    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
     <script>
         (function(){
             try {
@@ -25,43 +26,16 @@
                 </button>
             </a>
     </div>
-    <div class="responsive-table-wrapper">
-    <h2>About this Application</h2>
-  <table>
-    <tr>
-      <td>Application Name</td>
-      <td>Keynote</td>
-    </tr>
-    <tr>
-      <td>Seller</td>
-      <td>Apple Inc. (US Region); Apple Distribution International (Rest of World)</td>
-    </tr>
-    <tr>
-      <td>Bundle Identifier</td>
-      <td>com.apple.Keynote</td>
-    </tr>
-    <tr>
-      <td>App Store</td>
-      <td><a href="https://apps.apple.com/us/app/keynote/id361285480">https://apps.apple.com/us/app/keynote/id361285480</a> *Replaced with <a href="https://apps.apple.com/us/app/keynote-design-presentations/id361285480">https://apps.apple.com/us/app/keynote-design-presentations/id361285480</a> on 28 January, 2026</td>
-    </tr>
-    <tr>
-      <td>Developer Website</td>
-      <td><a href="http://www.apple.com/uk/keynote/">http://www.apple.com/uk/keynote/</a></td>
-    </tr>
-  </table>
-  </div>
-  <br>
-  <p>Quick Links: <a href="#1.0">1.0</a>; <a href="#2.0">2.0</a></p>
-  
     <script src="../../dark-mode.js"></script>
-    <div id="buttonContainer"></div>
-    <div class="responsive-table-wrapper">
+<br>
+<div id="buttonContainer"></div>
+<div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
 </div>
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../data/classickeynote.json', true);
+  xhr.open('GET', '../data/iworksuite.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
