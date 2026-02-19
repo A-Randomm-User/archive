@@ -1,6 +1,16 @@
 {
 "iPod Touch 1 (iPod1,1)":[
  {
+  "Version": "2.0",
+  "Build": "5A347",
+  "Type": "Release",
+  "Release Date": "11 July, 2008",
+  "Orginal File Name": "iPod1,1_2.0_5A347_Restore.ipsw",
+  "Apple Server": "Paid Upgrade Series",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1yP4of_SSZFnJT7Y3QBtCrg?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod1%2C1/iPod1.1_2.0_5A347_Restore.ipsw"
+ },
+ {
   "Version": "2.0.1",
   "Build": "5B108",
   "Type": "Release",

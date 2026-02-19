@@ -160,6 +160,24 @@
 ],
 "iPad Pro (9.7-inch) (iPa6,3 / iPad6,4)":[
  {
+  "Version": "11.0",
+  "Build": "15A5278f",
+  "Type": "Beta",
+  "Release Date": "5 June, 2017",
+  "Orginal File Name": "iPadPro_9.7_11.0_15A5278f_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_5_2017_Seed/iPadPro_9.7_11.0_15A5278f_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZdwnZoLt0CTCoYwUEgIlZA?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5304i",
+  "Type": "Beta",
+  "Release Date": "21 June, 2017",
+  "Orginal File Name": "iPadPro_9.7_11.0_15A5304i_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-19457-20170621-CA845E94-55D4-11E7-A4AA-FEB4C244ED54/iPadPro_9.7_11.0_15A5304i_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aNVPddY3gXphtNbQ8UE0PQ"
+ },
+ {
   "Version": "11.4",
   "Build": "15F5079a",
   "Type": "Beta",
