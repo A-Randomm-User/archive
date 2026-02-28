@@ -700,38 +700,74 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.7.0.ipa&bundle=com.mojang.minecraftpe&version=1.7.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1qusowpmnxydweyneAW0B5w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1DiEUiVIfQsTk-3POvG9KdQ?pwd=1234"
- },
- {
+ },{
   "Version": "<b id=\"1.8.0\">1.8.0</b>",
   "IPA ID": 829369133,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.8.0.829369133ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1rAuhJWadZj7LX9nfRgvoSg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U3WZ6_ra8ks5Ce0DpK_37A?pwd=1234"
- },
- {
+ },{
   "Version": "1.8.0",
   "IPA ID": 829379746,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.8.0.828901718.ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1UOC6hKJOGII_B4TkTopbDw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OCedZL9GL0aomAljBpbmNg?pwd=1234"
- },
- {
+ },{
   "Version": "1.8.1",
   "IPA ID": 829682862,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.8.1.ipa&bundle=com.mojang.minecraftpe&version=1.8.1&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1YW0XWmR2pXM8Y6OmqlF0Hg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14FpRMqcB0ZYeE5TY4WhYgg?pwd=1234"
- },
- {
+ },{
   "Version": "1.9.0",
   "IPA ID": 830149634,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.9.0.ipa&bundle=com.mojang.minecraftpe&version=1.9.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1zhpSX1fsiJhnszlY6YdiTg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1n8_x-BU_6H8UqUM9mUXbLA"
+ },
+ {
+  "Version": "1.10.0",
+  "IPA ID": 830619698,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.10.0.ipa&bundle=com.mojang.minecraftpe&version=1.10.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1lmv0Q7sijUN4duvv5SsRow",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oUXjiIE2qH87Uio_70jvxA?pwd=1234"
+ },
+ {
+  "Version": "<b id=\"1.11.0\">1.11.0</b>",
+  "IPA ID": 831022234,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.11.0.ipa&bundle=com.mojang.minecraftpe&version=1.11.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1AMJOHC9M2ySFqdUX1-LBIg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kh5I2rYajXObNdT3lbZKwA?pwd=1234"
+ },
+ {
+  "Version": "1.11.1",
+  "IPA ID": 831117997,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.11.1.ipa&bundle=com.mojang.minecraftpe&version=1.11.1&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1dI1OdUDDkwJxa69AzkT1dg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1CknDdEx-I3e7se038sBjIQ?pwd=1234"
+ },
+ {
+  "Version": "1.11.3",
+  "IPA ID": 831308158,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken32_Minecraft.1.11.3.ipa&bundle=com.mojang.minecraftpe&version=1.11.3&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1k8vVa67aY0qzKpYDryzduw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1xdrmJfDpFZylqR3lWlGjxg?pwd=1234"
+ },
+ {
+  "Version": "1.11.4",
+  "IPA ID": 831406785,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.11.4.ipa&bundle=com.mojang.minecraftpe&version=1.11.4&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/11AhHTzOCA0GLsjNnxMTZLw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1xaS9uGSgqiyVf77LPFHvBA"
  }
 ],
 "Jailbroken Universal":[
@@ -1134,78 +1170,109 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.5.2.ipa&bundle=com.mojang.minecraftpe&version=1.5.2&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/14JvOUdqj8NqdcU_W7p3CvA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FAb2H05-kLCl5Fe1z1mWKQ?pwd=1234"
- },
- {
+ },{
   "Version": "1.5.3",
   "IPA ID": 828038813,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.5.3.ipa&bundle=com.mojang.minecraftpe&version=1.5.3&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1q0A-ZU1eH44FNVHKEbS8gQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19f7cYfSV-MPIOfhNB64tMg?pwd=1234"
- },
- {
+ },{
   "Version": "<b id=\"1.6.0\">1.6.0</b>",
   "IPA ID": 828354282,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.6.0.ipa&bundle=com.mojang.minecraftpe&version=1.6.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1HzirAnei030IN4k5hejs-A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ASbxzG3GTgPeryTiYo2TKQ?pwd=1234"
- },
- {
+ },{
   "Version": "1.6.1",
   "IPA ID": 828409868,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.6.1.ipa&bundle=com.mojang.minecraftpe&version=1.6.1&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1IcENaUXzx9tfXqUP7esL3w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZK-AqaJOstxvuNbzm6ezEw?pwd=1234"
- },
- {
+ },{
   "Version": "1.6.2",
   "IPA ID": 828731983,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.6.2.ipa&bundle=com.mojang.minecraftpe&version=1.6.2&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1dsIA9m0tY1YEEJj02DZG_Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ikKkswH8EWDIBf5id45_4g"
- },
- {
+ },{
   "Version": "1.7.0",
   "IPA ID": 828901718,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.7.0.ipa&bundle=com.mojang.minecraftpe&version=1.7.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/16PqZH2a-kFA3D257YnLFWw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1K4qY1iwLAGDdY0-h6Cjm1A?pwd=1234"
- },
- {
+ },{
   "Version": "<b id=\"1.8.0\">1.8.0</b>",
   "IPA ID": 829369133,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.8.0.829369133ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1VuK5Gi1S7A_Ngvyq2z1MlQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ADbYecJd2tPm7qXWyZZiZg?pwd=1234"
- },
- {
+ },{
   "Version": "1.8.0",
   "IPA ID": 829379746,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.8.0.828901718.ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1a8YBFPkrTbl6YLotdGzGGg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SXspv9K43br16wR7gxjKoQ?pwd=1234"
- },
- {
+ },{
   "Version": "1.8.1",
   "IPA ID": 829682862,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.8.1.ipa&bundle=com.mojang.minecraftpe&version=1.8.1&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1eZYDg9OjP08PuRXQsNMWXg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1PbzffGebLQA4Bg-P9kHD1w?pwd=1234"
- },
- {
+ },{
   "Version": "1.9.0",
   "IPA ID": 830149634,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.9.0.ipa&bundle=com.mojang.minecraftpe&version=1.9.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1DWa3DT0Eg7NIFEbO4os32Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1GKtddQTO2pBcqMQvHqnhaw"
+ },
+ {
+  "Version": "1.10.0",
+  "IPA ID": 830619698,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.10.0.ipa&bundle=com.mojang.minecraftpe&version=1.10.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/15Yb94pxKayxbZHQMcGQFhA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1GCb9agDnjD60m-WROyampQ?pwd=1234"
+ },
+ {
+  "Version": "<b id=\"1.11.0\">1.11.0</b>",
+  "IPA ID": 831022234,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.11.0.ipa&bundle=com.mojang.minecraftpe&version=1.11.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1c_n1X4ggzdvQRPX8w594PQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/144MnYoP3THOSSiTTjwu-IA?pwd=1234"
+ },
+ {
+  "Version": "1.11.1",
+  "IPA ID": 831117997,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.11.1.ipa&bundle=com.mojang.minecraftpe&version=1.11.1&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/17wS_fvAWnGilrhGf6Mrxhg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1u9kOh1VElxUZdRi11080eg?pwd=1234"
+ },
+ {
+  "Version": "1.11.3",
+  "IPA ID": 831308158,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.11.3.ipa&bundle=com.mojang.minecraftpe&version=1.11.3&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1-_lEPc6Jqr_D1zyhUP9VJw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13DzqVWXYx4lC-ojKaQq8NQ?pwd=1234"
+ },
+ {
+  "Version": "1.11.4",
+  "IPA ID": 831406785,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/JailbrokenU_Minecraft.1.11.4.ipa&bundle=com.mojang.minecraftpe&version=1.11.4&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1lLlz6kdXeIB4FN42z3As3A",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gp9zTl3Ez0qb7_3fxpq4Qw?pwd=1234"
  },
  {
   "Version": "1.16.0",
@@ -1644,46 +1711,80 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.6.2.ipa&bundle=com.mojang.minecraftpe&version=1.6.2&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1KIwm63o5PtGYlR4bdJ2WFg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_szCfglR5HCord8eVAJqeA?pwd=1234"
- },
- {
+ },{
   "Version": "1.7.0",
   "IPA ID": 828901718,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.7.0.ipa&bundle=com.mojang.minecraftpe&version=1.7.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1nNfOzDlix4__Xs9ksGsBLg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1EhT32L16IXe1hYWqGKGBOA?pwd=1234"
- },
- {
+ },{
   "Version": "<b id=\"1.8.0\">1.8.0</b>",
   "IPA ID": 829369133,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.8.0.829369133ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1pA6Xqmqp6fecE3Cr1NKYaw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1zRh89ydWgPZmbCkQTrzdQw?pwd=1234"
- },
- {
+ },{
   "Version": "1.8.0",
   "IPA ID": 829379746,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.8.0.828901718.ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1r_-Slhfu6873c8za9nvKNQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1lY5njIQeA-6JYoEhunuljQ"
- },
- {
+ },{
   "Version": "1.8.1",
   "IPA ID": 829682862,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.8.1.ipa&bundle=com.mojang.minecraftpe&version=1.8.1&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1za2W15ROIMSP-aW48wq_Ng",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1dmReonu5X8AZp_uo9kcWsA?pwd=1234"
- },
- {
+ },{
   "Version": "1.9.0",
   "IPA ID": 830149634,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.9.0.ipa&bundle=com.mojang.minecraftpe&version=1.9.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/11zeOGbCe-RreTv11XmHZKQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1CzWMPdKuzKPElxgf7Tz9mA?pwd=1234"
+ },{
+  "Version": "1.10.0",
+  "IPA ID": 830619698,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.10.0.ipa&bundle=com.mojang.minecraftpe&version=1.10.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1dt1MMz5dLcU2sIUdSEbIOA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1WKTgWJF-DVEmlz-VHRpt4w?pwd=1234"
+ },
+ {
+  "Version": "<b id=\"1.11.0\">1.11.0</b>",
+  "IPA ID": 831022234,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.11.0.ipa&bundle=com.mojang.minecraftpe&version=1.11.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1L64MyJq26Dcl9LOXMDmbAA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pAPk_zUydhwhC6K_psqvPA?pwd=1234"
+ },
+ {
+  "Version": "1.11.1",
+  "IPA ID": 831117997,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.11.1.ipa&bundle=com.mojang.minecraftpe&version=1.11.1&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/16HPF1F-1n8IEVWRcwqsREw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pp59AZKGCWfZ8lF5qzZU-A?pwd=1234"
+ },
+ {
+  "Version": "1.11.3",
+  "IPA ID": 831308158,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.11.3.ipa&bundle=com.mojang.minecraftpe&version=1.11.3&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1CSWt1OB22xgBWUC__pCSmg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18SFkl-WcES9YdAQbXc1mBw?pwd=1234"
+ },
+ {
+  "Version": "1.11.4",
+  "IPA ID": 831406785,
+  "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.11.4.ipa&bundle=com.mojang.minecraftpe&version=1.11.4&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1jhx3qkPxZE-52vS0-vMVDg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1IDPQRN19JEzCWBu1C-0NRg"
  },
  {
   "Version": "1.16.0",
@@ -1692,6 +1793,30 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Jailbroken64_Minecraft.1.16.0.ipa&bundle=com.mojang.minecraftpe&version=1.16.0&title=Minecraft PE",
   "Terabox": "https://1024terabox.com/s/1qyX8ST6GwxPZd0YiLR-baA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1CD7aR_mhED0IlWdbu9Rt5A?pwd=1234"
+ },
+ {
+  "Version": "26.0",
+  "IPA ID": 881766223,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Jailbroken64_Minecraft.1.26.0.ipa&bundle=com.mojang.minecraftpe&version=26.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1Ld5Ir0d3pzAVAJpk2qplBw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VP_qihmxaIJetN4NJecwXg?pwd=1234"
+ },
+ {
+  "Version": "26.1",
+  "IPA ID": 882556448,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Jailbroken64_Minecraft.1.26.1.ipa&bundle=com.mojang.minecraftpe&version=26.1&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1dt1MMz5dLcU2sIUdSEbIOA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1011E0z2UyDbMH32N0U6uDQ?pwd=1234"
+ },
+ {
+  "Version": "26.2",
+  "IPA ID": 882724739,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Jailbroken64_Minecraft.1.26.2.ipa&bundle=com.mojang.minecraftpe&version=26.2&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1LGWrjPfLhr4uMCXjv3Q2MA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VCHxkBC3-ZUarznraaR39Q?pwd=1234"
  }
 ],
 "Official":[
@@ -2395,32 +2520,28 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.7.0.ipa&bundle=com.mojang.minecraftpe&version=1.7.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/14Z-ydRqpbHtjQaVD5yRTDQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1meLUqQMLRnamjoYwfU8uMQ?pwd=1234"
- },
- {
+ },{
   "Version": "<b id=\"1.8.0\">1.8.0</b>",
   "IPA ID": 829369133,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.8.0.829369133ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1CpI7hz64Ymqn-dKkb61A9Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10jScdpihJyaXy0kK4rO9Wg"
- },
- {
+ },{
   "Version": "1.8.0",
   "IPA ID": 829379746,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.8.0.828901718.ipa&bundle=com.mojang.minecraftpe&version=1.8.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1rPLqAQy4bTurDdssY1DhjA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kE1HFzmbjSZM45ll9pAuUQ?pwd=1234"
- },
- {
+ },{
   "Version": "1.8.1",
   "IPA ID": 829682862,
   "iOS Support": "iOS 8.0+",
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.8.1.ipa&bundle=com.mojang.minecraftpe&version=1.8.1&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1n8GHDZShKf2t3cGgklL3Ug",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1D79VYVAhN8-UsBdVVZMPuQ"
- },
- {
+ },{
   "Version": "1.9.0",
   "IPA ID": 830149634,
   "iOS Support": "iOS 8.0+",
@@ -2432,13 +2553,15 @@
   "Version": "1.10.0",
   "IPA ID": 830619698,
   "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.10.0.ipa&bundle=com.mojang.minecraftpe&version=1.10.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1cZrcCXumc7BX16p6bw1bNg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15YImPNaMIiornfviM22d_g?pwd=1234"
  },
  {
-  "Version": "1.11.0",
+  "Version": "<b id=\"1.11.0\">1.11.0</b>",
   "IPA ID": 831022234,
   "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.11.0.ipa&bundle=com.mojang.minecraftpe&version=1.11.0&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1cZrcCXumc7BX16p6bw1bNg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/164Jj6erTf9R2jOfR8irbyQ?pwd=1234"
  },
@@ -2446,6 +2569,7 @@
   "Version": "1.11.1",
   "IPA ID": 831117997,
   "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.11.1.ipa&bundle=com.mojang.minecraftpe&version=1.11.1&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1wS3YXxLPSVqLepPPLQXf-w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19shNskIZpP2KYpZ-pSZd0g?pwd=1234"
  },
@@ -2453,6 +2577,7 @@
   "Version": "1.11.3",
   "IPA ID": 831308158,
   "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.11.3.ipa&bundle=com.mojang.minecraftpe&version=1.11.3&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1XiltW2WEKj-fAGwXiEUBeQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wX4IwOOSF35pItWS9ZbXWA?pwd=1234"
  },
@@ -2460,6 +2585,7 @@
   "Version": "1.11.4",
   "IPA ID": 831406785,
   "iOS Support": "iOS 8.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft/Official_Minecraft.1.11.4.ipa&bundle=com.mojang.minecraftpe&version=1.11.4&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1ggUmGEg5Xh1YCFn3Qns38A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XbeKrxXVAq-93ZmrnRaj_A?pwd=1234"
  },
@@ -2490,6 +2616,51 @@
   "iOS Support": "iOS 8.0+",
   "Terabox": "https://1024terabox.com/s/1FQFrCFJNxOvQInsEXBW9xQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eOB6sLSn298VfcqeHwLdiw?pwd=1234"
+ },
+ {
+  "Version": "1.13.1",
+  "IPA ID": 833389084,
+  "iOS Support": "iOS 8.0+",
+  "Terabox": "https://1024terabox.com/s/1bOtyIUPRT_9VYZEwac0MMw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XRrd3-tGttlDb0lHO9VrHQ?pwd=1234"
+ },
+ {
+  "Version": "1.13.2",
+  "IPA ID": 833602520,
+  "iOS Support": "iOS 8.0+",
+  "Terabox": "https://1024terabox.com/s/1uaVNgdsH7nqaOqzReLAkWw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1-ijAqULM-iSzJgbanJWcYA"
+ },
+ {
+  "Version": "1.13.3",
+  "IPA ID": 833663882,
+  "iOS Support": "iOS 8.0+",
+  "Terabox": "https://1024terabox.com/s/1CnVHOCdpQdFOxCuQo9IozQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1l1L-soWOIJcIXVPybIv4Xg?pwd=1234"
+ },
+ {
+  "Version": "26.0",
+  "IPA ID": 881766223,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Official_Minecraft.1.26.0.ipa&bundle=com.mojang.minecraftpe&version=26.0&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/18dUXdxMkHc_klAm-MlqBZw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1RafnsD7Wy92Eqt-ceo3WOg?pwd=1234"
+ },
+ {
+  "Version": "26.1",
+  "IPA ID": 882556448,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Official_Minecraft.1.26.1.ipa&bundle=com.mojang.minecraftpe&version=26.1&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1WRq6B5-D2qV8jkbWJmHtEw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kJIFzUXmCpwIE-00EvZ8GA?pwd=1234"
+ },
+ {
+  "Version": "26.2",
+  "IPA ID": 882724739,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Official_Minecraft.1.26.2.ipa&bundle=com.mojang.minecraftpe&version=26.2&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/12S2Um3BadSB2uSUWuxicHQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/16Kq71o6wJHNQrbHqHoIzlQ?pwd=1234"
  }
 ]
 }
