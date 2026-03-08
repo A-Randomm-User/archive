@@ -1,30 +1,30 @@
 {
-"Jailbroken 32":[
+"ARMv7":[
  {
   "Version": "1.1.1",
   "IPA ID": 830703428,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MrMeat/Jailbroken32_Psychopath.House.1.1.1.ipa&bundle=com.keplerians.psychopathhunt&version=1.1.1&title=Psychopath House",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MrMeat/armv7_Psychopath.House.1.1.1.ipa&bundle=com.keplerians.psychopathhunt&version=1.1.1&title=Psychopath House",
   "Terabox": "https://1024terabox.com/s/1qxAEomc2R-GmMrEhviDEiQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1DVN_o_XfgmVcUlYtMImCmw?pwd=1234"
  }
 ],
-"Jailbroken Universal":[
+"ARMv7 ARM64 Combination":[
  {
   "Version": "1.1.1",
   "IPA ID": 830703428,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MrMeat/JailbrokenU_Psychopath.House.1.1.1.ipa&bundle=com.keplerians.psychopathhunt&version=1.1.1&title=Psychopath House",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MrMeat/armv7arm64_Psychopath.House.1.1.1.ipa&bundle=com.keplerians.psychopathhunt&version=1.1.1&title=Psychopath House",
   "Terabox": "https://1024terabox.com/s/1nXt8zsBcJQRNFIbK868x3Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1hBr8wpntbtd-mPhEz39WUQ"
  }
 ],
-"Jailbroken 64":[
+"ARM64":[
  {
   "Version": "1.1.1",
   "IPA ID": 830703428,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MrMeat/Jailbroken64_Psychopath.House.1.1.1.ipa&bundle=com.keplerians.psychopathhunt&version=1.1.1&title=Psychopath House",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MrMeat/arm64_Psychopath.House.1.1.1.ipa&bundle=com.keplerians.psychopathhunt&version=1.1.1&title=Psychopath House",
   "Terabox": "https://1024terabox.com/s/1dVXK1xiKZrChy0Jd4P63Pg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SX0tPOWniUE7IkrHf5etJQ?pwd=1234"
  }
