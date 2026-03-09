@@ -1,10 +1,60 @@
 {
+"ARMv6":[
+ {
+  "Version": "1.0",
+  "IPA ID": 3446046,
+  "iOS Support": "iOS 3.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6_Minesweeper.1.0.ipa&bundle=com.spica.minesweeperq&version=1.0&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1ew_5FpKB9TyzAe1Imn0ydA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mKZEo8H6QamTLCJcrc1yqw?pwd=1234"
+ },
+ {
+  "Version": "1.01",
+  "IPA ID": 3500295,
+  "iOS Support": "iOS 3.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6_Minesweeper.1.01.ipa&bundle=com.spica.minesweeperq&version=1.01&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1zyUs96_kcMU-iT_5PYgt3A",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1M4fDBFqwLr-cCjA7wyCbHg?pwd=1234"
+ },
+ {
+  "Version": "1.02",
+  "IPA ID": 3513711,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6_Minesweeper.1.02.ipa&bundle=com.spica.minesweeperq&version=1.02&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1TTkYGswXm2Ty_7JvLWycnQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1q5plP88e6TKhfp_sHsQ8qA?pwd=1234"
+ },
+ {
+  "Version": "1.11",
+  "IPA ID": 3630781,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6_Minesweeper.1.11.ipa&bundle=com.spica.minesweeperq&version=1.11&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1NkyO5LIK5_JVDwrI_LDUdQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1I_IfQWkwxwoaJQX8I6sXTA?pwd=1234"
+ },
+ {
+  "Version": "1.21",
+  "IPA ID": 3747789,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6_Minesweeper.1.21.ipa&bundle=com.spica.minesweeperq&version=1.21&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1DamrGmdRz03uZaXVAx6spg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1RNz4iL9mO6OOQjH5qIPDoA?pwd=1234"
+ },
+ {
+  "Version": "1.22",
+  "IPA ID": 3825855,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6_Minesweeper.1.22.ipa&bundle=com.spica.minesweeperq&version=1.22&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1mFwT-GO1kB-yjLu3wRtV6w",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TUJBkvskybLuNIUQf79ccA?pwd=1234"
+ }
+],
 "ARMv6 ARMv7 Combination":[
  {
   "Version": "1.0",
   "IPA ID": 3446046,
   "iOS Support": "iOS 3.0+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.0.ipa&bundle=com.spica.minesweeperq&version=1.0&title=Minesweeper",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6armv7_Minesweeper.1.0.ipa&bundle=com.spica.minesweeperq&version=1.0&title=Minesweeper",
   "Terabox": "https://1024terabox.com/s/1aKEdaY9mnCQXbgYvmU8xBQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18gxH_NbDgB0CzSQkZHnpFg?pwd=1234"
  },
@@ -12,7 +62,7 @@
   "Version": "1.01",
   "IPA ID": 3500295,
   "iOS Support": "iOS 3.0+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.01.ipa&bundle=com.spica.minesweeperq&version=1.01&title=Minesweeper",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6armv7_Minesweeper.1.01.ipa&bundle=com.spica.minesweeperq&version=1.01&title=Minesweeper",
   "Terabox": "https://1024terabox.com/s/15SBLadr2PoiINyTathkkCA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1b7ehBzJO8iEBSSax8Nd49A?pwd=1234"
  },
@@ -20,7 +70,7 @@
   "Version": "1.02",
   "IPA ID": 3513711,
   "iOS Support": "iOS 3.1.2+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.02.ipa&bundle=com.spica.minesweeperq&version=1.02&title=Minesweeper",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6armv7_Minesweeper.1.02.ipa&bundle=com.spica.minesweeperq&version=1.02&title=Minesweeper",
   "Terabox": "https://1024terabox.com/s/1YsM0UCSsYZMlkRkbkRd5xw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1C5QKegmGWf5EjCu9IaI11w?pwd=1234"
  },
@@ -28,7 +78,7 @@
   "Version": "1.11",
   "IPA ID": 3630781,
   "iOS Support": "iOS 3.1.2+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.11.ipa&bundle=com.spica.minesweeperq&version=1.11&title=Minesweeper",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6armv7_Minesweeper.1.11.ipa&bundle=com.spica.minesweeperq&version=1.11&title=Minesweeper",
   "Terabox": "https://1024terabox.com/s/1D9Hzbl9n7lSbZ6_QiRXZpQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uWCWnaj_rg9HsEdpmH39YA?pwd=1234"
  },
@@ -36,7 +86,7 @@
   "Version": "1.21",
   "IPA ID": 3747789,
   "iOS Support": "iOS 3.1.2+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.21.ipa&bundle=com.spica.minesweeperq&version=1.21&title=Minesweeper",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6armv7_Minesweeper.1.21.ipa&bundle=com.spica.minesweeperq&version=1.21&title=Minesweeper",
   "Terabox": "https://1024terabox.com/s/1B0WhGSf_dE8GgTjdxlwiOg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wuG5h06gzVCefemYmRGIZg?pwd=1234"
  },
@@ -44,9 +94,59 @@
   "Version": "1.22",
   "IPA ID": 3825855,
   "iOS Support": "iOS 3.1.2+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.22.ipa&bundle=com.spica.minesweeperq&version=1.22&title=Minesweeper",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv6armv7_Minesweeper.1.22.ipa&bundle=com.spica.minesweeperq&version=1.22&title=Minesweeper",
   "Terabox": "https://1024terabox.com/s/1Ob-ke1J_qFu_Ywfs2DyrWQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_8A8iffCM_0Ml-VDdIRkqg?pwd=1234"
+ }
+],
+"ARMv7":[
+ {
+  "Version": "1.0",
+  "IPA ID": 3446046,
+  "iOS Support": "iOS 3.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.0.ipa&bundle=com.spica.minesweeperq&version=1.0&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/12lIriY3pkANWLHFVUy_blw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aYfOH0x7qw07VkGQa_xnFw?pwd=1234"
+ },
+ {
+  "Version": "1.01",
+  "IPA ID": 3500295,
+  "iOS Support": "iOS 3.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.01.ipa&bundle=com.spica.minesweeperq&version=1.01&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1Yi8JyNXrE0cSqrH1_sG16g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Un7HJmd7sgFMU7D2D7s-tw?pwd=1234"
+ },
+ {
+  "Version": "1.02",
+  "IPA ID": 3513711,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.02.ipa&bundle=com.spica.minesweeperq&version=1.02&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1Fwmj1RB6Jkk6EHn3m8hDeQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_o2wPojxUXhBxjJIqeJ7pA?pwd=1234"
+ },
+ {
+  "Version": "1.11",
+  "IPA ID": 3630781,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.11.ipa&bundle=com.spica.minesweeperq&version=1.11&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1Ft0RAcYcbEr3m5ua7tdFAQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1O5Xvyav-xt1i4eJoVMnTpw?pwd=1234"
+ },
+ {
+  "Version": "1.21",
+  "IPA ID": 3747789,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.21.ipa&bundle=com.spica.minesweeperq&version=1.21&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1RQEcX4vJ99KwtwpOwOuy2g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13cFr-aAnWys5za5lT0o0IQ?pwd=1234"
+ },
+ {
+  "Version": "1.22",
+  "IPA ID": 3825855,
+  "iOS Support": "iOS 3.1.2+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/MinesweeperQ/armv7_Minesweeper.1.22.ipa&bundle=com.spica.minesweeperq&version=1.22&title=Minesweeper",
+  "Terabox": "https://1024terabox.com/s/1JPtBLteQF7sX1rN-8Zvq-Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TUfO7SrS8Qi2yyr-ushQqQ?pwd=1234"
  }
 ],
 "Official":[
