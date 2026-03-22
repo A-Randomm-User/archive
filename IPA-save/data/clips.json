@@ -68,7 +68,7 @@
   "Version": "2.0.2",
   "IPA ID": 825504006,
   "iOS Support": "iOS 11.1+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.2.825504006.ipa&bundle=com.apple.clips&version=2.0.2&title=Clips",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.2.825504006.ipa&bundle=com.apple.clips&version=2.0.2&title=Clips",
   "Terabox": "https://1024terabox.com/s/1E8WQsLYzEakZoajtya9-6Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_QF-qRjXpGO-XyLCrZhnfQ?pwd=1234"
  },
@@ -76,7 +76,7 @@
   "Version": "2.0.2",
   "IPA ID": 825763731,
   "iOS Support": "iOS 11.1+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.2.825763731.ipa&bundle=com.apple.clips&version=2.0.2&title=Clips",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.2.825763731.ipa&bundle=com.apple.clips&version=2.0.2&title=Clips",
   "Terabox": "https://1024terabox.com/s/1iSReYPC952icBmxszAJ6Hw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19Zb1AckkRGX6eMk325mO4w?pwd=1234"
  },
@@ -84,7 +84,7 @@
   "Version": "2.0.3",
   "IPA ID": 825945038,
   "iOS Support": "iOS 11.1+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.3.ipa&bundle=com.apple.clips&version=2.0.3&title=Clips",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.3.ipa&bundle=com.apple.clips&version=2.0.3&title=Clips",
   "Terabox": "https://1024terabox.com/s/1pWXiJy34IElcGm5WYx1GBA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1f1PQfPfKCW7yFflJ6hGzqA?pwd=1234"
  },
@@ -92,9 +92,49 @@
   "Version": "2.0.4",
   "IPA ID": 826824289,
   "iOS Support": "iOS 11.1+",
-  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.4.ipa&bundle=com.apple.clips&version=2.0.4&title=Clips",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.4.ipa&bundle=com.apple.clips&version=2.0.4&title=Clips",
   "Terabox": "https://1024terabox.com/s/1qoK7_nk0UhxntUhkzq9RxA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ek2xUhSXS-AFMjR8dro3gA"
+ },
+ {
+  "Version": "2.0.5",
+  "IPA ID": 828167074,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.5.828167074.ipa&bundle=com.apple.clips&version=2.0.5&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1OcAYUYTk6fHhKUOo47Kp0Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rpRsSYpxw3wWrQSTDm7sOg?pwd=1234"
+ },
+ {
+  "Version": "2.0.5",
+  "IPA ID": 829166368,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.5.829166368.ipa&bundle=com.apple.clips&version=2.0.5&title=Clips",
+  "Terabox": "https://1024terabox.com/s/10GxjcpjQ77xiJhYk70AU5Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1O07wcJuVNlMfAD0fNXABQg?pwd=1234"
+ },
+ {
+  "Version": "2.0.6",
+  "IPA ID": 830576074,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.6.830576074.ipa&bundle=com.apple.clips&version=2.0.6&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1UrU-Fq05ND_4bz7BlueWHw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fX634OxEPGIk0DtfBUMO6Q?pwd=1234"
+ },
+ {
+  "Version": "2.0.6",
+  "IPA ID": 830772594,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.6.830772594.ipa&bundle=com.apple.clips&version=2.0.6&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1u0Wds_MEhNUh6eO6oA8ocw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15SFNVZcE1Y0WxSeW6O_xng?pwd=1234"
+ },
+ {
+  "Version": "2.0.7",
+  "IPA ID": 828167074,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/arm64_Clips.2.0.7.ipa&bundle=com.apple.clips&version=2.0.7&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1CuYKNh0YL2jidZBljkGiqA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FEH1mXtnPpOJAPfQ2uiy_A?pwd=1234"
  }
 ],
 "Official":[
@@ -193,6 +233,46 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.4.ipa&bundle=com.apple.clips&version=2.0.4&title=Clips",
   "Terabox": "https://1024terabox.com/s/1jTI44niLeDkFc2p5_h_fbw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19W9-U0gjtvcAmBJKUu-MYg?pwd=1234"
+ },
+ {
+  "Version": "2.0.5",
+  "IPA ID": 828167074,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.5.828167074.ipa&bundle=com.apple.clips&version=2.0.5&title=Clips",
+  "Terabox": "https://1024terabox.com/s/16Nps9qTPBNJnR_e68Kyv1A",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13JRTRXDAuc_UsULQQ3lPdQ?pwd=1234"
+ },
+ {
+  "Version": "2.0.5",
+  "IPA ID": 829166368,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.5.829166368.ipa&bundle=com.apple.clips&version=2.0.5&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1Qgci1q9QMOO_btMCYR43og",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_XWISBQLQnwNzFjC4cHMbQ?pwd=1234"
+ },
+ {
+  "Version": "2.0.6",
+  "IPA ID": 830576074,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.6.830576074.ipa&bundle=com.apple.clips&version=2.0.6&title=Clips",
+  "Terabox": "https://1024terabox.com/s/10sw-uwpmcKTdBTUlQe5yTw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZafdMqLS2hg2Q50vM2oSZw?pwd=1234"
+ },
+ {
+  "Version": "2.0.6",
+  "IPA ID": 830772594,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.6.830772594.ipa&bundle=com.apple.clips&version=2.0.6&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1wkLqkll20rHgJ-v-ptHh-Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1j7hjgM_CuCx90Xj_PrmXcg?pwd=1234"
+ },
+ {
+  "Version": "2.0.7",
+  "IPA ID": 828167074,
+  "iOS Support": "iOS 11.1+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Clips/Official_Clips.2.0.7.ipa&bundle=com.apple.clips&version=2.0.7&title=Clips",
+  "Terabox": "https://1024terabox.com/s/1kGaMv61f2ACDZBCrkgOtxw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1yd6oMoNcIVOpPZcDGt5mhg?pwd=1234"
  }
 ]
 }
