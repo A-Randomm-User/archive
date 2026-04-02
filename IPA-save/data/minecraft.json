@@ -2414,6 +2414,13 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/arm64_Minecraft.1.26.10.ipa&bundle=com.mojang.minecraftpe&version=26.10&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1BeXVBE4AMIitOI8_XTuLdg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LThQaygeGldBa9gPpOtUwA?pwd=1234"
+ },{
+  "Version": "26.12",
+  "IPA ID": 883856515,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/arm64_Minecrafts.1.26.12.ipa&bundle=com.mojang.minecraftpe&version=26.12&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/13egllch5Tj5XR6DfP_zS7g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1NeFtAk46WQW3aX1l8yyojg?pwd=1234"
  }
 ],
 "Official":[
@@ -3710,6 +3717,13 @@
   "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Official_Minecraft.1.26.10.ipa&bundle=com.mojang.minecraftpe&version=26.10&title=Minecraft",
   "Terabox": "https://1024terabox.com/s/1D8kOfkEnC4dAtqNgirzCcA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/16nUscq0z3s1JNtOjRmjVoA?pwd=1234"
+ },{
+  "Version": "26.12",
+  "IPA ID": 883856515,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "https://a-randomm-user.deno.dev/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Minecraft-2026/Official_Minecraft.1.26.12.ipa&bundle=com.mojang.minecraftpe&version=26.12&title=Minecraft",
+  "Terabox": "https://1024terabox.com/s/1oKhreSygP-z637jEhHNRiA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ab_Tzv6BgHpKo2Bouo5RWw?pwd=1234"
  }
 ]
 }
