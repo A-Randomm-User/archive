@@ -15,6 +15,46 @@
   "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.0.5.832575586.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
   "Terabox": "https://1024terabox.com/s/1zNqPMmDAhr7D9w0CUf3o0w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1HBTVKoiy0ZTcCyc-kFw0xg?pwd=1234"
+ },
+ {
+  "Version": "1.0.6",
+  "IPA ID": 832640450,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.0.6.ipa&bundle=games.Pigeon.Phigros&version=1.0.6&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/15mREB3TSSxfyw9so8KkuTA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qrDRhpijLiolkJcoyvgBOQ"
+ },
+ {
+  "Version": "1.1.0",
+  "IPA ID": 832869118,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.1.0.ipa&bundle=games.Pigeon.Phigros&version=1.1.0&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1aouXpm_523O7U4msVcuGUQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1d9SstjthYx2QXFXmM8reFQ"
+ },
+ {
+  "Version": "1.2.0",
+  "IPA ID": 833292504,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.2.0.ipa&bundle=games.Pigeon.Phigros&version=1.2.0&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1-yiWXWrDCJvqi9yKryLQMw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13vmNzKNUpFwJ1E4Hz_m7Qw?pwd=1234"
+ },
+ {
+  "Version": "1.2.1",
+  "IPA ID": 833618196,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.2.1.ipa&bundle=games.Pigeon.Phigros&version=1.2.1&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1yiLAwxWi4O-mD9uyPaCGTA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ybtiKlRpbphNMGZIwxwFXA?pwd=1234"
+ },
+ {
+  "Version": "1.2.2",
+  "IPA ID": 833704650,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.2.2.ipa&bundle=games.Pigeon.Phigros&version=1.2.2&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1eHl45zciApNviTiW4vPVAQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fOefVN1laafXLoAvcZrEPA?pwd=1234"
  }
 ],
 "ARMv7 ARM64 Combination":[
@@ -22,7 +62,7 @@
   "Version": "1.0.5",
   "IPA ID": 830472694,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.0.5.830472694.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.0.5.830472694.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
   "Terabox": "https://1024terabox.com/s/1tJ_-AHwNZSAZ2HkUKYVt2g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1l2duKcMMinl3cfPeCJgYlw?pwd=1234"
  },
@@ -30,9 +70,49 @@
   "Version": "1.0.5",
   "IPA ID": 832575586,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.0.5.832575586.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.0.5.832575586.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
   "Terabox": "https://1024terabox.com/s/1wgQnyqqa211MHrUjcrzH3Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1A4z1YPJQPjsiryQKREcGDQ?pwd=1234"
+ },
+ {
+  "Version": "1.0.6",
+  "IPA ID": 832640450,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.0.6.ipa&bundle=games.Pigeon.Phigros&version=1.0.6&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1u6Sazscd9ql1yzlZCtCGPQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15UFhS815J9Hr9f2o5PNh3g?pwd=1234"
+ },
+ {
+  "Version": "1.1.0",
+  "IPA ID": 832869118,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.1.0.ipa&bundle=games.Pigeon.Phigros&version=1.1.0&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1lEdG0oHmepZ9patxiMLQaA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VmUQUtwwRgoyFNQrULYq6Q?pwd=1234"
+ },
+ {
+  "Version": "1.2.0",
+  "IPA ID": 833292504,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.2.0.ipa&bundle=games.Pigeon.Phigros&version=1.2.0&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1wbRAoFTZScP6oQfc2IWBvw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1PhvVOgDUT4m692WYzzNPsA?pwd=1234"
+ },
+ {
+  "Version": "1.2.1",
+  "IPA ID": 833618196,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.2.1.ipa&bundle=games.Pigeon.Phigros&version=1.2.1&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1dTdluOWu-ivWK0cgV66cJQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1PwCMVVN_u1Km31RcbbnbbA?pwd=1234"
+ },
+ {
+  "Version": "1.2.2",
+  "IPA ID": 833704650,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7arm64_Phigros.1.2.2.ipa&bundle=games.Pigeon.Phigros&version=1.2.2&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/16FobORVqChENM8iyzePQzQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10xzHwo4U5no5rs441gsgXw?pwd=1234"
  }
 ],
 "ARM64":[
@@ -40,7 +120,7 @@
   "Version": "1.0.5",
   "IPA ID": 830472694,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.0.5.830472694.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.0.5.830472694.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
   "Terabox": "https://1024terabox.com/s/1abAtGJnLupVAcSlY46oJIA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gpfQAqpIdH21ysBBzPXPMw?pwd=1234"
  },
@@ -48,9 +128,49 @@
   "Version": "1.0.5",
   "IPA ID": 832575586,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/armv7_Phigros.1.0.5.832575586.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.0.5.832575586.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
   "Terabox": "https://1024terabox.com/s/1JwJdebTr9y5Z2Y-lZUT45Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1B6rvQ6UUxqsLnlKJFpXgxw?pwd=1234"
+ },
+ {
+  "Version": "1.0.6",
+  "IPA ID": 832640450,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.0.6.ipa&bundle=games.Pigeon.Phigros&version=1.0.6&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/10mD64idAZ1PEkc_FOFY8dQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U5Aej6cojjLT7TPf7fLYQQ?pwd=1234"
+ },
+ {
+  "Version": "1.1.0",
+  "IPA ID": 832869118,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.1.0.ipa&bundle=games.Pigeon.Phigros&version=1.1.0&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1s-D17bNjziSjbp1CYuKOFw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1I6mAdFD0oPZtMLaOey6kfA?pwd=1234"
+ },
+ {
+  "Version": "1.2.0",
+  "IPA ID": 833292504,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.2.0.ipa&bundle=games.Pigeon.Phigros&version=1.2.0&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1TcKU2N9OAxBl52vFGF9svw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1iFQgXcsSUH_mm3WLHZc3nA?pwd=1234"
+ },
+ {
+  "Version": "1.2.1",
+  "IPA ID": 833618196,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.2.1.ipa&bundle=games.Pigeon.Phigros&version=1.2.1&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/1-srlV6w8LC8_spU2wP644w",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1I7CH03xxpvxRsVmVD_50OA?pwd=1234"
+ },
+ {
+  "Version": "1.2.2",
+  "IPA ID": 833704650,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/arm64_Phigros.1.2.2.ipa&bundle=games.Pigeon.Phigros&version=1.2.2&title=Phigros",
+  "Terabox": "https://1024terabox.com/s/19opxhwlmE9iqkojnxhDViQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LVxgpvcMDd5gEYLZpZF7JA?pwd=1234"
  }
 ],
 "Official":[
@@ -69,6 +189,46 @@
   "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/Official_Phigros.1.0.5.832575586.ipa&bundle=games.Pigeon.Phigros&version=1.0.5&title=Phigros",
   "Terabox": "https://1024terabox.com/s/1N052T2F5svDvPHpuQxQJWw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1bN92ipYaWbRCW_qOzJzlmw?pwd=1234"
+ },
+ {
+  "Version": "1.0.6",
+  "IPA ID": 832640450,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/Official_Phigros.1.0.6.ipa&bundle=games.Pigeon.Phigros&version=1.0.6&title=Phigros",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
+ },
+ {
+  "Version": "1.1.0",
+  "IPA ID": 832869118,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/Official_Phigros.1.1.0.ipa&bundle=games.Pigeon.Phigros&version=1.1.0&title=Phigros",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
+ },
+ {
+  "Version": "1.2.0",
+  "IPA ID": 833292504,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/Official_Phigros.1.2.0.ipa&bundle=games.Pigeon.Phigros&version=1.2.0&title=Phigros",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
+ },
+ {
+  "Version": "1.2.1",
+  "IPA ID": 833618196,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/Official_Phigros.1.2.1.ipa&bundle=games.Pigeon.Phigros&version=1.2.1&title=Phigros",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
+ },
+ {
+  "Version": "1.2.2",
+  "IPA ID": 833704650,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Phigros/Official_Phigros.1.2.2.ipa&bundle=games.Pigeon.Phigros&version=1.2.2&title=Phigros",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
  }
 ]
 }
