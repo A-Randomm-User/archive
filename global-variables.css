@@ -297,6 +297,10 @@ th {
     color: #000;
 }
 
+.dark-mode .close-btn:hover {
+    color: #fff;
+}
+
 .responsive-table-wrapper {
     width: 100%;
     overflow-x: auto;     

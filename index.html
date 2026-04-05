@@ -35,9 +35,30 @@ td, th {
             <a class="top-link" href="javascript:void(0)">
             <button class="button-func" onclick="toggleDarkMode()">
                     Appearance
-                </button>
+            </button>
+            <script src="dark-mode.js"></script>
             </a>
         </div>
+        <div class="top-controls">
+            <div class="top-link">
+            <script src="popup.js"></script>
+            <button class="button-func" onclick="openPopup()">Recent Updates</button>
+            <div id="myPopup" class="popup">
+                <div class="popup-content">
+                <span class="close-btn" onclick="closePopup()">&times;</span>
+                    <div style="margin-top: 30px; padding: 20px;">
+                    <h3 style="text-align: center">Recent Updates</h3>
+                    <h4>IPA-save</h4>
+                    <p style="margin: 10px 0">
+                        · NEW Phigros 1.0.6, 1.1.0, 1.2.0, 1.2.1, 1.2.2 <br>
+                        · NEW Swamp Attack 2.4, 2.4.2, 2.4.3, 2.4.4 <br>
+                        · NEW Keynote 2.6, 2.6, 2.6
+                    </p>
+                    </div>
+            </div>
+            </div>
+        </div>
+
         <div class="top-controls">
             <a class="top-link" href="./APK-save/index.html">
                 <button class="button-func">
@@ -76,7 +97,6 @@ td, th {
                 </button>
             </a>
         </div>
-    <script src="dark-mode.js"></script>
 
     <br>
 
