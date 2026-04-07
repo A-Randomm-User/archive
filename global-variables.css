@@ -34,12 +34,14 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    height: 100vh;
+    height: 100%;
     width: 220px;
-    background: rgba(255,255,255,0.7);
-    backdrop-filter: blur(20px);
+    background-color: #ffffff; 
+    background: rgba(255, 255, 255, 0.7);
     -webkit-backdrop-filter: blur(20px);
-    border-right: 1px solid rgba(0,0,0,0.1);
+    backdrop-filter: blur(20px);
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    -webkit-transition: width 0.3s ease;
     transition: width 0.3s ease;
     overflow: hidden;
     z-index: 1000;
@@ -47,6 +49,30 @@ body {
 
 .sidebar.collapsed {
     width: 60px;
+}
+
+.sidebar-content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    padding: 10px;
+    -webkit-transition: opacity 0.2s ease;
+    transition: opacity 0.2s ease;
+}
+
+.sidebar-content > * {
+    margin-bottom: 6px;
+}
+
+.sidebar.collapsed .sidebar-content {
+    opacity: 0;
+    visibility: hidden; 
+    pointer-events: none;
+    height: 0;
 }
 
 .sidebar-header {
@@ -63,21 +89,16 @@ body {
     cursor: pointer;
 }
 
-.sidebar-content {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    padding: 10px;
-    transition: opacity 0.2s ease;
-}
-
 .sidebar-link {
+    display: block;
     padding: 10px 12px;
     border-radius: 10px;
+    color: #1c1c1e; 
     color: var(--text-color);
     text-decoration: none;
     white-space: nowrap;
     overflow: hidden;
+    -webkit-transition: background 0.2s;
     transition: background 0.2s;
 }
 
@@ -281,30 +302,32 @@ th {
     display: none;
     position: fixed;
     z-index: 999;
-    inset: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     background-color: rgba(0, 0, 0, 0.45);
+    -webkit-transform: translateZ(0);
 }
 
 .popup-content {
-    background: rgba(255, 255, 255, 0.55);
-    backdrop-filter: blur(35px) saturate(180%);
+    background: rgba(255, 255, 255, 0.75);
     -webkit-backdrop-filter: blur(35px) saturate(180%);
-
-    position: relative;
-    margin: 10% auto;
+    backdrop-filter: blur(35px) saturate(180%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     padding: 20px;
-    width: 90%;
+    width: 85%;
     max-width: 500px;
-    max-height: 60vh;
+    max-height: 70vh;
     overflow-y: auto;
-
+    -webkit-overflow-scrolling: touch;
     border-radius: 18px;
-
     border: 1px solid rgba(255, 255, 255, 0.4);
-
-    box-shadow:
-        0 8px 30px rgba(0,0,0,0.2),
-        inset 0 1px 0 rgba(255,255,255,0.6);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.2);
 }
 
 .close-btn {
