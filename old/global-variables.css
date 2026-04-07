@@ -1,31 +1,32 @@
-html { 
-    scroll-behavior: smooth;  
+html {
+    scroll-behavior: smooth;
 }
 
 html, body {
-  font-family: serif;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 :root {
-    --bg-color: #ffffff;
-    --text-color: #333333;
-    --link-color: #1a0dab;
-    --button-bg: #e0e0e0;
-    --button-text: #333333;
-    --transition-time: 0.3s;
+    --bg-color: #f2f2f7;
+    --text-color: #1c1c1e;
+    --link-color: #007aff;
+    --button-text: #1c1c1e;
+    --transition-time: 0.25s;
 }
 
 .dark-mode {
-    --bg-color: #1a1a1a;
-    --text-color: #f0f0f0;
-    --button-bg: #333333;
-    --button-text: #f0f0f0;
-    --link-color: #0099ff;
+    --bg-color: #000000;
+    --text-color: #f2f2f7;
+    --button-text: #f2f2f7;
+    --link-color: #0a84ff;
 }
 
-a {
-    color: var(--link-color);
-    transition: color var(--transition-time);
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color var(--transition-time), color var(--transition-time);
 }
 
 .top-controls {
@@ -43,15 +44,10 @@ a {
     flex: 1 1 calc(25% - 8px);
     min-width: 100px;
     display: flex;
-    align-items: stretch;
 }
 
 .top-controls > .top-link .button-func {
     width: 100%;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 @media (max-width: 768px) {
@@ -65,223 +61,163 @@ a {
         gap: 6px;
         padding: 0 4px;
     }
-    
+
     .top-controls > .top-link {
         flex: 1 1 100%;
-        min-width: auto;
     }
 }
 
-body {
-    background-color: var(--bg-color);
-    color: var(--text-color);
-    transition: 
-        background-color var(--transition-time),
-        color var(--transition-time);
+.button-link,
+.button-2-link,
+.button-3-link,
+.button-func,
+.sheet-btn,
+.sheet-2-btn {
+    font-size: 16px;
+    padding: 12px 16px;
+
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+
+    color: var(--button-text);
+
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 14px;
+
+    box-shadow:
+        0 1px 2px rgba(0,0,0,0.08),
+        0 6px 16px rgba(0,0,0,0.08);
+
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    width: 100%;
+    box-sizing: border-box;
+
+    text-align: left;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    transition:
+        background var(--transition-time),
+        box-shadow var(--transition-time),
+        transform 0.15s;
 }
 
-@media (prefers-color-scheme: dark) {
-    html:not(.dark-mode) {
-        --bg-color: #ffffff;
-        --text-color: #000000;
-    }
+.button-link, 
+.button-2-link, 
+.button-3-link {
+    justify-content: flex-start; 
+    text-align: left; 
 }
 
 .button-link {
-    font-size: 18px;
-    padding: 12px 16px;
-    font-family: serif;
-    background-color: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid var(--border-color, #999);
-    border-radius: 8px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    width: 100%;
-    box-sizing: border-box;
-    text-align: left;
-    margin: 8px 0;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    height: 56px;
-    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
+    margin: 2px;
 }
 
 .button-2-link {
-    font-size: 18px;
-    padding: 12px 16px;
-    font-family: serif;
-    background-color: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid var(--border-color, #999);
-    border-radius: 8px;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 12px;
     width: calc(50% - 10px);
-    box-sizing: border-box;
-    text-align: left;
-    margin: 8px 0;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    display: inline-flex;
     height: 56px;
-    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
+    margin: 2px;
 }
 
 .button-3-link {
-    font-size: 18px;
-    padding: 12px 16px;
-    font-family: serif;
-    background-color: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid var(--border-color, #999);
-    border-radius: 8px;
-    cursor: pointer;
+    width: calc(33.33333333333333% - 10px);
     display: inline-flex;
-    align-items: center;
-    gap: 12px;
-    width: calc(33.333333333333333333333333333333333333333333333333% - 10px);
-    box-sizing: border-box;
-    text-align: left;
-    margin: 8px 0;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
     height: 56px;
-    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
+    margin: 2px;
 }
 
 .button-link img {
-    width: 40px;
+    width: 32px;
     height: auto;
-    vertical-align: middle;
-    margin-right: 10px;
+    flex-shrink: 0;
 }
 
-a > .button-link,
-a > .button-func {
-    text-decoration: none;
+.button-link:hover,
+.button-2-link:hover,
+.button-3-link:hover,
+.button-func:hover,
+.sheet-btn:hover,
+.sheet-2-btn:hover {
+    background: rgba(255, 255, 255, 0.9);
+
+    box-shadow:
+        0 2px 4px rgba(0,0,0,0.1),
+        0 10px 24px rgba(0,0,0,0.12);
+
+    transform: translateY(-1px);
+}
+
+.button-link:active,
+.button-2-link:active,
+.button-3-link:active,
+.button-func:active {
+    transform: scale(0.96);
+
+    box-shadow:
+        inset 0 2px 4px rgba(0,0,0,0.15);
 }
 
 a {
+    color: var(--link-color);
     text-decoration: none;
 }
 
-
-.button-func {
-    font-size: 16px;
-    padding: 12px 16px;
-    font-family: serif;
-    background-color: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid #999;
-    border-radius: 5px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-.button-func:hover {
-    background-color: color-mix(in srgb, var(--button-bg) 85%, #000 15%);
-}
-
+/* TABLE WITH BORDER */
 table {
-    font-family: serif;
+    font-family: inherit;
     border-collapse: collapse;
     width: 100%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 12px;
+    overflow: hidden;
 }
 
 td, th {
-    border: 1px solid #696969;
+    border: 1px solid rgba(0,0,0,0.15);
     text-align: left;
-    padding: 8px;
+    padding: 10px;
 }
 
 th {
-    background-color: var(--bg-color);
-    transition: background-color var(--transition-time), color var(--transition-time);
-}
-
-.sheet-btn {
-    font-size: 18px;
-    padding: 10px 14px;
-    background-color: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid var(--border-color, #999);
-    border-radius: 8px;
-    cursor: pointer;
-    font-family: serif;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    box-sizing: border-box;
-    margin: 6px 0;
-    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
-}
-
-.sheet-btn:hover {
-    background-color: color-mix(in srgb, var(--button-bg) 85%, #000 15%);
-}
-
-.sheet-2-btn {
-    font-size: 18px;
-    padding: 10px 14px;
-    background-color: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid var(--border-color, #999);
-    border-radius: 8px;
-    cursor: pointer;
-    font-family: serif;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    vertical-align: top;
-    box-sizing: border-box;
-    margin: 5px;  
-    width: calc(50% - 10px);
-    word-break: break-word;
-    transition: background-color var(--transition-time), color var(--transition-time), border-color var(--transition-time);
-}
-
-.sheet-2-btn:hover {
-    background-color: color-mix(in srgb, var(--button-bg) 85%, #000 15%);
+    background: rgba(0,0,0,0.03);
+    font-weight: 600;
 }
 
 .popup {
     display: none;
     position: fixed;
     z-index: 999;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .popup-content {
-    background-color: white;
-    background: var(--bg-color, white);
+    background: rgba(255,255,255,0.7);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+
     position: relative;
     margin: 10% auto;
     padding: 20px;
     width: 90%;
     max-width: 500px;
-    max-height: 50vh;
+    max-height: 60vh;
     overflow-y: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+
+    border-radius: 16px;
+
+    box-shadow:
+        0 4px 20px rgba(0,0,0,0.15);
 }
 
 .close-btn {
@@ -290,7 +226,7 @@ th {
     right: 15px;
     font-size: 20px;
     cursor: pointer;
-    color: #aaa;
+    color: #888;
 }
 
 .close-btn:hover {
@@ -303,24 +239,63 @@ th {
 
 .responsive-table-wrapper {
     width: 100%;
-    overflow-x: auto;     
-    -webkit-overflow-scrolling: touch; 
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     margin-top: 20px;
 }
 
 summary {
-  cursor: pointer;
-  list-style: none;
+    cursor: pointer;
+    list-style: none;
 }
 
 summary::-webkit-details-marker {
-  display: none;
+    display: none;
 }
 
 summary h2::before {
-  content: "▸ ";
+    content: "▶ ";
 }
 
 details[open] summary h2::before {
-  content: "▾ ";
+    content: "▼ ";
+}
+
+/* DARK MODE BUTTON = MID GRAY */
+.dark-mode .button-link,
+.dark-mode .button-2-link,
+.dark-mode .button-3-link,
+.dark-mode .button-func,
+.dark-mode .sheet-btn,
+.dark-mode .sheet-2-btn {
+    background: rgba(70, 70, 70, 0.7);
+    border: 1px solid rgba(255,255,255,0.1);
+
+    box-shadow:
+        0 1px 2px rgba(0,0,0,0.6),
+        0 6px 16px rgba(0,0,0,0.6);
+}
+
+.dark-mode .button-link:hover,
+.dark-mode .button-2-link:hover,
+.dark-mode .button-3-link:hover {
+    background: rgba(90, 90, 90, 0.85);
+}
+
+.dark-mode .popup-content {
+    background: rgba(40,40,40,0.7);
+}
+
+/* DARK MODE TABLE */
+.dark-mode table {
+    border: 1px solid rgba(255,255,255,0.2);
+}
+
+.dark-mode td,
+.dark-mode th {
+    border: 1px solid rgba(255,255,255,0.15);
+}
+
+.dark-mode th {
+    background: rgba(255,255,255,0.05);
 }
