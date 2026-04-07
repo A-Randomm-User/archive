@@ -18,40 +18,25 @@
 </head>
 <body>
 <br>
-        <div class="top-controls">
-            <a class="top-link" href="../APK-save/index.html">
-                <button class="button-func">
-                    APK-save
-                </button>
-            </a>
-            <a class="top-link" href="../EXE-save/index.html">
-                <button class="button-func">
-                    EXE-save
-                </button>
-            </a>
-            <a class="top-link" href="../IPA-save/index.html">
-                <button class="button-func">
-                    IPA-save
-                </button>
-            </a>
-            <a class="top-link" href="../IPSW-save/index.html">
-                <button class="button-func">
-                    IPSW-save
-                </button>
-            </a>
-            <a class="top-link" href="../macOS-save/index.html">
-                <button class="button-func">
-                    macOS-save
-                </button>
-            </a>
+        <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
         </div>
-        <div class="top-controls">
-            <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../IPA-save/index.html">IPA-save</a>
+            <a class="sidebar-link" href="../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../macOS-save/index.html">macOS-save</a>
+
+            <br>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-                </button>
             </a>
-        </div>
+        </div> 
+    </div>
+    <script src="../sidebar.js"></script>
     <script src="../dark-mode.js"></script>
 
     <h1>Welcome to DEB save</h1>

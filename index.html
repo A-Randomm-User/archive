@@ -17,7 +17,7 @@
     </script>
 </head>
 <style>
-    table {
+table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -31,39 +31,48 @@ td, th {
 </style>
 <body>
 <br>
-        <div class="top-controls">
-            <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+<div id="sidebar" class="sidebar collapsed">
+    <div class="sidebar-header">
+        <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+    </div>
+
+    <div class="sidebar-content">
+        <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-            </button>
-            <script src="dark-mode.js"></script>
             </a>
+
+        <a class="sidebar-link" onclick="openPopup()" style="cursor: pointer;">
+            Recent Updates
+        </a>
+    </div>
+</div>
+
+<script src="dark-mode.js"></script>
+<script src="sidebar.js"></script>
+<script src="popup.js"></script>
+
+<div id="myPopup" class="popup">
+    <div class="popup-content">
+        <span class="close-btn" onclick="closePopup()">&times;</span>
+        <div style="margin-top: 30px; padding: 20px;">
+            <h3 style="text-align: center">Recent Updates</h3>
+
+            <h4>IPA-save</h4>
+            <p style="margin: 10px 0">
+                · NEW Phigros 1.0.6, 1.1.0, 1.2.0, 1.2.1, 1.2.2 <br>
+                · NEW Swamp Attack 2.4, 2.4.2, 2.4.3, 2.4.4 <br>
+                · NEW APP Pages 1.0, 1.1, 1.2 <br>
+                · NEW Minecraft 1.19.50, 1.19.51, 1.19.60, 1.19.62, 1.19.63 <br>
+                · NEW Evil Nun 1.5.0, 1.5.1, 1.5.2, 1.6.0, 1.6.1, 1.6.2
+            </p>
+
+            <h4>APK-save</h4>
+            <p style="margin: 10px 0">
+                · NEW 植物大战僵尸2 官网渠道 4.0.7
+            </p>
         </div>
-        <div class="top-controls">
-            <div class="top-link">
-            <script src="popup.js"></script>
-            <button class="button-func" onclick="openPopup()">Recent Updates</button>
-            <div id="myPopup" class="popup">
-                <div class="popup-content">
-                <span class="close-btn" onclick="closePopup()">&times;</span>
-                    <div style="margin-top: 30px; padding: 20px;">
-                    <h3 style="text-align: center">Recent Updates</h3>
-                    <h4>IPA-save</h4>
-                    <p style="margin: 10px 0">
-                        · NEW Phigros 1.0.6, 1.1.0, 1.2.0, 1.2.1, 1.2.2 <br>
-                        · NEW Swamp Attack 2.4, 2.4.2, 2.4.3, 2.4.4 <br>
-                        · NEW APP Pages 1.0, 1.1, 1.2 <br>
-                        · NEW Minecraft 1.19.50, 1.19.51, 1.19.60, 1.19.62, 1.19.63 <br>
-                        · NEW Evil Nun 1.5.0, 1.5.1, 1.5.2, 1.6.0, 1.6.1, 1.6.2
-                    </p>
-                    <h3>APK-save</h3>
-                    <p style="margin: 10px 0">
-                        · NEW 植物大战僵尸2 官网渠道 4.0.7
-                    </p>
-                    </div>
-            </div>
-            </div>
-        </div>
+    </div>
+</div>
 
         <div class="top-controls">
             <a class="top-link" href="./APK-save/index.html">

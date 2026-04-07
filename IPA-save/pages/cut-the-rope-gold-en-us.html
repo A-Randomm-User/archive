@@ -17,14 +17,28 @@
     </script>
 </head>
 <body>
-    <div class="top-controls">
-      <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
-      <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-                </button>
             </a>
+        </div> 
     </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+    <br>
     <div class="responsive-table-wrapper">
     <h2>About this Application</h2>
   <table>
@@ -51,8 +65,6 @@
   </table>
   </div>
   <br>
-  
-    <script src="../../dark-mode.js"></script>
     <div id="buttonContainer"></div>
     <div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
