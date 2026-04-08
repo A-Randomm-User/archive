@@ -151,6 +151,30 @@
   "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=144&title=PvZ 2",
   "Terabox": "https://1024terabox.com/s/1fl9Oz8baxLraddTrTGNGiQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gWvTMzgCHPCCNcUuHPdomw?pwd=1234"
+ },
+ {
+  "Version": "151 / 4.5.1",
+  "IPA ID": 816360394,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=151&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1lVo0RR1t6FQlAvPWlcCsaQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YTNXJZcJFkzcIiykhPpNfA?pwd=1234"
+ },
+ {
+  "Version": "158 / 4.6.2",
+  "IPA ID": 816716422,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=158&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1eAY2hjtYrp2Daj-Zz7ksrA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1p8mZnZVrwZuFPdewc7ZRUA?pwd=1234"
+ },
+ {
+  "Version": "164 / 4.7.1",
+  "IPA ID": 816989174,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7_PvZ.2.164.ipa&bundle=com.popcap.ios.PvZ2&version=164&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1EmSTj_wrpQ__uDKEWO5Ilg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15tevEOL3wTzTBOgr1tEGHw?pwd=1234"
  }
 ],
 "ARMv7 ARM64 Combination":[
@@ -249,6 +273,30 @@
   "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7arm64_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=144&title=PvZ 2",
   "Terabox": "https://1024terabox.com/s/1XhYfJQ3-9QjNWKmX31p-SQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1vtHWDhOIIjIgzWqss8_Q8g?pwd=1234"
+ },
+ {
+  "Version": "151 / 4.5.1",
+  "IPA ID": 816360394,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7arm64_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=151&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1cDgz8o7By-8_h63VJxUWqQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1f9A0jYB6pxzBcgDoRKxtVQ?pwd=1234"
+ },
+ {
+  "Version": "158 / 4.6.2",
+  "IPA ID": 816716422,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7arm64_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=158&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/16JzvGe02KiBdHKLy_0ZpoA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1P87SbqxruqX_sXK0tI5c2g?pwd=1234"
+ },
+ {
+  "Version": "164 / 4.7.1",
+  "IPA ID": 816989174,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/armv7arm64_PvZ.2.164.ipa&bundle=com.popcap.ios.PvZ2&version=164&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1TqH9G08mLupThwsE0ldpbA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1odWMEchKbaF_jLYJwDGEtg?pwd=1234"
  }
 ],
 "ARM64":[
@@ -347,6 +395,30 @@
   "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/arm64_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=144&title=PvZ 2",
   "Terabox": "https://1024terabox.com/s/10e9rR6J4u5ZWnO7BUIz2Bg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OR1hOihkoqk2Ys1PVraLmw?pwd=1234"
+ },
+ {
+  "Version": "151 / 4.5.1",
+  "IPA ID": 816360394,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/arm64_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=151&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1AswdKSYC08x17qrzZwsJMw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kUM2XgxL-Hci4TkXefv8yg?pwd=1234"
+ },
+ {
+  "Version": "158 / 4.6.2",
+  "IPA ID": 816716422,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/arm64_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=158&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/116tEqrFf_f-JlmV3wZIzSg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13bKVx092D0pRr6JQ7o0usA?pwd=1234"
+ },
+ {
+  "Version": "164 / 4.7.1",
+  "IPA ID": 816989174,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/arm64_PvZ.2.164.ipa&bundle=com.popcap.ios.PvZ2&version=164&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1Xgnrox5BCh1wQ1-KDQU4BQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13PwbhuhORW0AB5i7KquWnQ?pwd=1234"
  }
 ],
 "Official":[
@@ -493,6 +565,30 @@
   "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/Official_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=144&title=PvZ 2",
   "Terabox": "https://1024terabox.com/s/1OIWu4BPuHSRN4UtvWDk_vA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rNxUQgsupv8ojEKIZZqm1g?pwd=1234"
+ },
+ {
+  "Version": "151 / 4.5.1",
+  "IPA ID": 816360394,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/Official_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=151&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1kuiYAP20BdBcX7vtAZN_sw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1s3f0TbM_oUe9d4AiKLWd4g?pwd=1234"
+ },
+ {
+  "Version": "158 / 4.6.2",
+  "IPA ID": 816716422,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/Official_PvZ.2.144.ipa&bundle=com.popcap.ios.PvZ2&version=158&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1om7GyFAzpCv2t87OaD_DvA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/17S--hIrGuWsOuxAjjiPdJg?pwd=1234"
+ },
+ {
+  "Version": "164 / 4.7.1",
+  "IPA ID": 816989174,
+  "iOS Support": "iOS 6.0+",
+  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZ2/Official_PvZ.2.164.ipa&bundle=com.popcap.ios.PvZ2&version=164&title=PvZ 2",
+  "Terabox": "https://1024terabox.com/s/1-ZcaDFuKZ4X2jEG6R81Rag",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1DKuXfL6oULkxvvN9sdwuYg?pwd=1234"
  }
 ]
 }
