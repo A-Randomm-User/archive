@@ -1,0 +1,22 @@
+{
+"ARM64":[
+ {
+  "Version": "28.0.21",
+  "IPA ID": 882842387,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/arm64/PE/28.0.21.plist",
+  "Terabox": "https://1024terabox.com/s/1Mwu3eJyDDsQpjAntc1TbUg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1-vLrdiwClYnj6xIqmlfy5g"
+ }
+],
+"Official":[
+ {
+  "Version": "28.0.21",
+  "IPA ID": 882842387,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/off/PE/28.0.21.plist",
+  "Terabox": "https://1024terabox.com/s/1PGFHNeJtghTiX5OWZY6kTw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1P5v_6CHxS0e6iiBZI-2mlg"
+ }
+]
+}

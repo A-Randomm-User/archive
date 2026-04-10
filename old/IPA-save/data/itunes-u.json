@@ -4,7 +4,7 @@
   "Version": "3.8.3",
   "IPA ID": 593732652,
   "iOS Support": "iOS 13.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/iTunes-U/iTunesU.3.8.3.ipa&bundle=com.apple.itunesu&version=3.8.3&title=iTunes U",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/iTunesU-490217893/arm64/3.8.3.plist",
   "Terabox": "https://1024terabox.com/s/11w0qBJuLETxfGk-1jRGLeA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gBuVlVU9BBOBkKB6jSXwSw?pwd=1234"
  }

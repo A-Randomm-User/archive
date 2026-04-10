@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minecraft</title>
+    <title>Zombie Diary</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/minecraftpe.png" type="image/png" />
+    <link rel="icon" href="../images/zombiediary.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -17,7 +17,7 @@
     </script>
 </head>
 <body>
-  <br>
+    <br>
     <div class="top-controls">
       <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
       <a class="top-link" href="javascript:void(0)">
@@ -31,32 +31,27 @@
   <table>
     <tr>
       <td>Application Name</td>
-      <td>Minecraft</td>
+      <td>Plants vs. Zombies™ 3: Evolved</td>
     </tr>
     <tr>
-      <td>Seller</td>
-      <td>Mojang AB</td>
+      <td>Provider</td>
+      <td>EA Swiss Sarl</td>
     </tr>
     <tr>
       <td>Bundle Identifier</td>
-      <td>com.mojang.minecraftpe</td>
+      <td>com.ea.ios.pvzn3xt</td>
     </tr>
     <tr>
       <td>App Store</td>
-      <td><a href="https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143">https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143</a></td>
+      <td><a href="https://apps.apple.com/ie/app/plants-vs-zombies-3-evolved/id1666636976">https://apps.apple.com/ie/app/plants-vs-zombies-3-evolved/id1666636976</a></td>
     </tr>
     <tr>
       <td>Developer Website</td>
-      <td>Not Provided</td>
+      <td><a href="https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-3">https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-3</a></td>
     </tr>
   </table>
   </div>
   <br>
-  <p>Quick Links: <a href="#1.0.0">1.0.0</a>; <a href="#1.1.0">1.1.0</a>; <a href="#1.2.0">1.2.0</a>; <a href="#1.4.0">1.4.0</a>; <a href="#1.5.0">1.5.0</a>; <a href="#1.6.0">1.6.0</a>;
-     <a href="#1.8.0">1.8.0</a>; <a href="#1.11.0">1.11.0</a>; <a href="#1.12.0">1.12.0</a>; <a href="#1.13.0">1.13.0</a>; <a href="#1.14.0">1.14.0</a>; <a href="#1.16.0">1.16.0</a>;
-     <a href="#1.17.0">1.17.0</a>; <a href="#1.18.0">1.18.0</a>; <a href="#1.19.0">1.19.0</a>; <a href="#1.20.0">1.20.0</a></p>
-
-    <script src="../../dark-mode.js"></script>
     <div id="buttonContainer"></div>
     <div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
@@ -64,7 +59,7 @@
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../data/minecraft.json', true);
+  xhr.open('GET', '../data/pvz3.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
