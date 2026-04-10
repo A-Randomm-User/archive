@@ -4,7 +4,7 @@
   "Version": "1.0",
   "IPA ID": 2435473,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Pages/armv7_Pages.1.0.ipa&bundle=com.apple.Pages&version=1.0&title=Pages",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Pages-361309726/armv7/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1s4VRU45J7_wakHoHICCEXw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1B0-FE2xAcFEf_JLgpmZqXw?pwd=1234"
  },
@@ -12,7 +12,7 @@
   "Version": "1.1",
   "IPA ID": 2623814,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Pages/armv7_Pages.1.1.ipa&bundle=com.apple.Pages&version=1.1&title=Pages",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Pages-361309726/armv7/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1LEuz-R1ELb40uS5omUuJcA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1a9LjS0bx1Y8RWwValAdPHw?pwd=1234"
  },
@@ -20,7 +20,7 @@
   "Version": "1.2",
   "IPA ID": 3011172,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Pages/armv7_Pages.1.2.ipa&bundle=com.apple.Pages&version=1.2&title=Pages",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Pages-361309726/armv7/1.2.plist",
   "Terabox": "https://1024terabox.com/s/1Soa4UZL21RnLFNsCuV9XhQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rEm0zLgM5--BqghiVxdztg?pwd=1234"
  }
@@ -30,7 +30,7 @@
   "Version": "1.0",
   "IPA ID": 2435473,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Pages/Official_Pages.1.0.ipa&bundle=com.apple.Pages&version=1.0&title=Pages",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Pages-361309726/off/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1NY7U8P6p-aChv1gjauk7JQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1d2kVH_BJpp8d8lkXDjQg5g?pwd=1234"
  },
@@ -38,7 +38,7 @@
   "Version": "1.1",
   "IPA ID": 2623814,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Pages/Official_Pages.1.1.ipa&bundle=com.apple.Pages&version=1.1&title=Pages",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Pages-361309726/off/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1qsOj8lRSTR5_CDPznaF2NQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1NQVNijdjXCgLnsnnNsKJTw?pwd=1234"
  },
@@ -46,7 +46,7 @@
   "Version": "1.2",
   "IPA ID": 3011172,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Pages/Official_Pages.1.2.ipa&bundle=com.apple.Pages&version=1.2&title=Pages",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Pages-361309726/off/1.2.plist",
   "Terabox": "https://1024terabox.com/s/1MbeX6_tALX-r9Koaz4enkg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1X80_SMCNaWzX6MMxb8QeWw?pwd=1234"
  }
