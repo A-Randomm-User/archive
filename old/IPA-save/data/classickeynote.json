@@ -4,288 +4,289 @@
   "Version": "1.0",
   "IPA ID": 2435471,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.0.ipa&bundle=com.apple.Keynote&version=1.0&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1chbweZEDuAtrbCoKC_INqw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ujun2ju3W10wFDwGoBlVmQ?pwd=1234"
  },{
   "Version": "1.1",
   "IPA ID": 2623813,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.1.ipa&bundle=com.apple.Keynote&version=1.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1H80TIqo7sEqq9786JY7PpA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ujun2ju3W10wFDwGoBlVmQ?pwd=1234"
  },{
   "Version": "1.2",
   "IPA ID": 3157840,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.2.ipa&bundle=com.apple.Keynote&version=1.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.2.plist",
   "Terabox": "https://1024terabox.com/s/1AIDIKAbprrKjICoWVyt2EA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ujun2ju3W10wFDwGoBlVmQ?pwd=1234"
  },{
   "Version": "1.3",
   "IPA ID": 2623813,
   "iOS Support": "iOS 4.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.3.ipa&bundle=com.apple.Keynote&version=1.3&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.3.plist",
   "Terabox": "https://1024terabox.com/s/1waxyA6NVRucAmkxG5qlDUQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XfpA31ecnGe9zMBANFLLNg?pwd=1234"
  },{
   "Version": "1.3.1",
   "IPA ID": 3335139,
   "iOS Support": "iOS 4.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.3.1.ipa&bundle=com.apple.Keynote&version=1.3.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.3.1.plist",
   "Terabox": "https://1024terabox.com/s/1tyooeY_qEwL3CK9A1zv59A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1JxybeOg2w26p-aO6SykD8Q?pwd=1234"
  },{
   "Version": "1.3.2",
   "IPA ID": 3464340,
   "iOS Support": "iOS 4.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.3.2.ipa&bundle=com.apple.Keynote&version=1.3.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.3.2.plist",
   "Terabox": "https://1024terabox.com/s/1mxcui4h99y8RnYh97pzldQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1F60BOtJSxMF6c5qJjBxlfA?pwd=1234"
  },{
   "Version": "1.4",
   "IPA ID": 3762445,
   "iOS Support": "iOS 4.2.8+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.4.ipa&bundle=com.apple.Keynote&version=1.4&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.4.plist",
   "Terabox": "https://1024terabox.com/s/1mPaRUPJ0ZHf0zhIfRvkCPQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/168JpftbHCK86Kndm63t8bA?pwd=1234"
  },{
   "Version": "1.5",
   "IPA ID": 4357398,
   "iOS Support": "iOS 5.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.5.ipa&bundle=com.apple.Keynote&version=1.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.5.plist",
   "Terabox": "https://1024terabox.com/s/1mPaRUPJ0ZHf0zhIfRvkCPQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/168JpftbHCK86Kndm63t8bA?pwd=1234"
  },{
   "Version": "1.6",
   "IPA ID": 6831163,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.6.ipa&bundle=com.apple.Keynote&version=1.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.6.plist",
   "Terabox": "https://1024terabox.com/s/1GzKz96STnEmkiNhZOGO9Lw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fVRZb5lllisDl-EPa1yn0w?pwd=1234"
  },{
   "Version": "1.6.1",
   "IPA ID": 9505602,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.6.1.ipa&bundle=com.apple.Keynote&version=1.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.6.1.plist",
   "Terabox": "https://1024terabox.com/s/1GzKz96STnEmkiNhZOGO9Lw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1GoVSk14Z8VW_nf_qD6kXkQ?pwd=1234"
  },{
   "Version": "1.6.2",
   "IPA ID": 10690849,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.6.2.ipa&bundle=com.apple.Keynote&version=1.6.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.6.2.plist",
   "Terabox": "https://1024terabox.com/s/1GzKz96STnEmkiNhZOGO9Lw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rwrMRP0aFS4Q6-m9n_f39A?pwd=1234"
  },{
   "Version": "1.7",
   "IPA ID": 11982512,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.7.ipa&bundle=com.apple.Keynote&version=1.7&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.7.plist",
   "Terabox": "https://1024terabox.com/s/12NPu3A4vW2tjZ3OuMGfmag",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FitrqrkVdgsS0arfLZU2aQ?pwd=1234"
  },{
   "Version": "1.7.1",
   "IPA ID": 12875109,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.7.1.ipa&bundle=com.apple.Keynote&version=1.7.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.7.1.plist",
   "Terabox": "https://1024terabox.com/s/1kvDc55BOh8Pra6FhQyTc8Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1vfRg7R-VVOAh3VMezZg3Rw"
  },{
   "Version": "1.7.2",
   "IPA ID": 14498877,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.1.7.2.ipa&bundle=com.apple.Keynote&version=1.7.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/1.x/1.7.2.plist",
   "Terabox": "https://1024terabox.com/s/1DhvjZeL5-kvDY9qpNOvfWw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Y1lHEG432oUKx4Yg6mS4kw?pwd=1234"
  },{
   "Version": "<b id=\"2.0\">2.0</b>",
   "IPA ID": 82284430,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.0.ipa&bundle=com.apple.Keynote&version=2.0&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.0.plist",
   "Terabox": "https://1024terabox.com/s/1hDvrlYjnih6pltQnS9RDxQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1efOD0FDsu7qQt8g5VpHFqQ?pwd=1234"
  },{
   "Version": "2.0.1",
   "IPA ID": 151482634,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.0.1.ipa&bundle=com.apple.Keynote&version=2.0.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1BQiSsDb5l8F75x_C8-YiXg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1M0jC7GxjeQBt8j-rwESV1A?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 289042882,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.1.289042882.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.1-289042882.plist",
   "Terabox": "https://1024terabox.com/s/1Yq4EJXX3ODgfGltZr3tSKg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FgY_k0EROAED912VMHf89A"
  },{
   "Version": "2.1",
   "IPA ID": 331242695,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.1.331242695.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.1-331242695.plist",
   "Terabox": "https://1024terabox.com/s/1IDrvzSFhYvKIEFwYc4DIlQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rQuX5QWxOmTEzP-IdnnxPA"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 458872635,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.2.458872635.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.2-458872635.plist",
   "Terabox": "https://1024terabox.com/s/1IJY5G-7mry5BXVYhdeu4vA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1l3fprIgV8ZlQQfDPmKhDuw"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 503642632,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.2.503642632.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.2-503642632.plist",
   "Terabox": "https://1024terabox.com/s/1SpEkFxp9qyUW2lOM4fWc3g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1IqhifETtV9PMQWn9MPpizA?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.1",
   "IPA ID": 556294749,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.2.1.ipa&bundle=com.apple.Keynote&version=2.2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.2.1.plist",
   "Terabox": "https://1024terabox.com/s/1ynJ2oFD7UMAJXnwBEaMJ-w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1i8UsLfzptU24BR4QcsDjTw?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.2",
   "IPA ID": 662933453,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.2.2.ipa&bundle=com.apple.Keynote&version=2.2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.2.2.plist",
   "Terabox": "https://1024terabox.com/s/1vLcq8QP05roMgVjkpgBQaA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wPblsy9_n7BmW2evwJMJLQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.4.2",
   "IPA ID": 690962660,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.4.2.ipa&bundle=com.apple.Keynote&version=2.4.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.4.2.plist",
   "Terabox": "https://1024terabox.com/s/1C2ovvEG3q4RJrwHCxvQJgw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Dctub4dT6L3xSqqbVgRQIg?pwd=1234"
- },
- {
+ },{
   "Version": "2.5",
   "IPA ID": 715332671,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.5.ipa&bundle=com.apple.Keynote&version=2.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.5.plist",
   "Terabox": "https://1024terabox.com/s/1TG75Q-HzDb0DbmUA_fjuzw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1MRspZ2d1KJOV253aY1f8yw?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.1",
   "IPA ID": 763753088,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.5.1.ipa&bundle=com.apple.Keynote&version=2.5.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.5.1.plist",
   "Terabox": "https://1024terabox.com/s/1IETNPdLFYKXYjE3Cvm6gMQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Q-tlqmbLYBssFnlyy9tUTw?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.2",
   "IPA ID": 811381680,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.5.2.ipa&bundle=com.apple.Keynote&version=2.5.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.5.2.plist",
   "Terabox": "https://1024terabox.com/s/1S-ePV0Qmr_22ecc-q-Yo0g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eqZw3pGi186IhrMdg7M1hQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.3",
   "IPA ID": 812007750,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.5.3.ipa&bundle=com.apple.Keynote&version=2.5.3&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.5.3.plist",
   "Terabox": "https://1024terabox.com/s/1nQ8RKvtqlJ7NxOC88gmVYw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1z-zJfZvcASCfnj41mTSObA?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.4",
   "IPA ID": 812403265,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.5.4.ipa&bundle=com.apple.Keynote&version=2.5.4&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.5.4.plist",
   "Terabox": "https://1024terabox.com/s/1cPShFvdEAMiQBFCQT3haEQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KLyjw1DRBIfw7_ZjMKmv6A?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.5",
   "IPA ID": 813292421,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.5.5.ipa&bundle=com.apple.Keynote&version=2.5.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.5.5.plist",
   "Terabox": "https://1024terabox.com/s/1mN3sXYcir29mplfJcCRvQQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/168kkrp5fwoGZh7kCbNtSCA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813450575,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.813450575.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6-813450575.plist",
   "Terabox": "https://1024terabox.com/s/1R_lWkXF9ggagmWiYmH8HMw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11js5oey8ZhxmD1fPgjPgmA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813609008,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.813609008.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6-813609008.plist",
   "Terabox": "https://1024terabox.com/s/1du9V4lnMQaAFo8upXysm6A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Hps01galdjsgTmJ0SWK25w?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813614014,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.813614014.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6-813614014.plist",
   "Terabox": "https://1024terabox.com/s/1CddMNWw4B_AvO_udmPfWhg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10AqhPVFexYOje-D0MDr3MQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813631073,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.813631073.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6-813631073.plist",
   "Terabox": "https://1024terabox.com/s/1XLpu8gOaKEkVQkgV6Sjdvg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Wn93DM7K43uPAdOrvyH3Jg?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813636019,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.813636019.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6-813636019.plist",
   "Terabox": "https://1024terabox.com/s/1NekFvRJ7pMmHxYPDUZ0FrQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/117ozySBdMfn32OiN-tEkLw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813639755,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.813639755.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6-813639755.plist",
   "Terabox": "https://1024terabox.com/s/1upR8_j0O8ZM-bAvkcNjkvA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wpWS1TpVXO5PG6rEOcMeWw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
-  "IPA ID": 814208560,
+  "IPA ID": 814208560, 
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.1.814208560.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6.1-814208560.plist",
   "Terabox": "https://1024terabox.com/s/16NescsJnfXtH-dkUzqa-Vw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1sOfj5aZtYm40DQlTl7dWaw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814279923,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.1.814279923.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6.1-814279923.plist",
   "Terabox": "https://1024terabox.com/s/1L0ZvXvcmCtJD5pKqtZz3rA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1WRfi84tjJHPFvtOzUOIEsQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814286757,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7_Keynote.2.6.1.814286757.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6.1-814286757.plist",
   "Terabox": "https://1024terabox.com/s/12iZdrMn5Vkefj_GirYIA0g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1BEWAOXp3h-_BAvVc6QnF3g?pwd=1234"
+ },{
+  "Version": "2.6.2",
+  "IPA ID": 816483137,
+  "iOS Support": "iOS 8.4+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/2.x/2.6.2.plist",
+  "Terabox": "https://1024terabox.com/s/1ZgpJkyrAqqKllk6rINt75A",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kijZIkmsh4fWDEof_bj9vg?pwd=1234"
+ },{
+  "Version": "<b id=\"3.0\">3.0</b>",
+  "IPA ID": 817525020,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/3.x/3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1DXHIrhb6e5YXnm8bBHzK8w",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1AJ_Bk2Lyci-sOmHpKI--9Q?pwd=1234"
+ },{
+  "Version": "3.0.5",
+  "IPA ID": 818910391,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7/3.x/3.0.5.plist",
+  "Terabox": "https://1024terabox.com/s/13XaJCXjnmSjHd8OlSgLcrA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1NSONa4-Yiq_A8kZU1AH6dA?pwd=1234"
  }
 ],
 "ARMv7 ARM64 Combination":[
@@ -293,190 +294,191 @@
   "Version": "<b id=\"2.0\">2.0</b>",
   "IPA ID": 82284430,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.0.ipa&bundle=com.apple.Keynote&version=2.0&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.0.plist",
   "Terabox": "https://1024terabox.com/s/1s1tzbM9jj96Zrj8p_eCi6g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14LYj16YKH7e09aWrGROM4w?pwd=1234"
  },{
   "Version": "2.0.1",
   "IPA ID": 151482634,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.0.1.ipa&bundle=com.apple.Keynote&version=2.0.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1NtMRQfAf_fVA6fHDXeKCWQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11HG-AHsDb9otVqqP-xyRag?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 289042882,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.1.289042882.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.1-289042882.plist",
   "Terabox": "https://1024terabox.com/s/15244sBoThUs62VCDoa2lvQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KF4C7dE1Pw0Td-E6cPwZLg?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 331242695,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.1.331242695.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.1-331242695.plist",
   "Terabox": "https://1024terabox.com/s/15r5IVMG5eX7LNcsfER4htw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QmVc9hkiu3PlN_a0VViWtA"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 458872635,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.2.458872635.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.2-458872635.plist",
   "Terabox": "https://1024terabox.com/s/1UoIEpDrBeMjZD8e1drIyOA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1DptA2ncKMf8h4yDTXdRBUg?pwd=1234"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 503642632,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.2.503642632.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.2-503642632.plist",
   "Terabox": "https://1024terabox.com/s/1JrIZYcS4tgmlilP8ew3lAw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1yg8ypmnOs3rJw_73qiIKAw"
- },
- {
+ },{
   "Version": "2.2.1",
   "IPA ID": 556294749,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.2.1.ipa&bundle=com.apple.Keynote&version=2.2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.2.1.plist",
   "Terabox": "https://1024terabox.com/s/17MFM6bqvZikWELTE98maDw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1h_w2Zgh_mqPKMM4smfrHwg?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.2",
   "IPA ID": 662933453,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.2.2.ipa&bundle=com.apple.Keynote&version=2.2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.2.2.plist",
   "Terabox": "https://1024terabox.com/s/1soIx9sPiEWJjD9AjfVh9TA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1O_ug63rg3QG9V83TosOBiw?pwd=1234"
- },
- {
+ },{
   "Version": "2.4.2",
   "IPA ID": 690962660,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.4.2.ipa&bundle=com.apple.Keynote&version=2.4.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.4.2.plist",
   "Terabox": "https://1024terabox.com/s/1j35F261aKoIETsKXDA1SLg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1auzFAAVd0l-4GVNhLgS-ug?pwd=1234"
- },
- {
+ },{
   "Version": "2.5",
   "IPA ID": 715332671,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.5.ipa&bundle=com.apple.Keynote&version=2.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.5.plist",
   "Terabox": "https://1024terabox.com/s/1UxZLaH7dh1430efASKtBxQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wPZBGAU6G0CLwv-1Hd6L0g?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.1",
   "IPA ID": 763753088,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.5.1.ipa&bundle=com.apple.Keynote&version=2.5.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.5.1.plist",
   "Terabox": "https://1024terabox.com/s/1KH1goUJkobr1f4fZDRniFg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tDEtaIEXPBtEWITr2XLbEw?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.2",
   "IPA ID": 811381680,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.5.2.ipa&bundle=com.apple.Keynote&version=2.5.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.5.2.plist",
   "Terabox": "https://1024terabox.com/s/15O0wTCAv1VhZ70b5mHyg_A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1N-IsG2jF8qZMY-mPyNfzkg?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.3",
   "IPA ID": 812007750,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.5.3.ipa&bundle=com.apple.Keynote&version=2.5.3&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.5.3.plist",
   "Terabox": "https://1024terabox.com/s/1QJmT8FXH0hu27gtxHC5EaA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XGXECacrvRpAKORE_R2kZQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.4",
   "IPA ID": 812403265,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.5.4.ipa&bundle=com.apple.Keynote&version=2.5.4&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.5.4.plist",
   "Terabox": "https://1024terabox.com/s/177Tio14YmHu3NPLxQ80IGA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/190i8DfPFqaksLxAUv8kCkQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.5",
   "IPA ID": 813292421,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.5.5.ipa&bundle=com.apple.Keynote&version=2.5.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.5.5.plist",
   "Terabox": "https://1024terabox.com/s/1HEGAlkuMDosWDvUxmVpHCQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fKG4aDk8hSV2dg_tXdqvyA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813450575,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.813450575.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6-813450575.plist",
   "Terabox": "https://1024terabox.com/s/1ZQQWyofI3ANDv1aqboPNQQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1JwReW9hjGBCNJTPKSyEhjw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813609008,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.813609008.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6-813609008.plist",
   "Terabox": "https://1024terabox.com/s/1uyN82aoIAWVZEDa2p5RQQw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KDnQYvTJmGACU4tBP4DfXg?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813614014,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.813614014.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6-813614014.plist",
   "Terabox": "https://1024terabox.com/s/1r8dKeX5h4WEgMqWT8mX2gg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1a3UCTVdXMFqZb_LK4ZIUbA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813631073,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.813631073.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6-813631073.plist",
   "Terabox": "https://1024terabox.com/s/1Gi2BR_b5rnqtSGMtbEydQg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_fOPNlHo5idIE6Kl1D0avQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813636019,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.813636019.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6-813636019.plist",
   "Terabox": "https://1024terabox.com/s/1lQbQnaTkQR-Mu44ok08zAQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nV5Rq_MLn_6DA2I7stFU7w?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813639755,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.813639755.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6-813639755.plist",
   "Terabox": "https://1024terabox.com/s/10JFWUSKtRdrJHuypiOI7LQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YsKPd8ueF5P3_bkzm39s_A?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814208560,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.1.814208560.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6.1-814208560.plist",
   "Terabox": "https://1024terabox.com/s/1pN5AIcHwjKesQxNNgQHGFQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rvUYP72W-71opL5rgrUKfA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814279923,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.1.814279923.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6.1-814279923.plist",
   "Terabox": "https://1024terabox.com/s/1Y6XnRd_T7E7gm766C-Heng",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YHDWvIMGqCaLsIuf_3QzlA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814286757,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/armv7arm64_Keynote.2.6.1.814286757.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6.1-814286757.plist",
   "Terabox": "https://1024terabox.com/s/1iV8vIzG6HMS-Kh5QQJpGYQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Lm1qD3VQor7U2drUS11SAw?pwd=1234"
+ },{
+  "Version": "2.6.2",
+  "IPA ID": 816483137,
+  "iOS Support": "iOS 8.4+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/2.x/2.6.2.plist",
+  "Terabox": "https://1024terabox.com/s/1ZwGq1BFpEQ12aAu4sr-muw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aJU_Qph7i3-aGDCYQqKkFA?pwd=1234"
+ },{
+  "Version": "<b id=\"3.0\">3.0</b>",
+  "IPA ID": 817525020,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/3.x/3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1qfeJo0JmbxrjvrjZzBxdEA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U20ENiXzb2XmqSbWZpJS8A"
+ },{
+  "Version": "3.0.5",
+  "IPA ID": 818910391,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/armv7arm64/3.x/3.0.5.plist",
+  "Terabox": "https://1024terabox.com/s/1HKOmAmwbwfdSr-41cPd5Iw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1PAign7eexiCZF9dIyatx9A?pwd=1234"
  }
 ],
 "ARM64":[
@@ -484,190 +486,191 @@
   "Version": "<b id=\"2.0\">2.0</b>",
   "IPA ID": 82284430,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.0.ipa&bundle=com.apple.Keynote&version=2.0&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.0.plist",
   "Terabox": "https://1024terabox.com/s/1uWOwYzjn1QS1v4KlgvzgIA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15_gUM2yI2ENWmG_PXi7JWw"
  },{
   "Version": "2.0.1",
   "IPA ID": 151482634,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.0.1.ipa&bundle=com.apple.Keynote&version=2.0.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1lGVx8m2LGiH8Hrm5_C6wUw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/114-x8BuUk_AU_LKygJcUPg?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 289042882,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.1.289042882.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.1-289042882.plist",
   "Terabox": "https://1024terabox.com/s/19mnI9-_5YISsrZlzjQZ-Aw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ofTmG6FwhDSjoyA1YCF_cg?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 331242695,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.1.331242695.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.1-331242695.plist",
   "Terabox": "https://1024terabox.com/s/1ozlDl7QAYtGzVPqNsYl-ew",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uqAQ-SpZ3rR0uKyCvCOdUA?pwd=1234"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 458872635,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.2.458872635.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.2-458872635.plist",
   "Terabox": "https://1024terabox.com/s/1aMsmmxVg5Prjt1XwvHv0cA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qJIzKPqoTftIRIpqXUBrUg?pwd=1234"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 503642632,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.2.503642632.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.2-503642632.plist",
   "Terabox": "https://1024terabox.com/s/195OWeEKfczw0lJ0fkbDe6g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LEFCYjpYs3ysMvWyd1-dvw?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.1",
   "IPA ID": 556294749,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.2.1.ipa&bundle=com.apple.Keynote&version=2.2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.2.1.plist",
   "Terabox": "https://1024terabox.com/s/17mpMR107Tj8oUlsMNRKRFQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19LfG0DX85BBKnteq6yCutA?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.2",
   "IPA ID": 662933453,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.2.2.ipa&bundle=com.apple.Keynote&version=2.2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.2.2.plist",
   "Terabox": "https://1024terabox.com/s/17kSE8HNLPpa3o2mAHcCgZQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SNAOz_CZ9AAH3qoZ8scN8A?pwd=1234"
- },
- {
+ },{
   "Version": "2.4.2",
   "IPA ID": 690962660,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.4.2.ipa&bundle=com.apple.Keynote&version=2.4.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.4.2.plist",
   "Terabox": "https://1024terabox.com/s/1qQtVNABwMWRf1Tn2y4pjyg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1S7kaC9SVFsPrVIfdiPSpJw?pwd=1234"
- },
- {
+ },{
   "Version": "2.5",
   "IPA ID": 715332671,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.5.ipa&bundle=com.apple.Keynote&version=2.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.5.plist",
   "Terabox": "https://1024terabox.com/s/1OyuWl-0fqhX8o7USL4axgQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18BF9Gtyu6TubISLHaDI1CA?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.1",
   "IPA ID": 763753088,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.5.1.ipa&bundle=com.apple.Keynote&version=2.5.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.5.1.plist",
   "Terabox": "https://1024terabox.com/s/16bikLLNEZ6ZMV_Rc045KrQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_GzKUHYMB3OUb0CaWWZzxw?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.2",
   "IPA ID": 811381680,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.5.2.ipa&bundle=com.apple.Keynote&version=2.5.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.5.2.plist",
   "Terabox": "https://1024terabox.com/s/1uImu4GXa6ZW8oCK0ovbbWA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1g2gSwpXCPstLn47-uGV38Q?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.3",
   "IPA ID": 812007750,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.5.3.ipa&bundle=com.apple.Keynote&version=2.5.3&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.5.3.plist",
   "Terabox": "https://1024terabox.com/s/18PFlCEx8Ez6vwDT_3shl4Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pEBVIjedhNQGrmlKYESdLg"
- },
- {
+ },{
   "Version": "2.5.4",
   "IPA ID": 812403265,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.5.4.ipa&bundle=com.apple.Keynote&version=2.5.4&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.5.4.plist",
   "Terabox": "https://1024terabox.com/s/1SUPQxekIMRIDRf95JnzKSA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Gfo46xY81L5VnDO5H7_PAQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.5",
   "IPA ID": 813292421,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.5.5.ipa&bundle=com.apple.Keynote&version=2.5.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.5.5.plist",
   "Terabox": "https://1024terabox.com/s/1Y4tpGaT8r74Y1nJuoXGclg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZXEnoPh6j0Uf39v3gDzJVw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813450575,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.813450575.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6-813450575.plist",
   "Terabox": "https://1024terabox.com/s/1iYKvJenr8NlWYz7FOeOIGw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1vzyTA3zJjnlR0ZXKlXYGHQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813609008,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.813609008.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6-813609008.plist",
   "Terabox": "https://1024terabox.com/s/1WKQ4tnK5zzcb6I6G5Q1BsQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qmZb0Bv2_uGyQNKfi-vrbw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813614014,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.813614014.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6-813614014.plist",
   "Terabox": "https://1024terabox.com/s/1w-yHThv98nN69adKGcXslg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1whI_08eE-LWCjX1AZc113Q?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813631073,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.813631073.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6-813631073.plist",
   "Terabox": "https://1024terabox.com/s/1_TNOhtAYRWk03Q0wUg00Gw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Wudt957UIhB1DwO7Ff8zDA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813636019,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.813636019.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6-813636019.plist",
   "Terabox": "https://1024terabox.com/s/1_Utt21zkrcg6nM__YHV5bg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1MOBIBxU4_xQzjcPDRZCv0g?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813639755,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.813639755.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6-813639755.plist",
   "Terabox": "https://1024terabox.com/s/1UfQeD3Bq5Hu-Fc0wina2lg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1caGOJnsvQX8YXOV8_3dPDA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814208560,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.1.814208560.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6.1-814208560.plist",
   "Terabox": "https://1024terabox.com/s/1S-AjCR1Yod3H8GwpwV3P7A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LRepIbDJZNcGB6XTcqxQug?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814279923,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.1.814279923.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6.1-814279923.plist",
   "Terabox": "https://1024terabox.com/s/1GajFQ3mBoCQVqC56NYpltg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ptGI11EHzjB5HxYXb5Brhw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814286757,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/arm64_Keynote.2.6.1.814286757.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6.1-814286757.plist",
   "Terabox": "https://1024terabox.com/s/1eb3wThZscNoxtiTIhQVpJQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QZnh-6RBkJMDfdFe--ZY2w?pwd=1234"
+ },{
+  "Version": "2.6.2",
+  "IPA ID": 816483137,
+  "iOS Support": "iOS 8.4+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/2.x/2.6.2.plist",
+  "Terabox": "https://1024terabox.com/s/1B1cwvMePgSjuNw0IobjjpQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XqMZyK5Lqo5sAKYffOciiA?pwd=1234"
+ },{
+  "Version": "<b id=\"3.0\">3.0</b>",
+  "IPA ID": 817525020,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/3.x/3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1iL4bK3cs6J0jVbsudC0E6g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kOsQYlZQTUTcs6s1leDabA?pwd=1234"
+ },{
+  "Version": "3.0.5",
+  "IPA ID": 818910391,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/3.x/3.0.5.plist",
+  "Terabox": "https://1024terabox.com/s/1y_XN0ld3XWl9L9PMhBjXrw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1xCu8Uc3mdAysDv6EK1D55Q?pwd=1234"
  }
 ],
 "Official":[
@@ -675,292 +678,289 @@
   "Version": "1.0",
   "IPA ID": 2435471,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.0.ipa&bundle=com.apple.Keynote&version=1.0&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1v1ctcqWkNryPUA7BsKYodQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1S3j7N7GhFu1xDCdSjnSVnw?pwd=1234"
  },{
   "Version": "1.1",
   "IPA ID": 2623813,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.1.ipa&bundle=com.apple.Keynote&version=1.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1ZhjamwwIx6ianDc5mKwIcg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_vIan4vW-NA29jWejCMYLw?pwd=1234"
  },{
   "Version": "1.2",
   "IPA ID": 3157840,
   "iOS Support": "iOS 3.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.2.ipa&bundle=com.apple.Keynote&version=1.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.2.plist",
   "Terabox": "https://1024terabox.com/s/1Ma2B8E9ZCygEBF1SauxN2w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZXeuRT3nM48r-4NwC4pypg?pwd=1234"
  },{
   "Version": "1.3",
   "IPA ID": 2623813,
   "iOS Support": "iOS 4.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.3.ipa&bundle=com.apple.Keynote&version=1.3&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.3.plist",
   "Terabox": "https://1024terabox.com/s/158jJKsMX-LdHkshGjcV6Mg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oMNS_FFYQSLfXMZfvKM5mA?pwd=1234"
  },{
   "Version": "1.3.1",
   "IPA ID": 3335139,
   "iOS Support": "iOS 4.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.3.1.ipa&bundle=com.apple.Keynote&version=1.3.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.3.1.plist",
   "Terabox": "https://1024terabox.com/s/10fCfsAgCm7aj8IQH0NtREg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oMNS_FFYQSLfXMZfvKM5mA?pwd=1234"
  },{
   "Version": "1.3.2",
   "IPA ID": 3464340,
   "iOS Support": "iOS 4.2+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.3.2.ipa&bundle=com.apple.Keynote&version=1.3.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.3.2.plist",
   "Terabox": "https://1024terabox.com/s/1gg3_Qw06bi6m3FN2HwiToA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oMNS_FFYQSLfXMZfvKM5mA?pwd=1234"
  },{
   "Version": "1.4",
   "IPA ID": 3762445,
   "iOS Support": "iOS 4.2.8+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.4.ipa&bundle=com.apple.Keynote&version=1.4&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.4.plist",
   "Terabox": "https://1024terabox.com/s/1_aHjqnfNpO8T4ZfiGj_7MA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1cyuT6QRjTnTNOPH8hBTxXQ?pwd=1234"
  },{
   "Version": "1.5",
   "IPA ID": 4357398,
   "iOS Support": "iOS 5.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.5.ipa&bundle=com.apple.Keynote&version=1.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.5.plist",
   "Terabox": "https://1024terabox.com/s/1SsuW-pg7mDXJ-pPMLikvBg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11byhHrSQeGQ9cI3TEuJdiA"
  },{
   "Version": "1.6",
   "IPA ID": 6831163,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.6.ipa&bundle=com.apple.Keynote&version=1.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.6.plist",
   "Terabox": "https://1024terabox.com/s/1Lkr2xOrQxHlpoJTBD0evNA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mPi7UUborzLcCorF3EqE7g?pwd=1234"
  },{
   "Version": "1.6.1",
   "IPA ID": 9505602,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.6.1.ipa&bundle=com.apple.Keynote&version=1.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.6.1.plist",
   "Terabox": "https://1024terabox.com/s/1yjjhtMDn_PMA4qbId_yuzA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1N1t4Gt2XJ5X3dGlsu-SoIQ?pwd=1234"
  },{
   "Version": "1.6.2",
   "IPA ID": 10690849,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.6.2.ipa&bundle=com.apple.Keynote&version=1.6.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.6.2.plist",
   "Terabox": "https://1024terabox.com/s/14tZ33x4fTY-kQGAwcpOfBA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ee5pvNiaZeepGyUjoNNFPQ?pwd=1234"
  },{
   "Version": "1.7",
   "IPA ID": 11982512,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.7.ipa&bundle=com.apple.Keynote&version=1.7&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.7.plist",
   "Terabox": "https://1024terabox.com/s/14tZ33x4fTY-kQGAwcpOfBA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ezuTzyAtuM-pPJdCr3jnew?pwd=1234"
  },{
   "Version": "1.7.1",
   "IPA ID": 12875109,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.7.1.ipa&bundle=com.apple.Keynote&version=1.7.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.7.1.plist",
   "Terabox": "https://1024terabox.com/s/1Odsy-8eLMJAVKwOm0Oqltg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U4_FEKGmqlyU1y4omxM4ZQ?pwd=1234"
  },{
   "Version": "1.7.2",
   "IPA ID": 14498877,
   "iOS Support": "iOS 5.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.1.7.2.ipa&bundle=com.apple.Keynote&version=1.7.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/1.x/1.7.2.plist",
   "Terabox": "https://1024terabox.com/s/1_e6jKLnqqXA4eeXOLg_sEQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1phDKp0tKYTIHHE2ht2g13Q?pwd=1234"
- },
- {
+ },{
   "Version": "<b id=\"2.0\">2.0</b>",
   "IPA ID": 82284430,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.0.ipa&bundle=com.apple.Keynote&version=2.0&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.0.plist",
   "Terabox": "https://1024terabox.com/s/1FpdGWG66wRKGnl1tXZT01g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15uQBS60VEpn9rV9q8rX03g?pwd=1234"
- },
- {
+ },{
   "Version": "2.0.1",
   "IPA ID": 151482634,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.0.1.ipa&bundle=com.apple.Keynote&version=2.0.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1XtbZhrQy64CBNxnybVGDJg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1t0_nJt_gOL7cTUvac7CDEQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.1",
   "IPA ID": 289042882,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.1.289042882.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.1-289042882.plist",
   "Terabox": "https://1024terabox.com/s/1JmmzfrGP-OZg0dEFvdFVnQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1d9TSWY4TA5xK-U7r4CKkoA?pwd=1234"
- },
- {
+ },{
   "Version": "2.1",
   "IPA ID": 331242695,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.1.331242695.ipa&bundle=com.apple.Keynote&version=2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.1-331242695.plist",
   "Terabox": "https://1024terabox.com/s/1OTW30grLEQdQeB3GzLZa4Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gSnJsxjFjgZ75LRckDtjaw?pwd=1234"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 458872635,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.2.458872635.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.2-458872635.plist",
   "Terabox": "https://1024terabox.com/s/1xAtLfsa4-nvZ_TOU425A6w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1v3kh_AGtR2_L-KNFCTF3bA?pwd=1234"
- },
- {
+ },{
   "Version": "2.2",
   "IPA ID": 503642632,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.2.503642632.ipa&bundle=com.apple.Keynote&version=2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.2-503642632.plist",
   "Terabox": "https://1024terabox.com/s/1Je5-dEOMvUtGMSdIDB7yyA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1sfaSYgcXHOt4L8-aSzAGEw?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.1",
   "IPA ID": 556294749,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.2.1.ipa&bundle=com.apple.Keynote&version=2.2.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.2.1.plist",
   "Terabox": "https://1024terabox.com/s/17pDLpUeEIkqkJLRkkCz2JA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ayh6sGNCVbr8-2Fnp4PxPQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.2.2",
   "IPA ID": 662933453,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.2.2.ipa&bundle=com.apple.Keynote&version=2.2.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.2.2.plist",
   "Terabox": "https://1024terabox.com/s/16QZ1VaYYatbOsyq9Z3bnUg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TzYOc2aVqPAcXgtQM57LFQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.4.2",
   "IPA ID": 690962660,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.4.2.ipa&bundle=com.apple.Keynote&version=2.4.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.4.2.plist",
   "Terabox": "https://1024terabox.com/s/1YEEcQNBDOII4z0DFKgOWxQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qmr3K2UJR_FFSCLkgLwiiQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.5",
   "IPA ID": 715332671,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.5.ipa&bundle=com.apple.Keynote&version=2.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.5.plist",
   "Terabox": "https://1024terabox.com/s/1egzK3OFi1l2eyvDJmPf7UQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1cQEhuiBMOBqiwMhpjQc7Qw?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.1",
   "IPA ID": 763753088,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.5.1.ipa&bundle=com.apple.Keynote&version=2.5.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.5.1.plist",
   "Terabox": "https://1024terabox.com/s/1Qhnn5UfY4tGJ7MBXkCOKNg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ciiv_siwgTJFhNdZ6SQOsg?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.2",
   "IPA ID": 811381680,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.5.2.ipa&bundle=com.apple.Keynote&version=2.5.2&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.5.2.plist",
   "Terabox": "https://1024terabox.com/s/1dL6Q9WEvssGSu_rC7Ydd0Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1sJ4u7bzHMgsEErT1esLB9A?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.3",
   "IPA ID": 812007750,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.5.3.ipa&bundle=com.apple.Keynote&version=2.5.3&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.5.3.plist",
   "Terabox": "https://1024terabox.com/s/1jWfTAD3z3l9xZUWnbl8kPQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11gcnyKzbJdKUDFVetGsZ3g?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.4",
   "IPA ID": 812403265,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.5.4.ipa&bundle=com.apple.Keynote&version=2.5.4&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.5.4.plist",
   "Terabox": "https://1024terabox.com/s/1TG35WLkxSj2PwB_5LFYBwA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1JixzQVygnzrzNCsSN0AV8g?pwd=1234"
- },
- {
+ },{
   "Version": "2.5.5",
   "IPA ID": 813292421,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.5.5.ipa&bundle=com.apple.Keynote&version=2.5.5&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.5.5.plist",
   "Terabox": "https://1024terabox.com/s/17HFfMHiWsxXHcLh_PKCqtw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1GSK20PfuPA6cT1qA8ZIT0Q?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813450575,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.813450575.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6-813450575.plist",
   "Terabox": "https://1024terabox.com/s/1rPHkoCdYy45jPPb7Fl9sRg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1RjvJgQM_-Cmo7uBVEihC0w?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813609008,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.813609008.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6-813609008.plist",
   "Terabox": "https://1024terabox.com/s/1x_kEuya54cRp5PcZ3rcIbQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LVVwZJErUpfIXH_KXSbOsQ?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813614014,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.813614014.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6-813614014.plist",
   "Terabox": "https://1024terabox.com/s/1zIt-Wc-NDAUGYEQ8vY_Rew",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1WZ4_5hxeX5i7IJ_XmUan5g?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813631073,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.813631073.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6-813631073.plist",
   "Terabox": "https://1024terabox.com/s/1qaQV3A0PAVwV5REglh2OhQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1zUr9rp0b-QanWrFUt53hag?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813636019,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.813636019.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6-813636019.plist",
   "Terabox": "https://1024terabox.com/s/17rpCsciDOg4F1ltDTAJ-NA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14M5dVQvIDqI0TBsTrUoDiA?pwd=1234"
- },
- {
+ },{
   "Version": "2.6",
   "IPA ID": 813639755,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.813639755.ipa&bundle=com.apple.Keynote&version=2.6&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6-813639755.plist",
   "Terabox": "https://1024terabox.com/s/13ysnsSTfCkBKIuCPOG6GaQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ik-hKOBDuD9MUzDMG-hl4A?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814208560,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.1.814208560.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6.1-814208560.plist",
   "Terabox": "https://1024terabox.com/s/1V97sS-M8A6q2WwyEb6kHrA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1unNbl21K0x0E98dv4O0tTg?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814279923,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.1.814279923.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6.1-814279923.plist",
   "Terabox": "https://1024terabox.com/s/1qQxehqjUzuna9cbmjFeusA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1w_iv0jq41IlARdQ36bwaKw?pwd=1234"
- },
- {
+ },{
   "Version": "2.6.1",
   "IPA ID": 814286757,
   "iOS Support": "iOS 8.4+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Keynote/Official_Keynote.2.6.1.814286757.ipa&bundle=com.apple.Keynote&version=2.6.1&title=Keynote",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6.1-814286757.plist",
   "Terabox": "https://1024terabox.com/s/1GaJo-7oLrGIsUlItW_QUoQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1x8qZVjlQEjziD8G7j_0_vA?pwd=1234"
+ },{
+  "Version": "2.6.2",
+  "IPA ID": 816483137,
+  "iOS Support": "iOS 8.4+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/2.x/2.6.2.plist",
+  "Terabox": "https://1024terabox.com/s/1XRhU6BTQfNQBt61JdgXHFg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1xSfRJbT5JEesneI8x8Jscw?pwd=1234"
+ },{
+  "Version": "<b id=\"3.0\">3.0</b>",
+  "IPA ID": 817525020,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/3.x/3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1A5xNezVWE8XlJWh6-xAQcg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fIRWcSZYgivfKRB2zgKdgw?pwd=1234"
+ },{
+  "Version": "3.0.5",
+  "IPA ID": 818910391,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/3.x/3.0.5.plist",
+  "Terabox": "https://1024terabox.com/s/1X4yZJzE68XTBCT0A9emrZQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1dmcMaC724bUmrdXqKyEOYQ?pwd=1234"
  }
 ]
 }
