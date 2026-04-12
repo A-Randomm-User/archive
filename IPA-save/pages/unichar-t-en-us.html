@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dancing Line Community Edition Testflight</title>
+    <title>Unicode Kyeboard</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/dancingline-cm-t.png" type="image/png" />
+    <link rel="icon" href="../images/unichar-t.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -17,37 +17,50 @@
     </script>
 </head>
 <body>
-    <br>
-    <div class="top-controls">
-      <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
-      <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-                </button>
             </a>
+        </div> 
     </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+    <br>
     <div class="responsive-table-wrapper">
     <h2>About this Application</h2>
   <table>
     <tr>
       <td>Application Name</td>
-      <td>Dancing Line Community Edition</td>
+      <td>Unicode Keyboard</td>
     </tr>
     <tr>
       <td>Devoloper</td>
-      <td>懋宇 张</td>
+      <td>Jordan Hipwell</td>
     </tr>
     <tr>
       <td>Bundle Identifier</td>
-      <td>com.AaronJ.DancingLine</td>
+      <td>com.jordanhipwell.unichar</td>
     </tr>
     <tr>
       <td>Testflight Invite Link</td>
-      <td><a href="https://testflight.apple.com/join/jD6fF1BC">https://testflight.apple.com/join/jD6fF1BC</a></td>
+      <td><a href="https://testflight.apple.com/join/YKH3kGpt">https://testflight.apple.com/join/YKH3kGpt</a></td>
     </tr>
     <tr>
       <td>Developer Website</td>
-      <td><a href="https://dlce.fengyan.ip-ddns.com/#/en/">https://dlce.fengyan.ip-ddns.com/#/en/</a></td>
+      <td><a href="https://unichar.app/">https://unichar.app/</a></td>
     </tr>
   </table>
   </div>
@@ -59,7 +72,7 @@
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../data/dancingline-cm-t.json', true);
+  xhr.open('GET', '../data/unichar-t.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
