@@ -270,97 +270,97 @@
   "Version": "1.1",
   "IPA ID": 612202646,
   "iOS Support": "iOS 5.1.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_Plants.vs.Zombies.Free.HD.1.1.ipa&bundle=com.ea.pvz.ipad.bv&version=1.1&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1YhE9wRrfIzVFUbOTvUJONQ",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10q4eOP4tPbiGyHl1ylJTEw?pwd=1234"
  },
  {
   "Version": "1.11",
   "IPA ID": 811630704,
   "iOS Support": "iOS 5.1.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.Free.HD.1.11.ipa&bundle=com.ea.pvz.ipad.bv&version=1.11&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/1.11.plist",
   "Terabox": "https://1024terabox.com/s/1SAZOIy5wUnaJjPu-jsr6dA",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18esmvXKJzSOLP5Z9IwSHXQ?pwd=1234"
  },
  {
   "Version": "1.12",
   "IPA ID": 811741083,
   "iOS Support": "iOS 5.1.1+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.Free.HD.1.12.ipa&bundle=com.ea.pvz.ipad.bv&version=1.12&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/1.12.plist",
   "Terabox": "https://1024terabox.com/s/16IN7iQSOKwj3Lm71AjPA-Q",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18esmvXKJzSOLP5Z9IwSHXQ?pwd=1234"
  },
  {
   "Version": "1.14",
   "IPA ID": 818100514,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.Free.HD.1.14.ipa&bundle=com.ea.pvz.ipad.bv&version=1.14&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/1.14.plist",
   "Terabox": "https://1024terabox.com/s/1sf4_SbmBYZix0zAY7_D4Rw",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Pt7fC_LPi75knhSPZv-BdA?pwd=1234"
  },
  {
   "Version": "1.17",
   "IPA ID": 818300334,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.Free.HD.1.17.ipa&bundle=com.ea.pvz.ipad.bv&version=1.17&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/1.17.plist",
   "Terabox": "https://1024terabox.com/s/1l7HPiAxIsVNDM4l-s9KdKA",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QNMPymnb0V4WLkRKiTXIWA?pwd=1234"
  },
  {
   "Version": "1.19",
   "IPA ID": 821372591,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.Free.HD.1.19.ipa&bundle=com.ea.pvz.ipad.bv&version=1.19&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/1.19.plist",
   "Terabox": "https://1024terabox.com/s/1_UNcnqcaj4xamPkGLs6CBQ",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1A9PZOBIeHDteujHxqfDSzA?pwd=1234"
  },
  {
   "Version": "2.00",
   "IPA ID": 824246890,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.HD.2.00.ipa&bundle=com.ea.pvz.ipad.bv&version=2.00&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/2.00.plist",
   "Terabox": "https://1024terabox.com/s/1Ok53lJV2iXgojsKW1tVpow",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZonueFmU-K8jO9pQTAucjg?pwd=1234"
  },
  {
   "Version": "2.01",
   "IPA ID": 824353572,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.HD.2.01.ipa&bundle=com.ea.pvz.ipad.bv&version=2.01&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/2.01.plist",
   "Terabox": "https://1024terabox.com/s/11mSQRk9BMiCND_VlTynslA",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZtIIPSv_cwBCuU45BnIJ1w?pwd=1234"
  },
  {
   "Version": "2.10",
   "IPA ID": 825282327,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.HD.2.10.ipa&bundle=com.ea.pvz.ipad.bv&version=2.10&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/2.10.plist",
   "Terabox": "https://1024terabox.com/s/14BOeljnWLpmF9cA-rH44SA",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Nb0fANqVOt9ALzkBtnh_Wg?pwd=1234"
  },
  {
   "Version": "2.20",
   "IPA ID": 826236293,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.HD.2.20.ipa&bundle=com.ea.pvz.ipad.bv&version=2.20&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/2.20.plist",
   "Terabox": "https://1024terabox.com/s/1a8ZRjCHEpv8ND9KzWKM_vw",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TOEsAqLjujY0T_Lu4PDQfg?pwd=1234"
  },
  {
   "Version": "2.31",
   "IPA ID": 827268513,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/Official_PvZ.HD.2.31.ipa&bundle=com.ea.pvz.ipad.bv&version=2.31&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/2.31.plist",
   "Terabox": "https://1024terabox.com/s/1rQMSustmW-QtgPUKnpI3AQ",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rn1Ov6abLycuH6H4EpHp-Q?pwd=1234"
  },
  {
   "Version": "2.40",
   "IPA ID": 829655975,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/PVZHDFree/armv7arm64_PvZ.HD.2.40.ipa&bundle=com.ea.pvz.ipad.bv&version=2.40&title=PvZ HD Free",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PvZHDFree-893677228/off/2.40.plist",
   "Terabox": "https://1024terabox.com/s/1GLkonLQlwETJNTmSVZha6g",
-  "Baidu Netdisk <br> Password 1234": ""
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1bafPSA9dzDLnWrZ4ftGepQ?pwd=1234"
  }
 ]
 }
