@@ -1,0 +1,54 @@
+{
+"Intel Mac":[
+ {
+  "Version": "9.05",
+  "Release Date": "Mar 27, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/arm64/i4Tools_v9.05.005_x64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1oJduY3YhcmFiO69x7SPzwQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.05.005_x64.dmg"
+ },
+ {
+  "Version": "9.03",
+  "Release Date": "Mar 23, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/x64/i4Tools_v9.03.009_x64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1GLGJ3C3KFHyLnynPBnK1QA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.03.009_x64.dmg"
+ },
+ {
+  "Version": "9.02",
+  "Release Date": "Jan 8, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://url.i4.cn/VN7Vbyaa",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1UCc8FMGeGunaOW5tcThayQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.02.009_x64.dmg"
+ }
+],
+"Apple Silicon Mac":[
+ {
+  "Version": "9.05",
+  "Release Date": "Mar 27, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/arm64/i4Tools_v9.05.005_arm64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1HVq1Jqzy6th4JJ44ZIPBXQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.05.005_arm64.dmg"
+ },
+ {
+  "Version": "9.03",
+  "Release Date": "Mar 23, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/arm64/i4Tools_v9.03.009_arm64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1vXIVQmlIeab9TW9mb2bFbg?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.03.009_arm64.dmg"
+ },
+ {
+  "Version": "9.02",
+  "Release Date": "Jan 8, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://url.i4.cn/FFRBr2aa",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1Oqc8lFi5RKQKZo019NLX5g?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.02.009_arm64.dmg"
+ }
+]
+}

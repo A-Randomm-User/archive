@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSB save</title>
+    <link rel="stylesheet" href="../global-variables.css">
+    <link rel="icon" href="./images/icon.png" type="image/png" />
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
+</head>
+<body>
+<br>
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../IPA-save/index.html">IPA-save</a>
+            <a class="sidebar-link" href="../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
+
+            <br>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
+                    Appearance
+            </a>
+        </div> 
+    </div>
+        <script src="../sidebar.js"></script>
+    <script src="../dark-mode.js"></script>
+
+    <h1>Welcome to RSB save</h1>
+<!--
+    <a href="./pages/ipad2.html">
+    <button class="button-link">
+        iPad2 RSB
+    </button></a> -->
+    <a href="./pages/ipad3.html">
+    <button class="button-link">
+        iPad3 RSB
+    </button></a>
+    <!-- <a href="./pages/iphone.html">
+    <button class="button-link">
+        iPhone RSB
+    </button></a>
+    <a href="./pages/pvz2c-ios.html">
+    <button class="button-link">
+        PvZ2-C iOS RSB
+    </button></a> -->
+
+<br>
+    <div style="text-align: center; margin-top: 30px; padding: 20px; border-top: 1px solid #ddd;">
+        <p style="margin-bottom: 15px;">
+            <strong>Help us continue our 百度网盘 link</strong>
+        </p>
+        <p style="margin: 10px 0;">
+            WeChat Pay<br>
+            <img src="images/support/qr-wechat.jpg" style="width: 120px; height: auto; margin: 10px 0;">
+        </p>
+        <p style="margin: 10px 0;">
+            <a href="https://afdian.com/a/a-randomm-user">AiFaDian 爱发电</a>
+        </p>
+        <p style="font-size: 12px; color: #999; margin-top: 15px;">
+            This will be used as the SVIP subscription in 百度网盘.<br>
+            Thanks for using macOS-save!
+        </p>
+
+        <p>This website is not for profit. All software are from the internet and is intended to help users find the resources they want, facilitating categorization and searching. If any content on this website infringes upon your rights, please email apkipasave@gmail.com, and we will remove the copyrighted content immediately.</p>
+    </div>
+</body>
+</html>
