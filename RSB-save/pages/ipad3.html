@@ -96,7 +96,7 @@ function init() {
       return;
     }
 
-    btnContainer.innerHTML = '<b>Choose a type:</b><br>';
+    btnContainer.innerHTML = '<b>Choose a range of version:</b><br>';
 
     for (var groupName in data) {
       if (!data.hasOwnProperty(groupName)) continue;
@@ -104,7 +104,7 @@ function init() {
       (function (name) {
         var btn = document.createElement('button');
         btn.textContent = name;
-        btn.className = 'sheet-btn';
+        btn.className = 'sheet-2-btn';
         btn.onclick = function () {
           showGroup(data, name);
         };

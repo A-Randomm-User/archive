@@ -217,6 +217,13 @@ body {
         transform 0.15s;
 }
 
+.sheet-2-btn {
+    width: calc(50% - 10px);
+    display: inline-flex;
+    height: 50px;
+    margin: 2px;
+}
+
 .button-link, 
 .button-2-link, 
 .button-3-link {
