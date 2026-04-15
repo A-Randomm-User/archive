@@ -4,7 +4,7 @@
   "Version": "0.8.3",
   "IPA ID": 832677614,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7_Granny.Chapter.Two.0.8.3.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.3&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7/0.8.3.plist",
   "Terabox": "https://1024terabox.com/s/1Ne0CNyC6OZVNQNwRdbkf4g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1suCvseImBMinhVcrqu9S6g?pwd=1234"
  },
@@ -12,7 +12,7 @@
   "Version": "0.8.4",
   "IPA ID": 832808777,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7_Granny.Chapter.Two.0.8.4.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.4&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7/0.8.4.plist",
   "Terabox": "https://1024terabox.com/s/1b2bkeCPnyaVKEJmT88eKZw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SzZCJStWA-ekSLHMbrMA5Q?pwd=1234"
  },
@@ -20,7 +20,7 @@
   "Version": "1.0",
   "IPA ID": 833403139,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7_Granny.Chapter.Two.1.0.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1Hqptmf38B2JcTGME1oSO-g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1dKSGVp0R_om8kjt4Ayf51A?pwd=1234"
  },
@@ -28,7 +28,7 @@
   "Version": "1.0.1",
   "IPA ID": 833414510,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7_Granny.Chapter.Two.1.0.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7/1.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1IjdVUzl_ouH64Rqu19QLyA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tr81uD9zZBnKslJX2VGXWQ?pwd=1234"
  },
@@ -36,7 +36,7 @@
   "Version": "1.1",
   "IPA ID": 834876852,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7_Granny.Chapter.Two.1.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1vO-gRZ_BjkIJdhAdHRqHBA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ok4bKjTm4B3kvh3vEGxIkg?pwd=1234"
  },
@@ -44,7 +44,7 @@
   "Version": "1.1.5",
   "IPA ID": 835458135,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7_Granny.Chapter.Two.1.1.5.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.5&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7/1.1.5.plist",
   "Terabox": "https://1024terabox.com/s/1HBar4z1P77CtG9jvFW59eg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kXTZ3hXsB5EFhfm0huNAvQ?pwd=1234"
  }
@@ -54,7 +54,7 @@
   "Version": "0.8.3",
   "IPA ID": 832677614,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7arm64_Granny.Chapter.Two.0.8.3.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.3&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7arm64/0.8.3.plist",
   "Terabox": "https://1024terabox.com/s/1f5TJyqhl8mxlP7mvtS29SQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OMQK0nuRK9_UXTDZkTmqdQ?pwd=1234"
  },
@@ -62,7 +62,7 @@
   "Version": "0.8.4",
   "IPA ID": 832808777,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7arm64_Granny.Chapter.Two.0.8.4.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.4&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7arm64/0.8.4.plist",
   "Terabox": "https://1024terabox.com/s/1zjpC3U_hHxxFnz_Dky8gfQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1JrWeSiW0E3b4I1LcLPG5MA?pwd=1234"
  },
@@ -70,7 +70,7 @@
   "Version": "1.0",
   "IPA ID": 833403139,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7arm64_Granny.Chapter.Two.1.0.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7arm64/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1EWJIpTShnlAMum7j7X08eA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Br2GFeWmwTF37FIHPHLCHA?pwd=1234"
  },
@@ -78,7 +78,7 @@
   "Version": "1.0.1",
   "IPA ID": 833414510,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7arm64_Granny.Chapter.Two.1.0.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7arm64/1.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1KCRyyAIhW6Rx3FgKL8TDKQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mFGNsCr56S0wPAy_eaKMBQ?pwd=1234"
  },
@@ -86,7 +86,7 @@
   "Version": "1.1",
   "IPA ID": 834876852,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7arm64_Granny.Chapter.Two.1.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7arm64/1.1.plist",
   "Terabox": "https://1024terabox.com/s/11BeJtApgPE1-Yf9HeEWCvg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wqEwfnLcl1Qpalz1XdUGxg?pwd=1234"
  },
@@ -94,7 +94,7 @@
   "Version": "1.1.5",
   "IPA ID": 835458135,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/armv7arm64_Granny.Chapter.Two.1.1.5.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.5&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/armv7arm64/1.1.5.plist",
   "Terabox": "https://1024terabox.com/s/1ma3WH-MQ2qtUlqp8nz5orw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FPMDq9o11sTo-Q2I1Sey5g?pwd=1234"
  }
@@ -104,7 +104,7 @@
   "Version": "0.8.3",
   "IPA ID": 832677614,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.0.8.3.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.3&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/0.8.3.plist",
   "Terabox": "https://1024terabox.com/s/132QIQg1G13k49LeQJ_gHhw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Og1b_CNPlu-jf1eb47aRSg?pwd=1234"
  },
@@ -112,7 +112,7 @@
   "Version": "0.8.4",
   "IPA ID": 832808777,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.0.8.4.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.4&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/0.8.4.plist",
   "Terabox": "https://1024terabox.com/s/1La7DSy8yk9qngZ0Bfql2pg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FTy7J9e1mwYhz6Iogj9BoA?pwd=1234"
  },
@@ -120,7 +120,7 @@
   "Version": "1.0",
   "IPA ID": 833403139,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.0.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.0.plist",
   "Terabox": "https://1024terabox.com/s/1uZZpaRTfPKsDlIiRvSbcyw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1jsJb28WepZBU721wbIwEhQ?pwd=1234"
  },
@@ -128,7 +128,7 @@
   "Version": "1.0.1",
   "IPA ID": 833414510,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.0.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1Z_zRtT9l6i221sC6YgEuSg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_PmHHkWv87X_QXu9yr7qMQ?pwd=1234"
  },
@@ -136,7 +136,7 @@
   "Version": "1.1",
   "IPA ID": 834876852,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.plist",
   "Terabox": "https://1024terabox.com/s/18R5Qo8337GSVVEaRXJJh_A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OPqXvhKiLkEsVtSmmwhprw?pwd=1234"
  },
@@ -144,7 +144,7 @@
   "Version": "1.1.5",
   "IPA ID": 835458135,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.5.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.5&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.5.plist",
   "Terabox": "https://1024terabox.com/s/14AtecmSZ-n0AkV3joc6dcA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Frfo827CYZlVpEd-XWsXyQ?pwd=1234"
  },
@@ -152,7 +152,7 @@
   "Version": "1.1.6",
   "IPA ID": 839088502,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.6.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.6&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.6.plist",
   "Terabox": "https://1024terabox.com/s/1zg7r6zPTv-UjL_RXD_022g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mPyaw3u60ZI-Fx1VaS8dxg?pwd=1234"
  },
@@ -160,7 +160,7 @@
   "Version": "1.1.7",
   "IPA ID": 839266703,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.7.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.7&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.7.plist",
   "Terabox": "https://1024terabox.com/s/1i5PJL8fLU-Y5Cs5DAUe0ew",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1iaBXHZFJWugZ0k8zktj5Xg?pwd=1234"
  },
@@ -168,7 +168,7 @@
   "Version": "1.1.8",
   "IPA ID": 839388821,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.8.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.8&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.8.plist",
   "Terabox": "https://1024terabox.com/s/1fuQBImKEqGk0MzOnX07jcg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1cdsI6odK2jvSTs_E6zSm3A?pwd=1234"
  },
@@ -176,7 +176,7 @@
   "Version": "1.1.9",
   "IPA ID": 839431844,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.9.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.9&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.9.plist",
   "Terabox": "https://1024terabox.com/s/1HPXbo32RVmabp8dL9krm5g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1B6WDg1eY2uh77bgYMPu8gg?pwd=1234"
  },
@@ -184,7 +184,7 @@
   "Version": "1.1.10",
   "IPA ID": 840120511,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.10.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.10&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.10.plist",
   "Terabox": "https://1024terabox.com/s/1R2lbvcTmeoa7xpau7jBRUA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mjqnD7BM-i7cPv1KehmBAg?pwd=1234"
  },
@@ -192,7 +192,7 @@
   "Version": "1.1.11",
   "IPA ID": 880301871,
   "iOS Support": "iOS 13.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/arm64_Granny.Chapter.Two.1.1.11.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.11&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.11.plist",
   "Terabox": "https://1024terabox.com/s/1n2C5ek3MjsJnVLvdtFyE8w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_UUMeq6LsaCWQYFXJab5qg?pwd=1234"
  }
@@ -202,7 +202,7 @@
   "Version": "0.8.3",
   "IPA ID": 832677614,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.0.8.3.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.3&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/0.8.3.plist",
   "Terabox": "https://1024terabox.com/s/1C4uTZcCGtKqyQCsJ5j2O9w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1PLj4ZJL4nxfsK6MOwEkMaQ?pwd=1234"
  },
@@ -210,7 +210,7 @@
   "Version": "0.8.4",
   "IPA ID": 832808777,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.0.8.4.ipa&bundle=com.dvloper.grannychaptertwo&version=0.8.4&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/0.8.4.plist",
   "Terabox": "https://1024terabox.com/s/10xy4Nl3klWmOJi7LBkmO0Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1BanBeMg__TuFKE_fFbRFzA?pwd=1234"
  },
@@ -218,7 +218,7 @@
   "Version": "1.0",
   "IPA ID": 833403139,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.0.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.0.plist",
   "Terabox": "https://1024terabox.com/s/11T9ANYc8tr1GX3CTB9rTSw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gAD6zp4hVWJn-fK6Fn_sEw?pwd=1234"
  },
@@ -226,7 +226,7 @@
   "Version": "1.0.1",
   "IPA ID": 833414510,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.0.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.0.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.0.1.plist",
   "Terabox": "https://1024terabox.com/s/1UHNWHRcYRhP96n8PV9cvZQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14P633S2jBHHfqF1yto9wdA?pwd=1234"
  },
@@ -234,7 +234,7 @@
   "Version": "1.1",
   "IPA ID": 834876852,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.plist",
   "Terabox": "https://1024terabox.com/s/1q_AQsWCNb7wiWWbQbhUw0g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ayyeV304s8HiJMJkETC68A?pwd=1234"
  },
@@ -242,7 +242,7 @@
   "Version": "1.1.5",
   "IPA ID": 835458135,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.5.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.5&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.5.plist",
   "Terabox": "https://1024terabox.com/s/1boB3V3CnVswzSRGqxQ0V1A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12LItSM9VIpqUIKvL_taHXA?pwd=1234"
  },
@@ -250,7 +250,7 @@
   "Version": "1.1.6",
   "IPA ID": 839088502,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.6.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.6&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.6.plist",
   "Terabox": "https://1024terabox.com/s/1oZoaj1GfW5079gfzlnSbVw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OYWNg8wPCrPTpW3bESt4Sw?pwd=1234"
  },
@@ -258,7 +258,7 @@
   "Version": "1.1.7",
   "IPA ID": 839266703,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.7.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.7&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.7.plist",
   "Terabox": "https://1024terabox.com/s/1-ZQhJNIq8zXg7NKCmu7LJg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tvU_My2kq4VapdBNGiM9rA?pwd=1234"
  },
@@ -266,7 +266,7 @@
   "Version": "1.1.8",
   "IPA ID": 839388821,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.8.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.8&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.8.plist",
   "Terabox": "https://1024terabox.com/s/1GiPXd1VJOAN0UXckQ09TdA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZmjU1CpQRD6r0OHi0l0PHw?pwd=1234"
  },
@@ -274,7 +274,7 @@
   "Version": "1.1.9",
   "IPA ID": 839431844,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.9.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.9&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.9.plist",
   "Terabox": "https://1024terabox.com/s/1BlIdwlMMN5sF_iGdh_yNAg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SpVLEG7RNlDRF6QMxqb2qg?pwd=1234"
  },
@@ -282,7 +282,7 @@
   "Version": "1.1.10",
   "IPA ID": 840120511,
   "iOS Support": "iOS 11.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.10.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.10&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.10.plist",
   "Terabox": "https://1024terabox.com/s/1iQPccCAyfZWY1keh4jzq2Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1H4WvxBIYTZrf2H0RTuPUOA?pwd=1234"
  },
@@ -290,7 +290,7 @@
   "Version": "1.1.11",
   "IPA ID": 880301871,
   "iOS Support": "iOS 13.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Granny-Chapter-2/Official_Granny.Chapter.Two.1.1.11.ipa&bundle=com.dvloper.grannychaptertwo&version=1.1.11&title=Granny Chapter Two",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.11.plist",
   "Terabox": "https://1024terabox.com/s/1O4PTNhjof52YX05H53VaFA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1omaHY7HMQYz1WdMdqzV7MQ?pwd=1234"
  }
