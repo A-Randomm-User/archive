@@ -47,6 +47,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/CutTheRopeTTGOLD-608899141/armv7/1.3.2.plist",
   "Terabox": "https://1024terabox.com/s/1F7NM5LtO_bffLPqACgCt-w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1boyXiIxpAl22mi5Dj_cSmQ?pwd=1234"
+ },
+ {
+  "Version": "1.4",
+  "IPA ID": 745913194,
+  "iOS Support": "iOS 5.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/CutTheRopeTTGOLD-608899141/armv7/1.4.plist",
+  "Terabox": "https://1024terabox.com/s/1gjNz2bESp6fQM36UvsSswg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/17lOQraz8h-Z9ImO81Khsqg?pwd=1234"
+ },
+ {
+  "Version": "1.4.2",
+  "IPA ID": 810792267,
+  "iOS Support": "iOS 5.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/CutTheRopeTTGOLD-608899141/armv7/1.4.2.plist",
+  "Terabox": "https://1024terabox.com/s/1a6hnR5nVJ4--pJA2MewUgQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1BnMORT_n5xTdYSlh10BtUA?pwd=1234"
  }
 ],
 "ARMv7s":[
