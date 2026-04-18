@@ -1,0 +1,38 @@
+{
+"ARM64":[
+ {
+  "Version": "670020",
+  "IPA ID": 882649645,
+  "iOS Support": "iOS 18.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AppleStore-375380948/arm64/670020.plist",
+  "Terabox": "https://1024terabox.com/s/10ISrFFUd0QMPtS6Zi41cbg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pE5evG7UuZtFjgqALTUtSg?pwd=1234"
+ },
+ {
+  "Version": "670050",
+  "IPA ID": 884205290,
+  "iOS Support": "iOS 18.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AppleStore-375380948/arm64/670050.plist",
+  "Terabox": "https://1024terabox.com/s/1mL0yLGvRn7TEbnBIXBI-Jg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19_OzXpKQpW8uTggvk4_1Cg?pwd=1234"
+ }
+],
+"Official":[
+ {
+  "Version": "670020",
+  "IPA ID": 882649645,
+  "iOS Support": "iOS 18.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AppleStore-375380948/off/670020.plist",
+  "Terabox": "https://1024terabox.com/s/1U_dMi6JubY-XuMTQSH0gqw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1hrT-5v5rDyJB1hCnA7hR4Q?pwd=1234"
+ },
+ {
+  "Version": "670050",
+  "IPA ID": 884205290,
+  "iOS Support": "iOS 18.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AppleStore-375380948/off/670050.plist",
+  "Terabox": "https://1024terabox.com/s/1zmS0BXbxgqAzp8kuxZU4Ew",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OxdazTfZ8PR55kVk5VeGXw?pwd=1234"
+ }
+]
+}
