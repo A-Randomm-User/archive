@@ -95,6 +95,14 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-38.plist",
   "Terabox": "https://1024terabox.com/s/1QPdISQyNwh3Hb7A5siOidg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YNjGjSmBEqNubG5ERNFtLw?pwd=1234"
+ },
+ {
+  "Version": "1.0.0 (39)",
+  "IPA ID": "-",
+  "iOS Support": "iOS 15.6+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-39.plist",
+  "Terabox": "https://1024terabox.com/s/1pz4Sh7Wht_JYdp95RO_yBQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qv-nlBWNnbb41Rg9FFgWOw?pwd=1234"
  }
 ]
 }
