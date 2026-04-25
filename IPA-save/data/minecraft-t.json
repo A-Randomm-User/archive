@@ -1,7 +1,7 @@
 {
 "ARM64":[
  {
-  "Version": "1.26.10.20",
+  "Version": "<b id=\"26.10\">1.26.10.20</b>",
   "IPA ID": "-",
   "iOS Support": "iOS 13.0+",
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.10/1.26.10.20.plist",
@@ -47,6 +47,70 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.10/1.26.10.26.plist",
   "Terabox": "https://1024terabox.com/s/14Tv4dmO5NgPODd123ZTY4g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Fn3pXmf2k53XBXS2h586oQ?pwd=1234"
+ },
+ {
+  "Version": "<b id=\"26.20\">1.26.20.20</b>",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.20.plist",
+  "Terabox": "https://1024terabox.com/s/1XzOyUggBxLvCtA4It0j1CQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1IJmhKRSJT15OjjI2c1tgOw"
+ },
+ {
+  "Version": "1.26.20.21",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.21.plist",
+  "Terabox": "https://1024terabox.com/s/1vrrBEKa9zJuZ266S1-PUtg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1cnm-MvoVmC3-M4E3FyLVdQ?pwd=1234"
+ },
+ {
+  "Version": "1.26.20.22",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.22.plist",
+  "Terabox": "https://1024terabox.com/s/1mOyH3otEWgy5Tpbb02dGmw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZskaqaSL3zBoYNjQH7-wBw?pwd=1234"
+ },
+ {
+  "Version": "1.26.20.23",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.23.plist",
+  "Terabox": "https://1024terabox.com/s/19knP_OQbFa9VmBgvvhxArg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gFnVnAlA9hzk63DQrs8EjA?pwd=1234"
+ },
+ {
+  "Version": "1.26.20.26",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.26.plist",
+  "Terabox": "https://1024terabox.com/s/1LRxpLm2E7UpUL_NncBv1zw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SGjFyObKRJ2qnvow696LIA?pwd=1234"
+ },
+ {
+  "Version": "1.26.20.27",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.27.plist",
+  "Terabox": "https://1024terabox.com/s/18e3HhJkxUTiIng2anaoDqA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FXgkFQfOVDgi4ID0xQSyLQ?pwd=1234"
+ },
+ {
+  "Version": "1.26.20.28",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.20.28.plist",
+  "Terabox": "https://1024terabox.com/s/1lWDXxTVtWzcMrZSYFZxPLQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oinGzUoH6vDddCqFF40yrg?pwd=1234"
+ },
+ {
+  "Version": "<b id=\"26.30\">1.26.30.20</b>",
+  "IPA ID": "-",
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.20/1.26.30.20.plist",
+  "Terabox": "https://1024terabox.com/s/1WbfB-g0Sz48nY9kkUlCJjA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oql-Zcs1fNW2U_kO2HNlzw?pwd=1234"
  }
 ]
 }

@@ -769,6 +769,41 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/4.x/4.1.plist",
   "Terabox": "https://1024terabox.com/s/1KCuzlg8b95nWREUy82YwUw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tAl125f2gFBsgtPMQ54QGA?pwd=1234"
+ },{
+  "Version": "4.2",
+  "IPA ID": 827552225,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/4.x/4.2.plist",
+  "Terabox": "https://1024terabox.com/s/1lWYOE-pLTJczsA2rdpwSAA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1HLDSmzYejn0iN3Z6WrFwJQ?pwd=1234"
+ },{
+  "Version": "4.3",
+  "IPA ID": 828625615,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/4.x/4.3-828625615.plist",
+  "Terabox": "https://1024terabox.com/s/1MSvp9oMY3DUID6yjwmIu2g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Hjz1U2dgnWB6cIm3AnooEw?pwd=1234"
+ },{
+  "Version": "4.3",
+  "IPA ID": 829165944,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/4.x/4.3-829165944.plist",
+  "Terabox": "https://1024terabox.com/s/1jVQcQzpBnXjKB21g9DgQ8g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1byBdajPdzx2xr6I6wDFLZA?pwd=1234"
+ },{
+  "Version": "<b id=\"5.0\">5.0</b>",
+  "IPA ID": 829215548,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/5.x/5.0.plist",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
+ },{
+  "Version": "5.0.1",
+  "IPA ID": 830786356,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/arm64/5.x/5.0.1.plist",
+  "Terabox": "",
+  "Baidu Netdisk <br> Password 1234": ""
  }
 ],
 "Official":[
@@ -1115,6 +1150,41 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/4.x/4.1.plist",
   "Terabox": "https://1024terabox.com/s/1KsxDHS3FC3X1mDu7KPGM0w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1G1UCHqz1YSdGJjyybqs-OA?pwd=1234"
+ },{
+  "Version": "4.2",
+  "IPA ID": 827552225,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/4.x/4.2.plist",
+  "Terabox": "https://1024terabox.com/s/1V9bEGNiAcPUX8EzNnWAgSQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aB85wZW7dEF2FEsuZjfy3A?pwd=1234"
+ },{
+  "Version": "4.3",
+  "IPA ID": 828625615,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/4.x/4.3-828625615.plist",
+  "Terabox": "https://1024terabox.com/s/1rQnkoJwfQpyvm62p5W14rQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1L8ncWy8-pUHxJZinhSo86w?pwd=1234"
+ },{
+  "Version": "4.3",
+  "IPA ID": 829165944,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/4.x/4.3-829165944.plist",
+  "Terabox": "https://1024terabox.com/s/1GnyQF8BJN-7prF9XfhGLxQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Fnqb8C62JXF35e8qPaMM9g?pwd=1234"
+ },{
+  "Version": "<b id=\"5.0\">5.0</b>",
+  "IPA ID": 829215548,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/5.x/5.0.plist",
+  "Terabox": "https://1024terabox.com/s/1NPyBdlE4myyOFuSRiRxEBw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ses-UBJYwKnw7WFm_dldRQ"
+ },{
+  "Version": "5.0.1",
+  "IPA ID": 830786356,
+  "iOS Support": "iOS 11.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Keynote-361285480/off/5.x/5.0.1.plist",
+  "Terabox": "https://1024terabox.com/s/1qXdNEMn8elTaO23wvl_exA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1AcsbWX2hZOPyKEf4IoNaGQ?pwd=1234"
  }
 ]
 }
