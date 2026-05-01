@@ -94,7 +94,7 @@
   "Version": "1.5.0",
   "IPA ID": 830473853,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6..x/1.5.0.plist",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6.x/1.5.0.plist",
   "Terabox": "https://1024terabox.com/s/1ODH1JAL9J1i_f3lTmLitfg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ic7gQfM-oVih_RIAL3hsPA?pwd=1234"
  },
@@ -102,7 +102,7 @@
   "Version": "1.5.1",
   "IPA ID": 830483700,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7_Evil.Nun.1.5.1.ipa&bundle=com.keplerians.thenun&version=1.5.1&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6.x/1.5.1.plist",
   "Terabox": "https://1024terabox.com/s/1ySeDveMHjNNcQFQOPnn-jQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kNYcDSP_ZtWI7ddvc7wqZA?pwd=1234"
  },
@@ -110,7 +110,7 @@
   "Version": "1.5.2",
   "IPA ID": 830602855,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7_Evil.Nun.1.5.2.ipa&bundle=com.keplerians.thenun&version=1.5.2&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6.x/1.5.2.plist",
   "Terabox": "https://1024terabox.com/s/1lM57ugWR9_X5C4C2NwFbCA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1EJ7kZ2XYEe9JZF7ecg-O5Q?pwd=1234"
  },
@@ -118,7 +118,7 @@
   "Version": "1.6.0",
   "IPA ID": 831243394,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7_Evil.Nun.1.6.0.ipa&bundle=com.keplerians.thenun&version=1.6.0&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6.x/1.6.0.plist",
   "Terabox": "https://1024terabox.com/s/1CsLddKQgs4PdR4yqANhGag",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ikJO3JfWzN7_Eqjq3xLhTQ?pwd=1234"
  },
@@ -126,7 +126,7 @@
   "Version": "1.6.1",
   "IPA ID": 831271816,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7_Evil.Nun.1.6.1.ipa&bundle=com.keplerians.thenun&version=1.6.1&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6.x/1.6.1.plist",
   "Terabox": "https://1024terabox.com/s/1vs9xlEq0NhLQ-U15_xJbEg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1v--_BZ93Z5CF_TNFilOcWw?pwd=1234"
  },
@@ -134,7 +134,7 @@
   "Version": "1.6.2",
   "IPA ID": 831294167,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7_Evil.Nun.1.6.2.ipa&bundle=com.keplerians.thenun&version=1.6.2&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.5.x-1.6.x/1.6.2.plist",
   "Terabox": "https://1024terabox.com/s/1WqeFJbLeNuDe3by4pU-a7A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qAaMZGvOwHKWFMaCkaRb3g?pwd=1234"
  }
@@ -144,56 +144,56 @@
   "Version": "1.1.5",
   "IPA ID": 828253945,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.1.5.ipa&bundle=com.keplerians.thenun&version=1.1.5&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.1.5.plist",
   "Terabox": "https://1024terabox.com/s/1dl-S6cVijRa4lxixytr_fQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/152bGvPMneQ0PvH0-K2bzFw?pwd=1234"
  },{
   "Version": "1.1.6",
   "IPA ID": 828600368,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.1.6.ipa&bundle=com.keplerians.thenun&version=1.1.6&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.1.6.plist",
   "Terabox": "https://1024terabox.com/s/1w2whPzABjkekxaxw6Yka9w",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nza1kk-ZaRLW41C6VMqrFA?pwd=1234"
  },{
   "Version": "1.1.7",
   "IPA ID": 828792461,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.1.7.ipa&bundle=com.keplerians.thenun&version=1.1.7&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.1.7.plist",
   "Terabox": "https://1024terabox.com/s/16_FLM1Pg8l4b5a_X9bXkzw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tlWEJaRX_iS-_RrGQhGFjQ?pwd=1234"
  },{
   "Version": "1.1.71",
   "IPA ID": 828821736,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.1.71.ipa&bundle=com.keplerians.thenun&version=1.1.71&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.1.71.plist",
   "Terabox": "https://1024terabox.com/s/1PmtxvRjsQixDLk0SJqfraQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Dqs1itXQqj4iQx3ghVno5A?pwd=1234"
  },{
   "Version": "1.1.81",
   "IPA ID": 828992609,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.1.81.ipa&bundle=com.keplerians.thenun&version=1.1.81&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.1.81.plist",
   "Terabox": "https://1024terabox.com/s/1GvYR3QxDpSddUZ6GeWKsWQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Q20tTq66EQkKC6Aol0qg4g?pwd=1234"
  },{
   "Version": "1.1.82",
   "IPA ID": 829091102,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.1.82.ipa&bundle=com.keplerians.thenun&version=1.1.82&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.1.82.plist",
   "Terabox": "https://1024terabox.com/s/1rNf2EBkIM3Pl2YaZsVrSxA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1NaEbwYy632boQ1eJ5NaBNQ?pwd=1234"
  },{
   "Version": "1.2.3",
   "IPA ID": 829411588,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.2.3.ipa&bundle=com.keplerians.thenun&version=1.2.3&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.2.3.plist",
   "Terabox": "https://1024terabox.com/s/1NHrgVYi0rcY1CtoyADqDpA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1S5YUssCWvZaq-h0CZoHV3Q?pwd=1234"
  },{
   "Version": "1.3.1",
   "IPA ID": 829735331,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.3.1.ipa&bundle=com.keplerians.thenun&version=1.3.1&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.3.1.plist",
   "Terabox": "https://1024terabox.com/s/1oB2PWFPeJSWsTBO7sitKuA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KZUrmJFS_BLI67H9kqrPfw?pwd=1234"
  },
@@ -201,7 +201,7 @@
   "Version": "1.3.2",
   "IPA ID": 829793981,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.3.2.ipa&bundle=com.keplerians.thenun&version=1.3.2&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.3.2.plist",
   "Terabox": "https://1024terabox.com/s/1X9FNqa8v-e9i828GigOzdQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1l3BiwxI8OoxnHRDwmZofUQ?pwd=1234"
  },
@@ -209,7 +209,7 @@
   "Version": "1.4.33",
   "IPA ID": 830119493,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.4.33.ipa&bundle=com.keplerians.thenun&version=1.4.33&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.4.33.plist",
   "Terabox": "https://1024terabox.com/s/1DB-ZlrQYwkuQguwPLAo1qw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mD-C6z1zC3lQKKyTD29XGQ?pwd=1234"
  },
@@ -217,7 +217,7 @@
   "Version": "1.4.40",
   "IPA ID": 830284276,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.4.40.ipa&bundle=com.keplerians.thenun&version=1.4.40&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.4.40.plist",
   "Terabox": "https://1024terabox.com/s/1exB_ULDjLT1ZNiq7tgyzXQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1bZ47qeyNEdBrmCElJrAb9g?pwd=1234"
  },
@@ -225,7 +225,7 @@
   "Version": "1.4.41",
   "IPA ID": 830333104,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.4.41.ipa&bundle=com.keplerians.thenun&version=1.4.41&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7/1.1.x-1.4.x/1.4.41.plist",
   "Terabox": "https://1024terabox.com/s/1JxerEJiMfAUetde3Evu_lA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eTDUoNDwf_GhJneI8n2hvg?pwd=1234"
  },
@@ -233,7 +233,7 @@
   "Version": "1.5.0",
   "IPA ID": 830473853,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.5.0.ipa&bundle=com.keplerians.thenun&version=1.5.0&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7arm64/1.5.x-1.6.x/1.5.0.plist",
   "Terabox": "https://1024terabox.com/s/1kNvsORPbA4EpSSTrhfIhcg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uQeP0S_iFmToNy1GTa_fzw?pwd=1234"
  },
@@ -241,7 +241,7 @@
   "Version": "1.5.1",
   "IPA ID": 830483700,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.5.1.ipa&bundle=com.keplerians.thenun&version=1.5.1&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7arm64/1.5.x-1.6.x/1.5.1.plist",
   "Terabox": "https://1024terabox.com/s/17PtwZxpgxjATwiWnYMRhKQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1x7g5wzIsCvpT6r9pK98fIA?pwd=1234"
  },
@@ -249,7 +249,7 @@
   "Version": "1.5.2",
   "IPA ID": 830602855,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.5.2.ipa&bundle=com.keplerians.thenun&version=1.5.2&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7arm64/1.5.x-1.6.x/1.5.2.plist",
   "Terabox": "https://1024terabox.com/s/1oVguiXY0qM7klgSte3M3Jw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1W1RBGw2gGvVFQYR1zaWfzg?pwd=1234"
  },
@@ -257,7 +257,7 @@
   "Version": "1.6.0",
   "IPA ID": 831243394,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.6.0.ipa&bundle=com.keplerians.thenun&version=1.6.0&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7arm64/1.5.x-1.6.x/1.6.0.plist",
   "Terabox": "https://1024terabox.com/s/1KzJd0-K432c-BzGSnzorGQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/16AadyMLH_qNF8gewLLVqyg?pwd=1234"
  },
@@ -265,7 +265,7 @@
   "Version": "1.6.1",
   "IPA ID": 831271816,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.6.1.ipa&bundle=com.keplerians.thenun&version=1.6.1&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7arm64/1.5.x-1.6.x/1.6.1.plist",
   "Terabox": "https://1024terabox.com/s/1sR5jQkXaDM8dMLZsDqRvuw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1GCa454COV8E3DnSUrmr6Vg?pwd=1234"
  },
@@ -273,7 +273,7 @@
   "Version": "1.6.2",
   "IPA ID": 831294167,
   "iOS Support": "iOS 9.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Evil-Nun/armv7arm64_Evil.Nun.1.6.2.ipa&bundle=com.keplerians.thenun&version=1.6.2&title=Evil Nun",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/EvilNun-1410194646/armv7arm64/1.5.x-1.6.x/1.6.2.plist",
   "Terabox": "https://1024terabox.com/s/1MOgcnLHC2LnqGUzSkiMiOA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Bo6HHQ5927x6xpMWlDWriw?pwd=1234"
  }
