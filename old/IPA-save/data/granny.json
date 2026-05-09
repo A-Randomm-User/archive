@@ -359,6 +359,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Granny-1323957120/arm64/1.8.2.plist",
   "Terabox": "https://1024terabox.com/s/1sdrm5ABtK5XanEcwqUcOwQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LTnUUVPWvrDhe8A3-tNGSA?pwd=1234"
+ },
+ {
+  "Version": "1.8.3",
+  "IPA ID": 885061312,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Granny-1323957120/arm64/1.8.3.plist",
+  "Terabox": "https://1024terabox.com/s/1hqxI8E_A5rxnv_MZysJ3XA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1S0p5akDQKfcI6f21kjy1pw?pwd=1234"
+ },
+ {
+  "Version": "1.8.4",
+  "IPA ID": 885152887,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Granny-1323957120/arm64/1.8.4.plist",
+  "Terabox": "https://1024terabox.com/s/1Sdb_hrQGFGznhFPOD30K0g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1EZJrPKfePQn_S4B-dJyf7g?pwd=1234"
  }
 ],
 "Official":[
@@ -533,6 +549,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Granny-1323957120/off/1.8.2.plist",
   "Terabox": "https://1024terabox.com/s/1SDCaXu0pzhNve0mZvK04VA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nd5oZn5JbByqMu0fxVmAHw?pwd=1234"
+ },
+ {
+  "Version": "1.8.3",
+  "IPA ID": 885061312,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Granny-1323957120/off/1.8.3.plist",
+  "Terabox": "https://1024terabox.com/s/1V7N-sFdxXaBSMzeRZ4egzg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1hl1ny_etr1tiyjtjJUfqiw?pwd=1234"
+ },
+ {
+  "Version": "1.8.4",
+  "IPA ID": 885152887,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Granny-1323957120/off/1.8.4.plist",
+  "Terabox": "https://1024terabox.com/s/1PqYHfkW_FGXyD38aFD2Qkg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uc8updFIJRxs1oGJbQjang?pwd=1234"
  }
 ]
 }
