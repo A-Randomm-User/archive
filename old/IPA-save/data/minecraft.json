@@ -2681,6 +2681,20 @@
   "Terabox": "https://1024terabox.com/s/1Nk3NR4qTfovDjPhRlwJsmw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OY5M2dWbTtWeuqoaVxLlyg?pwd=1234"
  },{
+  "Version": "1.21.30",
+  "IPA ID": 868819398,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/arm64/1.20.x-1.21.x/1.21.30.plist",
+  "Terabox": "https://1024terabox.com/s/1LcMpaukcPJkaHK_sYJ8lAg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1lPpo7dikrGjj9gb4wnBnvw?pwd=1234"
+ },{
+  "Version": "1.21.31",
+  "IPA ID": 869191054,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/arm64/1.20.x-1.21.x/1.21.31.plist",
+  "Terabox": "https://1024terabox.com/s/1XP4532_AEgcMo3bgWQiadQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tHktackPDj7n2WMrsZAmqQ?pwd=1234"
+ },{
   "Version": "26.0",
   "IPA ID": 881766223,
   "iOS Support": "iOS 13.0+",
@@ -4146,42 +4160,39 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/1.20.x-1.21.x/1.21.20.plist",
   "Terabox": "https://1024terabox.com/s/1hoKCSozHnZHZoVIlyDvdgw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LKz-9Vn0mMF1Qh-GsgBGHw?pwd=1234"
- },
- {
+ },{
   "Version": "1.21.21",
   "IPA ID": 868215813,
   "iOS Support": "iOS 13.0+",
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/1.20.x-1.21.x/1.21.21.plist",
   "Terabox": "https://1024terabox.com/s/1RceoqpGImg_TTstDYg0tTA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U-7ZCVwykKolO3Z-zWx8fQ?pwd=1234"
- },
- {
+ },{
   "Version": "1.21.22",
   "IPA ID": 868505793,
   "iOS Support": "iOS 13.0+",
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/1.20.x-1.21.x/1.21.22.plist",
   "Terabox": "https://1024terabox.com/s/10qoiL9S7iVGldzu-Hp1TQQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/186rhXGCrBMP6t_IWuVIFtw?pwd=1234"
- },
- {
+ },{
   "Version": "1.21.23",
   "IPA ID": 868630223,
   "iOS Support": "iOS 13.0+",
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/1.20.x-1.21.x/1.21.23.plist",
   "Terabox": "https://1024terabox.com/s/1-SkKtpOseA2BbGg9qWvYZA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10no1CZVp5KOZco8eKN-vnw?pwd=1234"
- },
- {
+ },{
   "Version": "1.21.30",
   "IPA ID": 868819398,
   "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/1.20.x-1.21.x/1.21.30.plist",
   "Terabox": "https://1024terabox.com/s/1Tl_m9BuEinqFkisHxzwCHQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XO7Kgmb0AjU1aaxuLnR2gw?pwd=1234"
- },
- {
+ },{
   "Version": "1.21.31",
   "IPA ID": 869191054,
   "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/1.20.x-1.21.x/1.21.31.plist",
   "Terabox": "https://1024terabox.com/s/1eV01nUSEuQXej2jPQYY26g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mDH2EYSt8aeH--WxMOtXbA?pwd=1234"
  },
@@ -4254,6 +4265,41 @@
   "iOS Support": "iOS 13.0+",
   "Terabox": "https://1024terabox.com/s/1fC2MbLP2M72vXyU8-u-U_Q",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1yY2V5iHH86zhjnDOerynOg?pwd=1234"
+ },
+ {
+  "Version": "1.21.70",
+  "IPA ID": 872977864,
+  "iOS Support": "iOS 13.0+",
+  "Terabox": "https://1024terabox.com/s/1P7SUiBL2E1Vq-p_fGeKjJA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/16lHJW2m_IhxMJ5ydN6fGlQ?pwd=1234"
+ },
+ {
+  "Version": "1.21.71",
+  "IPA ID": 873566805,
+  "iOS Support": "iOS 13.0+",
+  "Terabox": "https://1024terabox.com/s/1c_WDsCZ8dE9QRICnkj4SYw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11XR-TGC2dtq0FwQXoKWBmA?pwd=1234"
+ },
+ {
+  "Version": "1.21.72",
+  "IPA ID": 873795097,
+  "iOS Support": "iOS 13.0+",
+  "Terabox": "https://1024terabox.com/s/1-BgZOGScjBsR2C7AhEqhDw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QmV60AQVUzq8PZBK4c318w?pwd=1234"
+ },
+ {
+  "Version": "1.21.80",
+  "IPA ID": 874197805,
+  "iOS Support": "iOS 13.0+",
+  "Terabox": "https://1024terabox.com/s/1kZkbbYVievPo6-1NXtXTTQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1s8_Uv_3EtFr6ZyhJ3XjqWQ?pwd=1234"
+ },
+ {
+  "Version": "1.21.81",
+  "IPA ID": 874658227,
+  "iOS Support": "iOS 13.0+",
+  "Terabox": "https://1024terabox.com/s/1gdf3d0dN61SuoTD75gSHBg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nDO5qbZLJw8yqWLdyJmXgA?pwd=1234"
  },
  {
   "Version": "26.0",
