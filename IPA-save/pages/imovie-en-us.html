@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classic Keynote</title>
+    <title>iMovie</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/classic-keynote.png" type="image/png" />
+    <link rel="icon" href="../images/imovie.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -17,21 +17,35 @@
     </script>
 </head>
 <body>
-  <br>
-    <div class="top-controls">
-      <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
-      <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-                </button>
             </a>
+        </div> 
     </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+    <br>
     <div class="responsive-table-wrapper">
     <h2>About this Application</h2>
   <table>
     <tr>
       <td>Application Name</td>
-      <td>Keynote</td>
+      <td>iMovie</td>
     </tr>
     <tr>
       <td>Seller</td>
@@ -39,26 +53,19 @@
     </tr>
     <tr>
       <td>Bundle Identifier</td>
-      <td>com.apple.Keynote</td>
+      <td>com.apple.iMovie</td>
     </tr>
     <tr>
       <td>App Store</td>
-      <td><a href="https://apps.apple.com/us/app/keynote/id361285480">https://apps.apple.com/us/app/keynote/id361285480</a> *Replaced with <a href="https://apps.apple.com/us/app/keynote-design-presentations/id361285480">https://apps.apple.com/us/app/keynote-design-presentations/id361285480</a> on 28 January, 2026</td>
+      <td><a href="https://apps.apple.com/us/app/imovie/id377298193">https://apps.apple.com/us/app/imovie/id377298193</a></td>
     </tr>
     <tr>
       <td>Developer Website</td>
-      <td><a href="http://www.apple.com/uk/keynote/">http://www.apple.com/uk/keynote/</a></td>
+      <td><a href="http://www.apple.com/ios/imovie/">http://www.apple.com/ios/imovie/</a></td>
     </tr>
   </table>
   </div>
   <br>
-  <p>Quick Links: <a href="#2.0">2.0</a>; <a href="#3.0">3.0</a>; <a href="#4.0">4.0</a>; <a href="#5.0">5.0</a>; <a href="#10.0">10.0</a>; <a href="#11.0">11.0</a></p>
-  <p>Notes:</p>
-  <li>
-    <ul>Keynote 2.5.3, 2.5.4, 2.5.5, 2.6, 2.6, 2.6, 2.6, 2.6, 2.6, 2.6.1, 2.6.1, 2.6.1, 2.6.2 do not contain the “Keynote WatchKit Extension” because Clutch threw an error while decrypting it, so I removed the folder. It has been tested and works</ul>
-  </li>
-  
-    <script src="../../dark-mode.js"></script>
     <div id="buttonContainer"></div>
     <div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
@@ -66,7 +73,7 @@
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../data/classickeynote.json', true);
+  xhr.open('GET', '../data/imovie.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
