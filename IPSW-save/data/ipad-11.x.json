@@ -1,6 +1,15 @@
 {
 "iPad Air (iPad4,1 / iPad4,2 / iPad4,3)":[
-{
+ {
+  "Version": "11.0",
+  "Build": "15A5278f",
+  "Type": "Beta",
+  "Release Date": "5 June, 2017",
+  "Orginal File Name": "iPad_64bit_11.0_15A5278f_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_5_2017_Seed/iPad_64bit_11.0_15A5278f_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1cOaNWyHrSOjMR7eeK1uRIA?pwd=1234"
+ },
+ {
   "Version": "11.0",
   "Build": "15A5304i",
   "Type": "Beta",
@@ -17,6 +26,15 @@
   "Orginal File Name": "iPad_64bit_11.0_15A5304j_Restore.ipsw",
   "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-20451-20170626-060C7F3A-582A-11E7-A782-8832C344ED54/iPad_64bit_11.0_15A5304j_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/147sLWAvQyxsMBjP-UPehHQ?pwd=1234"
+ },
+ {
+  "Version": "11.0",
+  "Build": "15A5318g",
+  "Type": "Beta",
+  "Release Date": "10 July, 2017",
+  "Orginal File Name": "iPad_64bit_11.0_15A5318g_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-21556-2017071o-420F623A-6339-11E7-BFD2-F384494DD6D5/iPad_64bit_11.0_15A5318g_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1e8UR8JaalKMnzOdj6QnBZQ?pwd=1234"
  }
 ],
 "iPad (5th Generation) (iPad6,11 / iPad6,12)":[
