@@ -372,5 +372,75 @@
  }
 ],
 "5.0 to 5.9":[
+ {
+  "Version": "5.0.1",
+  "File Name": "ipad3_5.0.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.0.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1xgGrET6gLiZFD3QXh80AdA",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.0.1_main.rsb"
+ },
+ {
+  "Version": "5.1.1",
+  "File Name": "ipad3_5.1.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.1.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1oEj37wdE0ufeRh4ysTpNOA",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.1.1_main.rsb"
+ },
+ {
+  "Version": "5.2.1",
+  "File Name": "ipad3_5.2.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.2.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1s-buhpuEfrV-sYBw6O33GA",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.2.1_main.rsb"
+ },
+ {
+  "Version": "5.3.1",
+  "File Name": "ipad3_5.3.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.3.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1ccb4mBRaGRfg0PkDuZY0ZQ",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.3.1_main.rsb"
+ },
+ {
+  "Version": "5.4.1",
+  "File Name": "ipad3_5.4.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.4.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1w_98bVbDmwzwgLXVi0pN9w",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.4.1_main.rsb"
+ },
+ {
+  "Version": "5.5.1",
+  "File Name": "ipad3_5.5.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.5.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1Nl_SCZ08MUecHIe5psh1Rw",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.5.1_main.rsb"
+ },
+ {
+  "Version": "5.6.1",
+  "File Name": "ipad3_5.6.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.6.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1_BIMaMAFprGIAVl6a3snfQ",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.6.1_main.rsb"
+ },
+ {
+  "Version": "5.7.1",
+  "File Name": "ipad3_5.7.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.7.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1CFYLOmps6yEaqia3-tK70A",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_4.7.1_main.rsb"
+ },
+ {
+  "Version": "5.8.1",
+  "File Name": "ipad3_5.8.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.8.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1THp1fd5erg3wLoejzOJ86g",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.8.1_main.rsb"
+ },
+ {
+  "Version": "5.9.1",
+  "File Name": "ipad3_5.9.1_main",
+  "PopCap Server": "https://pvz2-live.ecs.popcap.com/ipad3_5.9.1_main.rsb",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1qgyMXrX4AgkYbp0fSOTb6Q",
+  "Github": "https://github.com/A-Randomm-User/RSB-save/releases/download/5.1-5.9/ipad3_5.9.1_main.rsb"
+ }
 ]
 }
