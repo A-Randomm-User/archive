@@ -18,5 +18,34 @@
   "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-81858/EB408ECA-9BC1-11E9-935B-AF24024E608E/iPad_64bit_TouchID_ASTC_13.0_17A5522f_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/142yYi0q-Dc4zIUFIQl6XKQ?pwd=1234"
  }
+],
+"iPad (7th Generation) (iPad7,11 / iPad7,12)":[
+ {
+  "Version": "13.1",
+  "Build": "17A844",
+  "Type": "Release",
+  "Release Date": "24 September, 2019",
+  "Orginal File Name": "iPad_Educational_13.1_17A844_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-07122/DCD64926-D986-11E9-B3DA-8F20DCDBD6A3/iPad_Educational_13.1_17A844_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13I9ripwh48Q11cLYBZoVNw"
+ },
+ {
+  "Version": "13.1.1",
+  "Build": "17A854",
+  "Type": "Release",
+  "Release Date": "27 September, 2019",
+  "Orginal File Name": "iPad_Educational_13.1.1_17A854_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-18334/E8F56F3C-DED8-11E9-B72B-C34105E966E1/iPad_Educational_13.1.1_17A854_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qWCm1UNIBl0FAp0Xo-YXig"
+ },
+ {
+  "Version": "13.1.2",
+  "Build": "17A860",
+  "Type": "Release",
+  "Release Date": "30 September, 2019",
+  "Orginal File Name": "iPad_Educational_13.1.2_17A860_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-22557/37419F1C-E18B-11E9-8BE6-A76496A9EC6E/iPad_Educational_13.1.2_17A860_Restore.ipsw$0",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1OjdNeRA0AhXwQZEQYIzMlg"
+ }
 ]
 }
