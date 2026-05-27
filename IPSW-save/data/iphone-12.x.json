@@ -237,6 +237,15 @@
 ],
 "iPhone 6 (iPhone 7,2) ":[
  {
+  "Version": "12.0",
+  "Build": "16A5288q",
+  "Type": "Beta",
+  "Release Date": "4 June, 2018",
+  "Orginal File Name": "iPhone_4.7_12.0_16A5288q_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_4_2018_Seed/iPhone_4.7_12.0_16A5288q_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1R4GvYTexvrYNfe-g69fcsg"
+ },
+ {
   "Version": "12.1",
   "Build": "16B5077c",
   "Type": "Beta",
@@ -247,6 +256,15 @@
  }
 ],
 "iPhone 6s (iPhone 8,1) ":[
+ {
+  "Version": "12.0",
+  "Build": "16A5288q",
+  "Type": "Beta",
+  "Release Date": "4 June, 2018",
+  "Orginal File Name": "iPhone_4.7_12.0_16A5288q_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_4_2018_Seed/iPhone_4.7_12.0_16A5288q_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1R4GvYTexvrYNfe-g69fcsg"
+ },
  {
   "Version": "12.1.3",
   "Build": "16D39",

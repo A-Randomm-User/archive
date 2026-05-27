@@ -62,5 +62,77 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15akJK5Gte1upvyJpcqdcMg?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone4%2C1/iPhone4.1_7.0_11A4414e_Restore.ipsw"
  }
+],
+"iPhone 5s (iPhone6,1)":[
+ {
+  "Version": "7.0",
+  "Build": "11A466",
+  "Type": "Release",
+  "Release Date": "18 September, 2013",
+  "Orginal File Name": "iphone6,1_7.0_11a466_restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/091-9500.20130918.bgy5t/iphone6,1_7.0_11a466_restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1MKZz2PmmeO_XDtR2z2B1SA",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iphone6.1_7.0_11a466_restore.ipsw"
+ },
+ {
+  "Version": "7.0.1",
+  "Build": "11A470a",
+  "Type": "Release",
+  "Release Date": "18 September, 2013",
+  "Orginal File Name": "iPhone6,1_7.0.1_11A470a_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-0290.20130914.khyTp/iPhone6,1_7.0.1_11A470a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1830dBSvfvc3VQTf9wfYylg",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.1_11A470a_Restore.ipsw"
+ },
+ {
+  "Version": "7.0.2",
+  "Build": "11A501",
+  "Type": "Release",
+  "Release Date": "26 Sepember, 2013",
+  "Orginal File Name": "iPhone6,1_7.0.2_11A501_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-0322.20130924.gpNkP/iPhone6,1_7.0.2_11A501_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gBSwV9kOlLr_pH0LT3Tt5A",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.2_11A501_Restore.ipsw"
+ },
+ {
+  "Version": "7.0.3",
+  "Build": "11B511",
+  "Type": "Release",
+  "Release Date": "22 October, 2013",
+  "Orginal File Name": "iPhone6,1_7.0.3_11B511_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-0966.20131022.45gBg/iPhone6,1_7.0.3_11B511_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1egym7fRjV4ubWD_3iYB1uA",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.3_11B511_Restore.ipsw"
+ },
+ {
+  "Version": "7.0.4",
+  "Build": "11B553",
+  "Type": "Release",
+  "Release Date": "—",
+  "Orginal File Name": "iphone6,1_7.0.4_11b553_restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-1178.20131104.bbg78/iphone6,1_7.0.4_11b553_restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Sr2ebVnE4wXoC0vzI-UATQ",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iphone6.1_7.0.4_11b553_restore.ipsw"
+ },
+ {
+  "Version": "7.0.4",
+  "Build": "11B554a",
+  "Type": "Release",
+  "Release Date": "14 November, 2013",
+  "Orginal File Name": "iPhone6,1_7.0.4_11B554a_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-1855.20131114.P3wE4/iPhone6,1_7.0.4_11B554a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1oSKcpbfh4ndnrSt2fQUbHw",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.4_11B554a_Restore.ipsw"
+ },
+ {
+  "Version": "7.0.6",
+  "Build": "11B651",
+  "Type": "Release",
+  "Release Date": "21 February, 2014",
+  "Orginal File Name": "iPhone6,1_7.0.6_11B651_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-3045.20140221.8j5GW/iPhone6,1_7.0.6_11B651_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rsO30ZxBIuhKCdpTpiD5nQ",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.6_11B651_Restore.ipsw$0"
+ },
 ]
 }
