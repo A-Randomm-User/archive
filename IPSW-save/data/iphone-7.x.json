@@ -132,7 +132,37 @@
   "Orginal File Name": "iPhone6,1_7.0.6_11B651_Restore.ipsw",
   "Apple Server": "https://secure-appldnld.apple.com/iOS7/031-3045.20140221.8j5GW/iPhone6,1_7.0.6_11B651_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rsO30ZxBIuhKCdpTpiD5nQ",
-  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.6_11B651_Restore.ipsw$0"
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.0.6_11B651_Restore.ipsw"
  },
+ {
+  "Version": "7.1",
+  "Build": "11D5099e",
+  "Type": "Beta",
+  "Release Date": "18 November, 2013",
+  "Orginal File Name": "iPhone6,1_7.1_11D5099e_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/ios/ios_7.1_beta_kzcsr8/ios_7.1_beta__iphone_5s_model_a1453_a1533__11d5099e.dmg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TraB9Y81SlyF0AGyHpQMig",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.1_11D5099e_Restore.ipsw"
+ },
+ {
+  "Version": "7.1",
+  "Build": "11D5115d",
+  "Type": "Beta",
+  "Release Date": "14 December, 2013",
+  "Orginal File Name": "iPhone6,1_7.1_11D5115d_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/ios/ios_7.1_beta_2_kj7cpz/ios_7.1_beta_2__iphone_5s_model_a1453_a1533__11d5115d.dmg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Uwo40FyfYJ64YTRmx9NFBw",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.1_11D5115d_Restore.ipsw"
+ },
+ {
+  "Version": "7.1",
+  "Build": "11D5127c",
+  "Type": "Beta",
+  "Release Date": "7 January, 2014",
+  "Orginal File Name": "iPhone6,1_7.1_11D5127c_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/ios/ios_7.1_beta_3_r9zgcv/ios_7.1_beta_3__iphone_5s_model_a1453_a1533__11d5127c.dmg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1-YuqkdrWh_BRRQvqRLRSQQ",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone6%2C1/iPhone6.1_7.1_11D5127c_Restore.ipsw"
+ }
 ]
 }
