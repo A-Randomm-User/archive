@@ -4,9 +4,17 @@
   "Version": "28.0.21",
   "IPA ID": 882842387,
   "iOS Support": "iOS 15.0+",
-  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/arm64/PE/28.0.21.plist",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/arm64/28.0.21.plist",
   "Terabox": "https://1024terabox.com/s/1Mwu3eJyDDsQpjAntc1TbUg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1-vLrdiwClYnj6xIqmlfy5g"
+ },
+ {
+  "Version": "28.1.19",
+  "IPA ID": 884243938,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/arm64/28.1.19.plist",
+  "Terabox": "https://1024terabox.com/s/1voiIIJ7YzbW9OzjCm3J8Uw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qusE5WQSdQvfY-XWdmElWQ"
  }
 ],
 "Official":[
@@ -14,9 +22,17 @@
   "Version": "28.0.21",
   "IPA ID": 882842387,
   "iOS Support": "iOS 15.0+",
-  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/off/PE/28.0.21.plist",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/off/28.0.21.plist",
   "Terabox": "https://1024terabox.com/s/1PGFHNeJtghTiX5OWZY6kTw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1P5v_6CHxS0e6iiBZI-2mlg"
+ },
+ {
+  "Version": "28.1.19",
+  "IPA ID": 884243938,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PlantsvsZombies3-1666636976/off/28.1.19.plist",
+  "Terabox": "https://1024terabox.com/s/1-QJVJV1CRQHzWsqEPN3SMQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tdJW901rgM-RgU-9kGyvvQ"
  }
 ]
 }
