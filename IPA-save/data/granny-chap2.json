@@ -211,6 +211,14 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.13.plist",
   "Terabox": "https://1024terabox.com/s/1w1xXEX3OySfpH7IXttN6pQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1BMq9bLszpIhEReoNMzs15w?pwd=1234"
+ },
+ {
+  "Version": "1.1.14",
+  "IPA ID": 886251160,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/arm64/1.1.14.plist",
+  "Terabox": "https://1024terabox.com/s/1WBefkHJQ-EPrHAV-4iitqw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1dqwjMVSpSs4XTt6JwUBpBw"
  }
 ],
 "Official":[
@@ -325,6 +333,14 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.13.plist",
   "Terabox": "https://1024terabox.com/s/1GRXA4m6k0FXfAqs7prHQ3A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1u_qrTt056Kfn3C_m87ua_g?pwd=1234"
+ },
+ {
+  "Version": "1.1.14",
+  "IPA ID": 886251160,
+  "iOS Support": "iOS 13.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/GrannyChap2-1479175321/off/1.1.14.plist",
+  "Terabox": "https://1024terabox.com/s/1mXLLkcCW6Md_-5RrbG9s1A",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1-u1xEiwhyCaCdCsGA8pHdA"
  }
 ]
 }
