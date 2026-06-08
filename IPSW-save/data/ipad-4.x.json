@@ -224,7 +224,7 @@
  },
  {
   "Version": "4.3.3",
-  "Build": "8J3",
+  "Build": "8J2",
   "Type": "Release",
   "Release Date": "4 May, 2011",
   "Orginal File Name": "iPad2,1_4.3.3_8J3_Restore.ipsw",
@@ -251,6 +251,68 @@
   "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-1960.20110721.UsAO4/iPad2,1_4.3.5_8L1_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1GF3q1yWbZpA6zSL-JfLLPA?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_4.3.5_8L1_Restore.ipsw"
+ }
+],
+"iPad 2 (iPad2,2)":[
+ {
+  "Version": "4.3",
+  "Build": "8F191",
+  "Type": "Release",
+  "Release Date": "11 March, 2011",
+  "Orginal File Name": "iPad2,2_4.3_8F191_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-0369.20110311.Xzsew/iPad2,2_4.3_8F191_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1BOixJni9ftdM_M1UDbN4Ig",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_4.3_8F191_Restore.ipsw"
+ },
+ {
+  "Version": "4.3.1",
+  "Build": "8G4",
+  "Type": "Release",
+  "Release Date": "25 March, 2011",
+  "Orginal File Name": "iPad2,2_4.3.1_8G4_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-0557.20110325.Jy76y/iPad2,2_4.3.1_8G4_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eOcqG8yog3qZEcdbO4rpkg",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_4.3.1_8G4_Restore.ipsw"
+ },
+ {
+  "Version": "4.3.2",
+  "Build": "8H7",
+  "Type": "Release",
+  "Release Date": "14 April, 2011",
+  "Orginal File Name": "iPad2,2_4.3.2_8H7_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-0664.20110414.39vUS/iPad2,2_4.3.2_8H7_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tEXhZdn_aflpoi3esgCUFg",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_4.3.2_8H7_Restore.ipsw"
+ },
+ {
+  "Version": "4.3.3",
+  "Build": "8J2",
+  "Type": "Release",
+  "Release Date": "4 May, 2011",
+  "Orginal File Name": "iPad2,2_4.3.3_8J3_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-1013.20110503.1m73D/iPad2,2_4.3.3_8J2_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1w9BYgWqZQPTvVi0FAPuJAQ",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_4.3.3_8J2_Restore.ipsw"
+ },
+ {
+  "Version": "4.3.4",
+  "Build": "8K2",
+  "Type": "Release",
+  "Release Date": "15 July, 2011",
+  "Orginal File Name": "iPad2,2_4.3.4_8K2_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-1914.20110715.Xdw2Q/iPad2,2_4.3.4_8K2_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1NLX9dINcsrKtVYEkhOoX8g",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_4.3.4_8K2_Restore.ipsw"
+ },
+ {
+  "Version": "4.3.5",
+  "Build": "8L1",
+  "Type": "Release",
+  "Release Date": "25 July, 2011",
+  "Orginal File Name": "iPad2,2_4.3.5_8L1_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-1961.20110721.zigyd/iPad2,2_4.3.5_8L1_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1RFlU4yuNYz0EwpDPWmaa8g",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_4.3.5_8L1_Restore.ipsw"
  }
 ]
 }
