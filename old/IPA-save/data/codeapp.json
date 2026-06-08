@@ -115,6 +115,22 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1l2RJuks0RJ1w6qiti-KruQ?pwd=1234"
  },
  {
+  "Version": "1.2.10",
+  "IPA ID": 847548346,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/CodeApp-1512938504/off/1.2.x-1.4.x/1.2.10.plist",
+  "Terabox": "https://1024terabox.com/s/1c0VBvcHZz3xrorEBOEUOBQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1G8neLJK6EXzc9aZsref7zA?pwd=1234"
+ },
+ {
+  "Version": "1.2.11",
+  "IPA ID": 847573600,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/CodeApp-1512938504/off/1.2.x-1.4.x/1.2.11.plist",
+  "Terabox": "https://1024terabox.com/s/1Sc3ZOu4GrmUQJDSL2t9xGg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1xzqMx83dcW5lr3-M0FhgmA?pwd=1234"
+ },
+ {
   "Version": "1.12.1",
   "IPA ID": 844216898,
   "iOS Support": "iOS 16.0+",
