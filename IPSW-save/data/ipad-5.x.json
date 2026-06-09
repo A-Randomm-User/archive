@@ -190,7 +190,7 @@
   "Orginal File Name": "iPad2,1_5.0_9A5248d_Restore.ipsw",
   "Apple Server": "—",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rpikH8byRBP7YqpBZvL1ZQ",
-  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2,1_5.0_9A5248d_Restore.ipsw"
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_5.0_9A5248d_Restore.ipsw"
  },
  {
   "Version": "5.0",
@@ -200,7 +200,7 @@
   "Orginal File Name": "iPad2,1_5.0_9A5259f_Restore.ipsw",
   "Apple Server": "—",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12vC2tX9CKBSfXHgBvOuddA",
-  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2,1_5.0_9A5259f_Restore.ipsw"
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_5.0_9A5259f_Restore.ipsw"
  },
  {
   "Version": "5.0",
@@ -341,6 +341,38 @@
   "Apple Server": "https://secure-appldnld.apple.com/iOS5.1.1/041-4294.20120427.Pp5qM/iPad2,1_5.1.1_9B206_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1HSwcxrSxisz6pMHvTvn-ig",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_5.1.1_9B206_Restore.ipsw"
+ }
+],
+"iPad 2 (iPad2,2)":[
+ {
+  "Version": "5.0",
+  "Build": "9A5220p",
+  "Type": "Beta",
+  "Release Date": "7 June, 2011",
+  "Orginal File Name": "iPad2,2_5.0_9A5220p_Restore.ipsw",
+  "Apple Server": "—",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1G16ZB2PRdwn7_GccZV2KTA?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.2_5.0_9A5220p_Restore.ipsw"
+ },
+ {
+  "Version": "5.0",
+  "Build": "9A5248d",
+  "Type": "Beta",
+  "Release Date": "24 June, 2011",
+  "Orginal File Name": "iPad2,2_5.0_9A5248d_Restore.ipsw",
+  "Apple Server": "—",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wzrKcnUgzsshF266KLB9xQ?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.2_5.0_9A5248d_Restore.ipsw"
+ },
+ {
+  "Version": "5.0",
+  "Build": "9A5259f",
+  "Type": "Beta",
+  "Release Date": "11 July, 2011",
+  "Orginal File Name": "iPad2,2_5.0_9A5259f_GSM_wifi_3G_Restore.ipsw",
+  "Apple Server": "—",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12cXUNj0F1H6visQlT85rwA?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C2/iPad2.2_5.0_9A5259f_GSM_wifi_3G_Restore.ipsw"
  }
 ],
 "iPad 3 (iPad3,1)":[
