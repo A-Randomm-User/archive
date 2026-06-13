@@ -1,6 +1,14 @@
 {
 "Intel Mac":[
  {
+  "Version": "9.07",
+  "Release Date": "July 9, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/x64/i4Tools_v9.07.001_x64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1veQ7TMxgzCelUWot9Huoug?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.07.001_x64.dmg"
+ },
+ {
   "Version": "9.06",
   "Release Date": "May 8, 2026",
   "macOS Support": "macOS High Sierra",
@@ -43,10 +51,18 @@
 ],
 "Apple Silicon Mac":[
  {
+  "Version": "9.07",
+  "Release Date": "July 9, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/x64/i4Tools_v9.07.001_x64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/11RCCiFqFcaxpyTwtHrIfYQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.07.001_x64.dmg"
+ },
+ {
   "Version": "9.06",
   "Release Date": "May 8, 2026",
   "macOS Support": "macOS High Sierra",
-  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/x64/i4Tools_v9.06.013_arm64.dmg",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/arm64/i4Tools_v9.06.013_arm64.dmg",
   "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1STHJocGIKUZgm1cAGzXrlg?pwd=1234",
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.06.013_arm64.dmg"
  },
@@ -54,7 +70,7 @@
   "Version": "9.06",
   "Release Date": "May 7, 2026",
   "macOS Support": "macOS High Sierra",
-  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/x64/i4Tools_v9.06.005_arm64.dmg",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/arm64/i4Tools_v9.06.005_arm64.dmg",
   "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1LRYfOZvXfIG3pdhglMzyMQ?pwd=1234",
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.06.005_arm64.dmg"
  },

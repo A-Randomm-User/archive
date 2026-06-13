@@ -60,5 +60,37 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1lv0cVOMifwA8ciDHVOP9mQ?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_6.0.1_10A523_Restore.ipsw"
  }
+],
+"iPad mini (iPad2,5)":[
+ {
+  "Version": "6.0",
+  "Build": "10A406",
+  "Type": "Release",
+  "Release Date": "11 October, 2012",
+  "Orginal File Name": "iPad2,5_6.0_10A406_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS6/041-5525.20121101.Rstre/iPad2,5_6.0_10A406_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1cdpDPIjab4OjZuDEgRbJ_Q?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C5/iPad2.5_6.0_10A406_Restore.ipsw"
+ },
+ {
+  "Version": "6.0.1",
+  "Build": "10A523",
+  "Type": "Release",
+  "Release Date": "29 October, 2012",
+  "Orginal File Name": "iPad2,5_6.0.1_10A523_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS6/041-7859.20121101.gys65/iPad2,5_6.0.1_10A523_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1inOzYmjjPcVYCvMxVJmQkw?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C5/iPad2.5_6.0.1_10A523_Restore.ipsw"
+ },
+ {
+  "Version": "6.0.2",
+  "Build": "10A550",
+  "Type": "Release",
+  "Release Date": "13 December, 2012",
+  "Orginal File Name": "iPad2,5_6.0.2_10A550_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS6/041-0785.20121217.Fvrt4/iPad2,5_6.0.2_10A550_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1BNgf8e6az3CPGrjdqgfgMA?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C5/iPad2.5_6.0.2_10A550_Restore.ipsw"
+ }
 ]
 }
