@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iPhone RSB</title>
+    <title>iPhone 13.x</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/icon.png" type="image/png" />
-    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <link rel="icon" href="../images/ios13.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -28,8 +27,8 @@
             <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
             <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
             <a class="sidebar-link" href="../../IPA-save/index.html">IPA-save</a>
-            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
             <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
 
             <br>
             <a class="sidebar-link" href="../index.html">Go Back</a>
@@ -41,14 +40,17 @@
     <script src="../../sidebar.js"></script>
     <script src="../../dark-mode.js"></script>
 <br>
-<div id="buttonContainer"></div>
-<div class="responsive-table-wrapper">
+    <p># Golden Master Definition: A golden master build is typically the final build of a piece of software in the beta stages for developers. <br>
+      Typically, it is the final build before a major release, however, there have been a few exceptions. <br>
+      With iOS/iPadOS 14.2, Apple stopped using Golden Master and was replaced by Release Candidate.</p>
+    <div id="buttonContainer"></div>
+    <div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
 </div>
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../data/iphone.json', true);
+  xhr.open('GET', '../data/iphone-13.x.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {

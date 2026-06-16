@@ -175,6 +175,38 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-53.plist",
   "Terabox": "https://1024terabox.com/s/1MRHKY3QV2cupY-q7Tv18Fg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Jv-93DZJqpIyR5TpyAyG2Q?pwd=1234"
+ },
+ {
+  "Version": "1.0.0 (55)",
+  "IPA ID": "-",
+  "iOS Support": "iOS 15.6+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-55.plist",
+  "Terabox": "https://1024terabox.com/s/1dF9ogSbzn68gXtjXeEhISg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YX9VEaPJPHpn_Ie5yWgGIA?pwd=1234"
+ },
+ {
+  "Version": "1.0.0 (59)",
+  "IPA ID": "-",
+  "iOS Support": "iOS 15.6+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-59.plist",
+  "Terabox": "https://1024terabox.com/s/1uQ8PflqCr-GRw7CLWiFBKQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QvTHzKgyEnhTAASQ96csGg?pwd=1234"
+ },
+ {
+  "Version": "1.0.0 (60)",
+  "IPA ID": "-",
+  "iOS Support": "iOS 15.6+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-60.plist",
+  "Terabox": "https://1024terabox.com/s/1XcvrtCQy8Q1SurRnvOO3nw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pboRwg-X_KyvZ-BR6RTfxA?pwd=1234"
+ },
+ {
+  "Version": "1.0.0 (62)",
+  "IPA ID": "-",
+  "iOS Support": "iOS 15.6+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Blocq/arm64/1.0.0/1.0.0-62.plist",
+  "Terabox": "https://1024terabox.com/s/1KPamrlvbq1nW8WKWHVDdmw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1F8JBJAU0pvgy-fMxfvvMyw?pwd=1234"
  }
 ]
 }
