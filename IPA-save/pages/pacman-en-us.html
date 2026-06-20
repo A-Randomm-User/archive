@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visual Studio Code</title>
+    <title>Pac Man</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/vsc.png" type="image/png" />
-    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <link rel="icon" href="../images/pacman.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -27,8 +26,8 @@
             <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
             <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
             <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
-            <a class="sidebar-link" href="../../IPA-save/index.html">IPA-save</a>
             <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
             <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
 
             <br>
@@ -40,35 +39,42 @@
     </div>
     <script src="../../sidebar.js"></script>
     <script src="../../dark-mode.js"></script>
-<br>
-<div class="responsive-table-wrapper">
+    <br>
+  <div class="responsive-table-wrapper">
   <h2>About this Application</h2>
   <table>
     <tr>
       <td>Application Name</td>
-      <td>Visual Studio Code</td>
+      <td>Pac Man</td>
     </tr>
     <tr>
-      <td>Company Related</td>
-      <td>Microsoft</td>
+      <td>Seller</td>
+      <td>BANDAI NAMCO Entertainment America Inc.</td>
     </tr>
     <tr>
-      <td>Official Website</td>
-      <td><a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></td>
+      <td>Bundle Identifier</td>
+      <td>com.namconetworks.pacmanlite</td>
+    </tr>
+    <tr>
+      <td>App Store</td>
+      <td><a href="https://apps.apple.com/us/app/pac-man/id293778748">https://apps.apple.com/us/app/pac-man/id293778748</a> *Removed from App Store</td>
+    </tr>
+    <tr>
+      <td>Developer Website</td>
+      <td>https://www.bandainamcoent.com/</td>
     </tr>
   </table>
   </div>
-</table>
-<br>
-<p>Quick Links: <a href="#10.9">OS X Mavericks</a></p>
-<div id="buttonContainer"></div>
-<div class="responsive-table-wrapper">
+  <br>
+    <div id="buttonContainer"></div>
+    <div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
-</div>
+  </div>
+
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../data/vsc.json', true);
+  xhr.open('GET', '../data/pacman.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
