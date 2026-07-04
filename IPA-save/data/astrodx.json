@@ -15,6 +15,14 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AstroDX-6754203760/arm64/2.1.0.plist",
   "Terabox": "https://1024terabox.com/s/1ToBX_nadyhmwZRdHnZ7wzQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1jwWtpWCIZeegC-DoRpGnEw?pwd=1234"
+ },
+ {
+  "Version": "2.2.0",
+  "IPA ID": 887795569,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AstroDX-6754203760/arm64/2.2.0.plist",
+  "Terabox": "https://1024terabox.com/s/15UpkI98NAHwhrjaI_nQBkg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/17uSTe-qyKzZvbswZCoW67g?pwd=1234"
  }
 ],
 "Official":[
@@ -33,6 +41,14 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AstroDX-6754203760/off/2.1.0.plist",
   "Terabox": "https://1024terabox.com/s/1j1fUR5AfKi-PVoLCX8XTKQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1f-5ZmV1wzH34gy3ZvZls6Q?pwd=1234"
+ },
+ {
+  "Version": "2.2.0",
+  "IPA ID": 887795569,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/AstroDX-6754203760/off/2.2.0.plist",
+  "Terabox": "https://1024terabox.com/s/1rwLp7q2UXn97VZmUYITtjg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1seuuPLqjZRLxnOnuNd24Zw?pwd=1234"
  }
 ]
 }
