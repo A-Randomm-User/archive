@@ -253,6 +253,15 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/198ZgXXPt8D_UNacBq-st8A?pwd=1234"
  },
  {
+  "Version": "12.4",
+  "Build": "16G5027g",
+  "Type": "Beta",
+  "Release Date": "15 May, 2019",
+  "Orginal File Name": "iPhone_4.0_64bit_12.4_16G5027g_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SpringSeed/fullrestores/041-63335/99852512-7594-11E9-B1ED-8E315FFA6F77/iPhone_4.0_64bit_12.4_16G5027g_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1MkRTBExrjXkDHHYyL6wcyQ?pwd=1234"
+ },
+ {
   "Version": "12.5.8",
   "Build": "16H88",
   "Type": "Release",

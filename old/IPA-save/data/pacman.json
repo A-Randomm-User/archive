@@ -1,4 +1,21 @@
 {
+"ARMv6":[
+ {
+  "Version": "1.0.0",
+  "IPA ID": 691976,
+  "iOS Support": "iOS 2.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PacMan-293778748/armv7/1.0.0.plist",
+  "Terabox": "https://1024terabox.com/s/11eQGBshXAtrj9eVKgbo33w",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uTxM4IKd-wghAeWmYNTfiQ?pwd=1234"
+ },{
+  "Version": "1.0.1",
+  "IPA ID": 1125233,
+  "iOS Support": "iOS 2.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/PacMan-293778748/armv7/1.0.1.plist",
+  "Terabox": "https://1024terabox.com/s/1zYjYEJT2DqZRkVKLvs5Jng",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LelIMlM26NooyJ_fOjRWFQ?pwd=1234"
+ }
+],
 "Official":[
  {
   "Version": "1.0.0",
