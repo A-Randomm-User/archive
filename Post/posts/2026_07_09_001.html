@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Takes Away the Ability to Restore Legacy Devices</title>
+    <link rel="stylesheet" href="../../global-variables.css">
+    <link rel="icon" href="../images/i4tools.png" type="image/png" />
+    <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
+</head>
+<body>
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPA-save/index.html">IPA-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
+                    Appearance
+            </a>
+        </div> 
+    </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+<br>
+  </div>
+</table>
+<br>
+<div id="buttonContainer"></div>
+<h1>Apple Takes Away the Ability to Restore Legacy Devices</h1>
+<p>9 July, 2026</p>
+<hr>
+<p>Today, Apple stopped signing firmware for several legacy devices.</p>
+<p>The affected devices are:</p>
+<ul>
+    <li>iPhone 4 (iPhone3,3), iOS 7.1.2</li>
+    <li>iPhone 4s, iOS 6.1.3/8.4.1/9.3.5/9.3.6</li>
+    <li>iPhone 5 (GSM and CDMA), iOS 8.4.1/10.3.3/10.3.4</li>
+    <li>iPhone 5c (GSM and CDMA), iOS 10.3.3/10.3.4</li>
+    <br>
+    <li>iPad 2 (iPad2,3 CDMA), iOS 6.1.3/8.4.1/9.3.5/9.3.6</li>
+    <li>iPad 3 (iPad3,2 GSM), iOS 8.4.1/9.3.5/9.3.6</li>
+    <li>iPad 4 (iPad3,5 and 3,6), iOS 8.4.1/9.3.5/9.3.6</li>
+    <li>iPad mini (iPad2,6 and 2,7), iOS 8.4.1/9.3.5/9.3.6</li>
+</ul>
+
+<p>This is not a usual unsigning event, as Apple only unsigned the baseband firmware, preventing the devices listed above from being restored, even with SHSH blobs.</p>
+
+</body>
+</html>
