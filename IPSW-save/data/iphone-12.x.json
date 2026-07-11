@@ -451,6 +451,33 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1p5XjGRtNCbggJwIDrvMfNw?pwd=1234"
  },
  {
+  "Version": "12.5.5",
+  "Build": "16H62",
+  "Type": "Release",
+  "Release Date": "23 September, 2021",
+  "Orginal File Name": "iPhone_4.0_64bit_12.5.5_16H62_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/002-05523/A1FB133D-E3C8-44C7-946E-D7C5FEDDE663/iPhone_4.0_64bit_12.5.5_16H62_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kt9byTxWBC6T-MXDDB_wjQ?pwd=1234"
+ },
+ {
+  "Version": "12.5.6",
+  "Build": "16H71",
+  "Type": "Release",
+  "Release Date": "31 August, 2022",
+  "Orginal File Name": "iPhone_4.0_64bit_12.5.6_16H71_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/012-51809/58C0CEBC-D5EB-4422-9100-CDBEA5F532A8/iPhone_4.0_64bit_12.5.6_16H71_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pmMISyalfK5L28q6xESdZQ?pwd=1234"
+ },
+ {
+  "Version": "12.5.7",
+  "Build": "16H81",
+  "Type": "Release",
+  "Release Date": "23 January, 2023",
+  "Orginal File Name": "iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14411/390C166E-349A-452E-ADFE-0CF3895F6070/iPhone_4.0_64bit_12.5.7_16H81_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/17ZKFUMlA_RnHEYprRbb9zg?pwd=1234"
+ },
+ {
   "Version": "12.5.8",
   "Build": "16H88",
   "Type": "Release",
