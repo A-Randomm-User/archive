@@ -55,6 +55,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/armv7/1.x/1.2.2.plist",
   "Terabox": "https://1024terabox.com/s/1eHl45zciApNviTiW4vPVAQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fOefVN1laafXLoAvcZrEPA?pwd=1234"
+ },
+ {
+  "Version": "1.3.0",
+  "IPA ID": 833857232,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/armv7/1.x/1.3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1785Cqbw43tlkGMUBtVX4QA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15IVfI0Gj_5SsztCmo-Royg?pwd=1234"
+ },
+ {
+  "Version": "1.3.1",
+  "IPA ID": 834087812,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/armv7/1.x/1.3.1.plist",
+  "Terabox": "https://1024terabox.com/s/1mqj2ReGN8Mq7lGCV7V-UHQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pCv_OP2mIkEe5ZT4C6BqMA?pwd=1234"
  }
 ],
 "ARMv7 ARM64 Combination":[
@@ -113,6 +129,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/armv7arm64/1.x/1.2.2.plist",
   "Terabox": "https://1024terabox.com/s/16FobORVqChENM8iyzePQzQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10xzHwo4U5no5rs441gsgXw?pwd=1234"
+ },
+ {
+  "Version": "1.3.0",
+  "IPA ID": 833857232,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/armv7arm64/1.x/1.3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1Lo_rap5Lc2bjxYItshQyaw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uNakeOYsoqWS946Dthmu8Q?pwd=1234"
+ },
+ {
+  "Version": "1.3.1",
+  "IPA ID": 834087812,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/armv7arm64/1.x/1.3.1.plist",
+  "Terabox": "https://1024terabox.com/s/1sH7lkw86LFXokfAgLbfeJQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U2cVbRYlMuhV5-d-5WSb4w?pwd=1234"
  }
 ],
 "ARM64":[
@@ -171,6 +203,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/arm64/1.x/1.2.2.plist",
   "Terabox": "https://1024terabox.com/s/19opxhwlmE9iqkojnxhDViQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LVxgpvcMDd5gEYLZpZF7JA?pwd=1234"
+ },
+ {
+  "Version": "1.3.0",
+  "IPA ID": 833857232,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/arm64/1.x/1.3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1Hpv22iydpJBkRabPIZsDjw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1DQkVrP7C1QH9YMRArJoosA?pwd=1234"
+ },
+ {
+  "Version": "1.3.1",
+  "IPA ID": 834087812,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/arm64/1.x/1.3.1.plist",
+  "Terabox": "https://1024terabox.com/s/1XyoBx_HbmMePn3G57LTl-A",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1in2uZUHXuTCbJK9sQtfg8A?pwd=1234"
  }
 ],
 "Official":[
@@ -229,6 +277,22 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/off/1.x/1.2.2.plist",
   "Terabox": "https://1024terabox.com/s/1yXxfjONtyos05OmtLvHQvQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Rai2UNcUYbjVPVi1SzI3gg?pwd=1234"
+ },
+ {
+  "Version": "1.3.0",
+  "IPA ID": 833857232,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/off/1.x/1.3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1lKcdb0FjuDPaGSQYl0z5Lg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1faF1tnWd9aY-Z8FAjox9DA?pwd=1234"
+ },
+ {
+  "Version": "1.3.1",
+  "IPA ID": 834087812,
+  "iOS Support": "iOS 9.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Phigros-1454809109/off/1.x/1.3.1.plist",
+  "Terabox": "https://1024terabox.com/s/1RSPnnx2pckRr9KLmu6lZtA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VdbFYIaz0_mLtK-gIvK0yA?pwd=1234"
  }
 ]
 }
