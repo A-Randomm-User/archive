@@ -2,6 +2,15 @@
 "iPad Air (iPad4,1 / iPad4,2 / iPad4,3)":[
  {
   "Version": "12.0",
+  "Build": "16A5288q",
+  "Type": "Beta",
+  "Release Date": "4 June, 2018",
+  "Orginal File Name": "iPad_64bit_12.0_16A5288q_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_4_2018_Seed/iPad_64bit_12.0_16A5288q_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13fUJb9tFbgyUYwLXYDKMUg?pwd=1234"
+ },
+ {
+  "Version": "12.0",
   "Build": "16A5308e",
   "Type": "Beta",
   "Release Date": "19 June, 2018",
@@ -17,6 +26,15 @@
   "Orginal File Name": "iPad_64bit_12.0_16A5318d_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2018/iosseed/091-92860-20180705-9A440714-7BA0-11E8-B74B-5872DA3C085A/iPad_64bit_12.0_16A5318d_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1uCifGL5TmATAiFfwqYGJKw?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A5354b",
+  "Type": "Beta",
+  "Release Date": "13 August, 2018",
+  "Orginal File Name": "iPad_64bit_12.0_16A5354b_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/091-99888/E45D7D2A-9CB7-11E8-B8DC-BEF0F0D99DF0/iPad_64bit_12.0_16A5354b_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1vfKeUA1Gqc77lYMtHXw9QQ?pwd=1234"
  }
 ],
 "iPad Air 2 (iPad5,3 / iPad5,4)":[
@@ -28,6 +46,15 @@
   "Orginal File Name": "iPad_64bit_TouchID_12.0_16A5288q_Restore.ipsw",
   "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_4_2018_Seed/iPad_64bit_TouchID_12.0_16A5288q_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gHYhxsFsKBFj2su4-KtOdw?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A5308e",
+  "Type": "Beta",
+  "Release Date": "19 June, 2018",
+  "Orginal File Name": "iPad_64bit_TouchID_12.0_16A5308e_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018/iosseed/091-88184-20180618-A95A3816-70E4-11E8-828F-7E1B8896EC1B/iPad_64bit_TouchID_12.0_16A5308e_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U0YpaqVdNg6VcBgZKlOlHA?pwd=1234"
  }
 ],
 "iPad 5 (iPad6,11 / iPad6,12)":[
