@@ -284,6 +284,33 @@
 ],
 "iPad 6 (iPad7,5 / iPad7,6)":[
  {
+  "Version": "11.3",
+  "Build": "15E216",
+  "Type": "Release",
+  "Release Date": "29 March, 2018",
+  "Orginal File Name": "iPad_7,5_iPad_7,6_11.3_15E216_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.3/091-40460-20180329-379A31C2-2968-11E8-8F9A-F3BDE6893228/iPad_7,5_iPad_7,6_11.3_15E216_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1G7hnOXbflCmiXorTz64eyg?pwd=1234"
+ },
+ {
+  "Version": "11.3",
+  "Build": "15E218",
+  "Type": "Release",
+  "Release Date": "29 March, 2018",
+  "Orginal File Name": "iPad_7,5_iPad_7,6_11.3_15E218_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.3/091-75531-201803029-6A1BF92C-2C61-11E8-8550-4BEB245B8CCE/iPad_7,5_iPad_7,6_11.3_15E218_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19GVQpEf10zYQlrShBVI6iQ?pwd=1234"
+ },
+ {
+  "Version": "11.3.1",
+  "Build": "15E302",
+  "Type": "Release",
+  "Release Date": "24 April, 2018",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.3.1_15E302_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018/ios/091-78096-20180419-888BB57A-4023-11E8-8E99-3FA7FBE594B0/iPad_64bit_TouchID_ASTC_11.3.1_15E302_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1JrhCZqm6wPSLP3Md6YAK9A?pwd=1234"
+ },
+ {
   "Version": "11.4.1",
   "Build": "15G5074a",
   "Type": "Beta",
