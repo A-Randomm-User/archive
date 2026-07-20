@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unicode Kyeboard Testflight</title>
+    <title>Carplay Tests</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/unichar-t.png" type="image/png" />
+    <link rel="icon" href="../images/carplaytests.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -17,37 +17,51 @@
     </script>
 </head>
 <body>
-    <br>
-    <div class="top-controls">
-      <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
-      <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-                </button>
             </a>
+        </div> 
     </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+    <br>
     <div class="responsive-table-wrapper">
-    <h2>About this Application</h2>
+      <h2>About this Application</h2>
   <table>
     <tr>
       <td>Application Name</td>
-      <td>Unicode Keyboard</td>
+      <td>Carplay Tests</td>
     </tr>
     <tr>
-      <td>Devoloper</td>
-      <td>Jordan Hipwell</td>
+      <td>Seller</td>
+      <td>Apple Inc. (US Region); Apple Distribution International (Rest of World)</td>
     </tr>
     <tr>
       <td>Bundle Identifier</td>
-      <td>com.jordanhipwell.unichar</td>
+      <td>com.apple.carplaytests</td>
     </tr>
     <tr>
-      <td>Testflight Invite Link</td>
-      <td><a href="https://testflight.apple.com/join/YKH3kGpt">https://testflight.apple.com/join/YKH3kGpt</a></td>
+      <td>App Store</td>
+      <td><a href="https://apps.apple.com/us/app/carplay-tests/id1568604307">https://apps.apple.com/us/app/carplay-tests/id1568604307</a></td>
     </tr>
     <tr>
       <td>Developer Website</td>
-      <td><a href="https://unichar.app/">https://unichar.app/</a></td>
+      <td>Not Provided</td>
     </tr>
   </table>
   </div>
@@ -59,7 +73,7 @@
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../../../../IPA-save/data/unichar-t.json', true);
+  xhr.open('GET', '../data/carplaytests.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
