@@ -231,6 +231,20 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7/4.x/4.0.4.plist",
   "Terabox": "https://1024terabox.com/s/1pJ7NWFwIyT0ZCkwDIm0BPw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12S0NyzrSD3BW_8VoEFcdcA?pwd=1234"
+ },{
+  "Version": "4.0.7",
+  "IPA ID": 838291267,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7/4.x/4.0.7-838291267.plist",
+  "Terabox": "https://1024terabox.com/s/1NFnOHoUEfIFCVpTMTiNndw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1VoD39su12fTlseC0peFbkA?pwd=1234"
+ },{
+  "Version": "4.0.7",
+  "IPA ID": 840092313,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7/4.x/4.0.7-840092313.plist",
+  "Terabox": "https://1024terabox.com/s/1W9BBjtdVQqoQ54Ea9ivQ5Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TeFBAwNzNtNEhFp2fvtDqA?pwd=1234"
  }
 ],
 "ARMv7 ARM64 Combination":[
@@ -402,6 +416,21 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/4.x/4.0.4.plist",
   "Terabox": "https://1024terabox.com/s/1qX2Vp76lSu2N9DY-V5G0iw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1hGPmajQvNqW_jbUO5X3t3Q?pwd=1234"
+ },{
+  "Version": "4.0.7",
+  "IPA ID": 838291267,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/4.x/4.0.7-838291267.plist",
+  "Terabox": "https://1024terabox.com/s/1PRv3yXXFYgNeR6h6-YyryQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nUK3wvkf9hAZ21JMGHPXsA?pwd=1234"
+ },
+ {
+  "Version": "4.0.7",
+  "IPA ID": 840092313,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/4.x/4.0.7-840092313.plist",
+  "Terabox": "https://1024terabox.com/s/171ZUKd_tekFCDKICr78Aew",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ctZMEr5JIIaM_9kEEzAwLw?pwd=1234"
  }
 ],
 "ARM64":[
@@ -409,133 +438,133 @@
   "Version": "<b id=\"2.0\">2.0</b>",
   "IPA ID": 813024424,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.0.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.0&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.0.plist",
   "Terabox": "https://1024terabox.com/s/1v3sraKlKDntczy3xKZHZsA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KGAatrqIU_nM43fnYMrg2g?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 814870103,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.814870103.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1-814870103.plist",
   "Terabox": "https://1024terabox.com/s/1vvuqZyS3Dn5pIlEiD8OEag",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1sj4DvyRjjWflNtA0FJLgmA?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 815235623,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.815235623.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1-815235623.plist",
   "Terabox": "https://1024terabox.com/s/1vvuqZyS3Dn5pIlEiD8OEag",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SfIHog3Tx94Cv60dR4M62w?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 815284305,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.815284305.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1-815284305.plist",
   "Terabox": "https://1024terabox.com/s/1Ejpc_A2KowSPzch1JG3uZQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YagzKo5Z9HmcE-4muGvbRg?pwd=1234"
  },{
   "Version": "2.1",
   "IPA ID": 815442959,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.815442959.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1-815442959.plist",
   "Terabox": "https://1024terabox.com/s/1S87bSnRmmNBVYy1ynE96Gw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KFCQKGe27LEgBPYSgqE_zA?pwd=1234"
  },{
   "Version": "2.1.1",
   "IPA ID": 817115053,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.1.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1.1.plist",
   "Terabox": "https://1024terabox.com/s/1fqtfQ3n1T279gN4t7Ju3cQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/107hj6_utm67kmrgiB1KMlA?pwd=1234"
  },{
   "Version": "2.1.3",
   "IPA ID": 818805608,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.3.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1.3&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1.3.plist",
   "Terabox": "https://1024terabox.com/s/1mU_nkAchve-lTX84jlnfXA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1g-_TMm4H81SRfw_hLWULuw"
  },{
   "Version": "2.1.5",
   "IPA ID": 819473859,
   "iOS Support": "iOS 6.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.5.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1.5&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1.5.plist",
   "Terabox": "https://1024terabox.com/s/1OAg6oscY5jPg8FeCLDly5g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rmuzhnVbITJPGUYyJNLiRQ?pwd=1234"
  },{
   "Version": "2.1.6",
   "IPA ID": 819609760,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.6.819609760.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1.6&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1.6-819609760.plist",
   "Terabox": "https://1024terabox.com/s/1O8mmwWPXjs-fECvRuHkv7A",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eK00tk2gQIawhXwchJ-1qA?pwd=1234"
  },{
   "Version": "2.1.6",
   "IPA ID": 822428171,
   "iOS Support": "iOS 7.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.1.6.822428171.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.1.6&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.1.6-822428171.plist",
   "Terabox": "https://1024terabox.com/s/1Y8QkqRaDkWtuvfVg8NT1Zw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ea8FuD51yQ5wjmqAz6VMJw?pwd=1234"
  },{
   "Version": "2.2",
   "IPA ID": 823378312,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.2.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.2&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.2.plist",
   "Terabox": "https://1024terabox.com/s/1DKBgJr7U-0y_3x0hBfRwhQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1egjSR99FU9ToGLWDUOe4ow?pwd=1234"
  },{
   "Version": "2.2.1",
   "IPA ID": 823731634,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.2.1.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.2.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.2.1.plist",
   "Terabox": "https://1024terabox.com/s/16ATG-jUAOKtlobYGOOwlTg",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1lMnQhyxVjc5haZOYjy80Mg?pwd=1234"
  },{
   "Version": "2.2.2",
   "IPA ID": 823925497,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.2.2.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.2.2&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.2.2.plist",
   "Terabox": "https://1024terabox.com/s/1DNhoJuso9IKwUOS90eBUCw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14vUw3UCNcy_xBPp7M4cg4Q?pwd=1234"
  },{
   "Version": "2.3",
   "IPA ID": 824258668,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.3.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.3&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.3.plist",
   "Terabox": "https://1024terabox.com/s/1CN6OAwHKzNvmUbylfkCXZw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15lA0zWczpWCg_Ma_-4DNcA?pwd=1234"
  },{
   "Version": "2.3.1",
   "IPA ID": 824365196,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.3.1.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.3.1&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.3.1..plist",
   "Terabox": "https://1024terabox.com/s/1hziG48abTmKfIxcRdFApqA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1WQczXkk3e-9szmnwlKa6tQ?pwd=1234"
  },{
   "Version": "2.4",
   "IPA ID": 825277728,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.4.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.4&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.4.plist",
   "Terabox": "https://1024terabox.com/s/1UOJdORyE6mU8JKmUeUI-HQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12yPiY-GBjHzT6IvCOAP9Vw?pwd=1234"
  },{
   "Version": "2.4.2",
   "IPA ID": 826302423,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.4.2.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.4.2&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.4.2.plist",
   "Terabox": "https://1024terabox.com/s/1uimYpd-KqVB7hKAMtIghfQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kTHv1OxlHh3dh0BbbJGGcA?pwd=1234"
  },{
   "Version": "2.4.3",
   "IPA ID": 827284047,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.4.3.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.4.3&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.4.3.plist",
   "Terabox": "https://1024terabox.com/s/1sr06WJINMMEvTEz24I7MRw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aqSqusz6xMk5cDKqYfvcKw?pwd=1234"
  },{
   "Version": "2.4.4",
   "IPA ID": 827299744,
   "iOS Support": "iOS 8.0+",
-  "Online Install": "https://a-randomm-user.a-randomm-user.deno.net/?url=https://github.com/A-Randomm-User/IPA-save/releases/download/Swamp-Attack/arm64_Swamp.Attack.2.4.4.ipa&bundle=com.outfit7.movingeye.swampattack&version=2.4.4&title=Swamp Attack",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/armv7arm64/2.x/2.4.4.plist",
   "Terabox": "https://1024terabox.com/s/1NzdL1ii_WlfOwSaFzOGzSA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11Abzo8h8L-9xuGJ1wXr5JA?pwd=1234"
  },{
@@ -573,6 +602,20 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/arm64/4.x/4.0.4.plist",
   "Terabox": "https://1024terabox.com/s/1Kymu2lGA8uTwtSG3sapiEA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Ykw_HttCXkfMoZdBXfBVIQ?pwd=1234"
+ },{
+  "Version": "4.0.7",
+  "IPA ID": 838291267,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/arm64/4.x/4.0.7-838291267.plist",
+  "Terabox": "https://1024terabox.com/s/12EtuQSLIOqsKvfucQhetQg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1hziP5WzX3kJt3ceVHg6p6g?pwd=1234"
+ },{
+  "Version": "4.0.7",
+  "IPA ID": 840092313,
+  "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/arm64/4.x/4.0.7-840092313.plist",
+  "Terabox": "https://1024terabox.com/s/1SRKkLAOlRKp5x7xRIZfxcA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_6hXSY57WfxJJsIVNDLYNA?pwd=1234"
  },{
   "Version": "4.6.9",
   "IPA ID": 881822134,
@@ -845,6 +888,7 @@
   "Version": "4.0.7",
   "IPA ID": 838291267,
   "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/off/4.x/4.0.7-838291267.plist",
   "Terabox": "https://1024terabox.com/s/1F_gNFpNAMnjsYeUzSlMYLA",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1rdLMItLiodK0gszshr46tQ?pwd=1234"
  },
@@ -852,6 +896,7 @@
   "Version": "4.0.7",
   "IPA ID": 840092313,
   "iOS Support": "iOS 10.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/off/4.x/4.0.7-840092313.plist",
   "Terabox": "https://1024terabox.com/s/1o58JRo_WdbzTyhKSDx8xrQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1hhI01JY75UenhvoUiyS3BA?pwd=1234"
  },

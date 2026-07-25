@@ -37,26 +37,6 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1vfKeUA1Gqc77lYMtHXw9QQ?pwd=1234"
  }
 ],
-"iPad Air 2 (iPad5,3 / iPad5,4)":[
- {
-  "Version": "12.0",
-  "Build": "16A5288q",
-  "Type": "Beta",
-  "Release Date": "4 June, 2018",
-  "Orginal File Name": "iPad_64bit_TouchID_12.0_16A5288q_Restore.ipsw",
-  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_4_2018_Seed/iPad_64bit_TouchID_12.0_16A5288q_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gHYhxsFsKBFj2su4-KtOdw?pwd=1234"
- },
- {
-  "Version": "12.0",
-  "Build": "16A5308e",
-  "Type": "Beta",
-  "Release Date": "19 June, 2018",
-  "Orginal File Name": "iPad_64bit_TouchID_12.0_16A5308e_Restore.ipsw",
-  "Apple Server": "https://updates.cdn-apple.com/2018/iosseed/091-88184-20180618-A95A3816-70E4-11E8-828F-7E1B8896EC1B/iPad_64bit_TouchID_12.0_16A5308e_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1U0YpaqVdNg6VcBgZKlOlHA?pwd=1234"
- }
-],
 "iPad 5 (iPad6,11 / iPad6,12)":[
  {
   "Version": "12.0",
@@ -95,7 +75,7 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1CEeebdhxMNbFyCNSPVB1vg?pwd=1234"
  }
 ],
-"iPad mini 3 (iPad4,7 / iPad4,8 / iPad4,9)":[
+"iPad Air 2 (iPad5,3 / iPad5,4) AND iPad mini 3 (iPad4,7 / iPad4,8 / iPad4,9)":[
  {
   "Version": "12.0",
   "Build": "16A5288q",
