@@ -1,5 +1,61 @@
 {
-"iPad 5 (iPad6,11 / iPad6,12)":[
+"iPad Air 3 (iPad11,3 / iPad11,4) AND iPad mini 5 (iPad11,1 / iPad11,2)":[
+ {
+  "Version": "13.0",
+  "Build": "17A5492t",
+  "Type": "Beta",
+  "Release Date": "3 June, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5492t_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2019/iOS_and_tvOS_IPSWs_for_Jun_3_2019_Seed/iPad_Spring_2019_13.0_17A5492t_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1sURawVOKLmS1tpaC_D9MfA?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5508m",
+  "Type": "Beta",
+  "Release Date": "17 June, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5508m_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-75122/8007ABD8-8F83-11E9-910F-E5A6533945F4/iPad_Spring_2019_13.0_17A5508m_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13FtoqFl44f8F-9Uoq0VcwQ?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5522f",
+  "Type": "Beta",
+  "Release Date": "2 July, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5522f_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-81844/C99FE6B4-9BC4-11E9-AD6F-4B3C024E608E/iPad_Spring_2019_13.0_17A5522f_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SY8-knfQ_07Q0VSUHI32Lg?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5522g",
+  "Type": "Beta",
+  "Release Date": "8 July, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5522g_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-82317/5FD795A8-9DA2-11E9-9573-8CDAD98DF582/iPad_Spring_2019_13.0_17A5522g_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1AkjDqzLFChual0X5IEB6DQ?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5534f",
+  "Type": "Beta",
+  "Release Date": "17 July, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5534f_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-87519/3D159C6E-A710-11E9-94B1-5277C9FE7D43/iPad_Spring_2019_13.0_17A5534f_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10nvRhTTj04pFuoebz50PcA?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5547d",
+  "Type": "Beta",
+  "Release Date": "29 July, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5547d_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-93697/D05E8C80-AEF7-11E9-86E5-99AC5141E93F/iPad_Spring_2019_13.0_17A5547d_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XjSc75tNXtQJU4IWwf_Kng?pwd=1234"
+ }
+],
+"iPad 5 (iPad6,11 / iPad6,12) AND iPad 6 (iPad7,5 / iPad7,6)":[
  {
   "Version": "13.0",
   "Build": "17A5508m",
@@ -199,6 +255,17 @@
   "Orginal File Name": "iPad_Educational_13.3.1_17D50_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-40122/0E8D0B9B-93F2-4A56-9D11-970B9E03ADD7/iPad_Educational_13.3.1_17D50_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1iTX0tOTjEsG5j97sLOJwSA?pwd=1234"
+ }
+],
+"iPad Pro (11-inch) (iPad8,1 / iPad8,2 / iPad8,3 / iPad8,4) AND iPad Pro (12.9-inch) (3rd Generation) (iPad8,5 / iPad8,6 / iPad8,7 / iPad8,8)":[
+ {
+  "Version": "13.0",
+  "Build": "17A5492t",
+  "Type": "Beta",
+  "Release Date": "3 June, 2019",
+  "Orginal File Name": "iPad_Fall_2018_13.0_17A5492t_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2019/iOS_and_tvOS_IPSWs_for_Jun_3_2019_Seed/iPad_Fall_2018_13.0_17A5492t_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1IBHQT-JnpCYsKwhP8TjiAw?pwd=1234"
  }
 ]
 }
