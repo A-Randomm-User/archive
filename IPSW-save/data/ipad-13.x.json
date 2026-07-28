@@ -1,5 +1,16 @@
 {
-"iPad Air 3 (iPad11,3 / iPad11,4) AND iPad mini 5 (iPad11,1 / iPad11,2)":[
+"iPad Air 2 AND iPad mini 4":[
+ {
+  "Version": "13.0",
+  "Build": "17A5492t",
+  "Type": "Beta",
+  "Release Date": "3 June, 2019",
+  "Orginal File Name": "iPad_64bit_TouchID_13.0_17A5492t_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2019/iOS_and_tvOS_IPSWs_for_Jun_3_2019_Seed/iPad_64bit_TouchID_13.0_17A5492t_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/16q7t7VZWF9zEmDLfaoNuHA?pwd=1234"
+ }
+],
+"iPad Air 3 AND iPad mini 5":[
  {
   "Version": "13.0",
   "Build": "17A5492t",
@@ -53,9 +64,45 @@
   "Orginal File Name": "iPad_Spring_2019_13.0_17A5547d_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-93697/D05E8C80-AEF7-11E9-86E5-99AC5141E93F/iPad_Spring_2019_13.0_17A5547d_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XjSc75tNXtQJU4IWwf_Kng?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5556d",
+  "Type": "Beta",
+  "Release Date": "7 August, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5556d_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-97665/78F439DC-B798-11E9-AA9C-BA29E938C8A1/iPad_Spring_2019_13.0_17A5556d_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1TKwuCEbdV4SNj5K4HICq2Q?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5565b",
+  "Type": "Beta",
+  "Release Date": "15 August, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5565b_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/041-99520/39CBB2FE-BDF5-11E9-90BA-87793522D5CA/iPad_Spring_2019_13.0_17A5565b_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/17ODv1mIZboVIashCKdNiQQ?pwd=1234"
+ },
+ {
+  "Version": "13.0",
+  "Build": "17A5572a",
+  "Type": "Beta",
+  "Release Date": "21 August, 2019",
+  "Orginal File Name": "iPad_Spring_2019_13.0_17A5572a_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/061-03037/CA44EFE8-C2BF-11E9-A4D2-820037749189/iPad_Spring_2019_13.0_17A5572a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1egu6tWz0McTzmo-oOYpyTg?pwd=1234"
  }
 ],
-"iPad 5 (iPad6,11 / iPad6,12) AND iPad 6 (iPad7,5 / iPad7,6)":[
+"iPad 5 AND iPad 6":[
+ {
+  "Version": "13.0",
+  "Build": "17A5492t",
+  "Type": "Beta",
+  "Release Date": "3 June, 2019",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_13.0_17A5492t_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2019/iOS_and_tvOS_IPSWs_for_Jun_3_2019_Seed/iPad_64bit_TouchID_ASTC_13.0_17A5492t_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1pIp4rgfM95gOKNXWIgf6SA?pwd=1234"
+ },
  {
   "Version": "13.0",
   "Build": "17A5508m",
@@ -75,7 +122,7 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/142yYi0q-Dc4zIUFIQl6XKQ?pwd=1234"
  }
 ],
-"iPad 7 (iPad7,11 / iPad7,12)":[
+"iPad 7":[
  {
   "Version": "13.1",
   "Build": "17A844",
@@ -257,7 +304,18 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1iTX0tOTjEsG5j97sLOJwSA?pwd=1234"
  }
 ],
-"iPad Pro (11-inch) (iPad8,1 / iPad8,2 / iPad8,3 / iPad8,4) AND iPad Pro (12.9-inch) (3rd Generation) (iPad8,5 / iPad8,6 / iPad8,7 / iPad8,8)":[
+"iPad Pro (10.5-inch) AND iPad Pro (12.9-inch) (2nd Generation)":[
+ {
+  "Version": "13.0",
+  "Build": "17A5492t",
+  "Type": "Beta",
+  "Release Date": "3 June, 2019",
+  "Orginal File Name": "iPad_Pro_HFR_13.0_17A5492t_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2019/iOS_and_tvOS_IPSWs_for_Jun_3_2019_Seed/iPad_Pro_HFR_13.0_17A5492t_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FGTPSZFkx5NjasfGchehnQ?pwd=1234"
+ }
+],
+"iPad Pro (11-inch) AND iPad Pro (12.9-inch) (3rd Generation)":[
  {
   "Version": "13.0",
   "Build": "17A5492t",
