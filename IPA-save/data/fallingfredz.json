@@ -1,0 +1,38 @@
+{
+"ARMv6":[
+ {
+  "Version": "1.0.0",
+  "IPA ID": 4019018,
+  "iOS Support": "iOS 4.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/fallingfredz-455544894/armv6/1.0.0.plist",
+  "Terabox": "https://1024terabox.com/s/1o8jvdv-VqOUaoyxtW3x9JQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kkUmV6gB3y6WeMHy4TU5Rg?pwd=1234"
+ },
+ {
+  "Version": "1.0.1",
+  "IPA ID": 4066955,
+  "iOS Support": "iOS 4.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/fallingfredz-455544894/armv6/1.0.1.plist",
+  "Terabox": "https://1024terabox.com/s/1MpTEcidtAvYbTN9yNE6psg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1iHo7Yy2KsOybnlu3v14b1w?pwd=1234"
+ }
+],
+"Official":[
+ {
+  "Version": "1.0.0",
+  "IPA ID": 4019018,
+  "iOS Support": "iOS 4.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/fallingfredz-455544894/armv6/1.0.0.plist",
+  "Terabox": "https://1024terabox.com/s/1mdSQy5hv6OLiqqESxEGZkA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Na5_GnBR5vZlK5uyHdH8Cg?pwd=1234"
+ },
+ {
+  "Version": "1.0.1",
+  "IPA ID": 4066955,
+  "iOS Support": "iOS 4.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/fallingfredz-455544894/armv6/1.0.1.plist",
+  "Terabox": "https://1024terabox.com/s/1sfoVdQ_HIoKk-CzO5AcL3Q",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11R8KAUsOKtVtnnnGwtHV9w?pwd=1234"
+ }
+]
+}

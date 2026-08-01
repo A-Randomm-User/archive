@@ -153,6 +153,54 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13aIcQ1QdYPnmDyRrkiXnjQ?pwd=1234"
  },
  {
+  "Version": "3.0",
+  "IPA ID": 837804463,
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/arm64/3.x/3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1A_UZ1l2uD3gPOOoOKf35bw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1h4BkhywlWXxAeKnW99CZbQ?pwd=1234"
+ },
+ {
+  "Version": "3.0.1",
+  "IPA ID": 839269593,
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/arm64/3.x/3.0.1.plist",
+  "Terabox": "https://1024terabox.com/s/1hAUH-qlFqqN82pUu0XRsLg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1qUq9se8EYoxmSTOjZj8DHA?pwd=1234"
+ },
+ {
+  "Version": "3.1",
+  "IPA ID": 840817684,
+  "iOS Support": "iOS 14.5+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/arm64/3.x/3.1.plist",
+  "Terabox": "https://1024terabox.com/s/1RposTfw2RS7tTRjedqJ4qg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1JqMy4uWJXV-2fM65N1WgDg?pwd=1234"
+ },
+ {
+  "Version": "3.1.1",
+  "IPA ID": 842895564,
+  "iOS Support": "iOS 14.5+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/arm64/3.x/3.1.1-842895564.plist",
+  "Terabox": "https://1024terabox.com/s/1b7YkN6itsjfOA-d0EfncOg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1EcBpbL_ABzdOBAsG5s8eeg?pwd=1234"
+ },
+ {
+  "Version": "3.1.1",
+  "IPA ID": 842998027,
+  "iOS Support": "iOS 14.5+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/arm64/3.x/3.1.1-842998027.plist",
+  "Terabox": "https://1024terabox.com/s/1nWhTgm-ExR8hRVx3dSkxXw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aVMTCN4PCleytSstB2qgoQ?pwd=1234"
+ },
+ {
+  "Version": "3.1.2",
+  "IPA ID": 843910456,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/arm64/3.x/3.1.2.plist",
+  "Terabox": "https://1024terabox.com/s/1FQoc0GdHvHh0ihapRGf5MQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14-IS8qnl88ZC3fF8BXBvOQ?pwd=1234"
+ },
+ {
   "Version": "3.1.7",
   "IPA ID": 862219753,
   "iOS Support": "iOS 17.0+",
@@ -337,6 +385,54 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/2.x/2.1.1.plist",
   "Terabox": "https://1024terabox.com/s/1ekeGS4V8cXIlzEc_560hwQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1HBHSjVIGK9tC3GWWcVzMpg?pwd=1234"
+ },
+ {
+  "Version": "3.0",
+  "IPA ID": 837804463,
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/3.x/3.0.plist",
+  "Terabox": "https://1024terabox.com/s/1D7G8Qvg1MpR2_YW6nPRtyw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15J1nYIMCEfXHB_HLDabN3g?pwd=1234"
+ },
+ {
+  "Version": "3.0.1",
+  "IPA ID": 839269593,
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/3.x/3.0.1.plist",
+  "Terabox": "https://1024terabox.com/s/1S0VtEOK1G_nOwpHVcBuwAQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1eEAWuA5khPxA9IXpmSHfoA?pwd=1234"
+ },
+ {
+  "Version": "3.1",
+  "IPA ID": 840817684,
+  "iOS Support": "iOS 14.5+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/3.x/3.1.plist",
+  "Terabox": "https://1024terabox.com/s/1W5LF4_wBHAsOK5RqSSS9ww",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ojU-hntzRegMMDX2MFhHjQ?pwd=1234"
+ },
+ {
+  "Version": "3.1.1",
+  "IPA ID": 842895564,
+  "iOS Support": "iOS 14.5+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/3.x/3.1.1-842895564.plist",
+  "Terabox": "https://1024terabox.com/s/1uogA_bNTh4Cz4CUUw1khPw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1845sdT1zq_YUNEMqficRkw?pwd=1234"
+ },
+ {
+  "Version": "3.1.1",
+  "IPA ID": 842998027,
+  "iOS Support": "iOS 14.5+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/3.x/3.1.1-842998027.plist",
+  "Terabox": "https://1024terabox.com/s/1p0TU4ZUegcDrtDqInMzkYw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1UV3jy0mkyCiHW8sSP5hXEA?pwd=1234"
+ },
+ {
+  "Version": "3.1.2",
+  "IPA ID": 843910456,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Clips-1212699939/off/3.x/3.1.2.plist",
+  "Terabox": "https://1024terabox.com/s/1L454L7DprJ29qVHleWAPGg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/17t9ZWuApCJ6BLNE9q4T9_w?pwd=1234"
  },
  {
   "Version": "3.1.7",

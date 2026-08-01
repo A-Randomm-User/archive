@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Falling Fred Z</title>
+    <link rel="stylesheet" href="../../global-variables.css">
+    <link rel="icon" href="../images/fallingfredz.png" type="image/png" />
+    <script>
+        (function(){
+            try {
+                if (localStorage.getItem('darkMode') === 'true') {
+                    document.documentElement.classList.add('dark-mode');
+                }
+            } catch (e) { }
+        })();
+    </script>
+</head>
+<body>
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
+                    Appearance
+            </a>
+        </div> 
+    </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+    <br>
+    <div class="responsive-table-wrapper">
+    <h2>About this Application</h2>
+  <table>
+    <tr>
+      <td>Application Name</td>
+      <td>Falling Fred Z</td>
+    </tr>
+    <tr>
+      <td>Seller</td>
+      <td>Dedalord S.R.L.</td>
+    </tr>
+    <tr>
+      <td>Bundle Identifier</td>
+      <td>com.dedalord.fallingfredz</td>
+    </tr>
+    <tr>
+      <td>App Store</td>
+      <td><a href="https://apps.apple.com/us/app/falling-fred-z/id455544894">https://apps.apple.com/us/app/falling-fred-z/id455544894</a></td>
+    </tr>
+    <tr>
+      <td>Developer Website</td>
+      <td><a href="http://www.fallingfred.com/">http://www.fallingfred.com/</a></td>
+    </tr>
+  </table>
+  </div>
+  <br>
+    <div id="buttonContainer"></div>
+    <div class="responsive-table-wrapper">
+  <div id="tableContainer"></div>
+</div>
+<script>
+function loadJSON(callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '../data/fallingfredz.json', true);
+  xhr.responseType = 'text';
+
+  xhr.onload = function () {
+    if (xhr.status === 200) {
+      try {
+        var data = JSON.parse(xhr.responseText);
+        callback(null, data);
+      } catch (e) {
+        callback(new Error('Invalid JSON: ' + e.message));
+      }
+    } else {
+      callback(new Error('Could not fetch JSON'));
+    }
+  };
+
+  xhr.onerror = function () {
+    callback(new Error('Network error'));
+  };
+
+  xhr.send();
+}
+
+function convertToLink(text) {
+  if (typeof text !== 'string') return text;
+
+  if (text.match(/^itms-services:\/\/\?action=download-manifest&url=/i)) {
+    return '<a href="' + text + '">Download</a>';
+  }
+
+  if (text.match(/^(https?:\/\/|ftp:\/\/)/i)) {
+    return '<a href="' + text + '" target="_blank">Download</a>';
+  }
+
+  return text;
+}
+
+function init() {
+  loadJSON(function (err, data) {
+    var btnContainer = document.getElementById('buttonContainer');
+
+    if (err) {
+      btnContainer.innerHTML =
+        '<p style="color:red;">' + err.message + '</p>';
+      return;
+    }
+
+    btnContainer.innerHTML = '<b>Choose a type:</b><br>';
+
+    for (var groupName in data) {
+      if (!data.hasOwnProperty(groupName)) continue;
+
+      (function (name) {
+        var btn = document.createElement('button');
+        btn.textContent = name;
+        btn.className = 'sheet-btn';
+        btn.onclick = function () {
+          showGroup(data, name);
+        };
+        btnContainer.appendChild(btn);
+      })(groupName);
+    }
+  });
+}
+
+function showGroup(data, groupName) {
+  var rows = data[groupName];
+  var container = document.getElementById('tableContainer');
+
+  if (!Array.isArray(rows) || rows.length === 0) {
+    container.innerHTML = '<p>No data available</p>';
+    return;
+  }
+
+  var headers = Object.keys(rows[0]);
+  var html = '<h3>' + groupName + '</h3><table>';
+
+  html += '<tr>';
+  for (var i = 0; i < headers.length; i++) {
+    html += '<th>' + headers[i] + '</th>';
+  }
+  html += '</tr>';
+
+  for (var r = 0; r < rows.length; r++) {
+    html += '<tr>';
+    for (var c = 0; c < headers.length; c++) {
+      var cell = convertToLink(rows[r][headers[c]]);
+      html += '<td>' + (cell !== undefined ? cell : '') + '</td>';
+    }
+    html += '</tr>';
+  }
+
+  html += '</table>';
+  container.innerHTML = html;
+}
+
+if (window.addEventListener) {
+  window.addEventListener('load', init, false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload', init);
+} else {
+  window.onload = init;
+}
+</script>
+</body>
+</html>
