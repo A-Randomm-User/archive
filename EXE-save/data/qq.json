@@ -1,6 +1,13 @@
 {
 "32-bit Version":[
  {
+  "Version": "9.9.33",
+  "Release Date": "Jul 30, 2026",
+  "Official Download Link": "https://qqdl.gtimg.cn/qqfile/QQNT/9.9.33/release/a0ce07ad/QQ_9.9.33_260730_x86_01.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1IEexY6HQtCjfArrTNbwqEg?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/qq/QQ_9.9.33_260730_x86_01.exe"
+ },
+ {
   "Version": "9.9.32",
   "Release Date": "Jul 16, 2026",
   "Official Download Link": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.32/release/9d4083e2/QQ_9.9.32_260716_x86_01.exe",
@@ -73,6 +80,13 @@
 ],
 "ARM Version":[
  {
+  "Version": "9.9.33",
+  "Release Date": "Jul 30, 2026",
+  "Official Download Link": "https://qqdl.gtimg.cn/qqfile/QQNT/9.9.33/release/a0ce07ad/QQ_9.9.33_260730_arm64_01.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1yAvwjdGGedZf1Sq9s8zTGw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/qq/QQ_9.9.33_260730_arm64_01.exe"
+ },
+ {
   "Version": "9.9.32",
   "Release Date": "Jul 16, 2026",
   "Official Download Link": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.32/release/9d4083e2/QQ_9.9.32_260716_arm64_01.exe",
@@ -144,6 +158,13 @@
  }
 ],
 "Universal Version":[
+ {
+  "Version": "9.9.33",
+  "Release Date": "Jul 30, 2026",
+  "Official Download Link": "https://qqdl.gtimg.cn/qqfile/QQNT/9.9.33/release/a0ce07ad/QQ_9.9.33_260730_x64_01.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1tgAQaKYUoiLBXaVNfPjccA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/qq/QQ_9.9.33_260730_x64_01.exe"
+ },
  {
   "Version": "9.9.32",
   "Release Date": "Jul 16, 2026",

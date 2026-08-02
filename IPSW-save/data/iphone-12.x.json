@@ -253,6 +253,33 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/198ZgXXPt8D_UNacBq-st8A?pwd=1234"
  },
  {
+  "Version": "12.2",
+  "Build": "16E227",
+  "Type": "Release",
+  "Release Date": "25 March, 2019",
+  "Orginal File Name": "iPhone_4.0_64bit_12.2_16E227_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SpringFCS/fullrestores/041-06931/ECF5CC36-499F-11E9-BCDC-E44576CE070F/iPhone_4.0_64bit_12.2_16E227_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1SSBukft1YYzp1ijV9SQKfA?pwd=1234"
+ },
+ {
+  "Version": "12.3",
+  "Build": "16F156",
+  "Type": "Release",
+  "Release Date": "13 May, 2019",
+  "Orginal File Name": "iPhone_4.0_64bit_12.3_16F156_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SpringFCS/fullrestores/041-61719/B8E28B3A-71E2-11E9-AF97-0984412A1E9F/iPhone_4.0_64bit_12.3_16F156_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kZhLs_d4IrRK2CwLWCU6CA?pwd=1234"
+ },
+ {
+  "Version": "12.3.1",
+  "Build": "16F203",
+  "Type": "Release",
+  "Release Date": "24 May, 2019",
+  "Orginal File Name": "iPhone_4.0_64bit_12.3.1_16F203_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2019SpringFCS/fullrestores/041-68637/CC464978-7C96-11E9-B311-4DF06256CCDB/iPhone_4.0_64bit_12.3.1_16F203_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1vNNnmWGCmzXC9_MZ1l6neA?pwd=1234"
+ },
+ {
   "Version": "12.4",
   "Build": "16G5027g",
   "Type": "Beta",
@@ -544,6 +571,15 @@
  }
 ],
 "iPhone 7 AND iPhone 8":[
+ {
+  "Version": "12.0",
+  "Build": "16A5288q",
+  "Type": "Beta",
+  "Release Date": "4 June, 2018",
+  "Orginal File Name": "iPhone_4.7_P3_12.0_16A5288q_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_4_2018_Seed/iPhone_4.7_P3_12.0_16A5288q_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Gvmc5OQbJrCH0WjhRq69Gw?pwd=1234"
+ },
  {
   "Version": "12.0",
   "Build": "16A5308e",
