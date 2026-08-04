@@ -1,4 +1,16 @@
 {
+"iPhone 4s (iPhone4,1)":[
+ {
+  "Version": "8.4",
+  "Build": "12H4086d",
+  "Type": "Beta",
+  "Release Date": "27 April, 2015",
+  "Orginal File Name": "iPhone4,1_8.4_12H4086d_Restore.ipsw",
+  "Apple Server": "https://developer.apple.com/devcenter/download.action?path=/iOS/iOS_8.4_beta_2/iOS_8.4_beta_2__iPhone_4s__12H4086d.zip",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1T7gRHvScTj5p5bSI4frQjg?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPhone4%2C1/iPhone4.1_8.4_12H4086d_Restore.ipsw"
+ }
+],
 "iPhone 5 (iPhone 5,1)":[
  {
   "Version": "8.0",
