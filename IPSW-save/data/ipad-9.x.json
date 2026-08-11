@@ -70,5 +70,37 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kgc9J3HyNRtmIaGz5Gft1Q?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_9.0_13A344_Restore.ipsw"
  }
+],
+"iPad Pro (12.9-inch) (iPad6,7)":[
+ {
+  "Version": "9.1",
+  "Build": "13B138",
+  "Type": "Release",
+  "Release Date": "—",
+  "Orginal File Name": "ipad6,7_9.1_13b138_restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios9.1/031-39089-20151020-4c04d4a6-701e-11e5-b961-538352d92a8c/ipad6,7_9.1_13b138_restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1CK_IZg7HIFSp1HP5978ImQ?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad6%2C7/ipad6.7_9.1_13b138_restore.ipsw"
+ },
+ {
+  "Version": "9.1",
+  "Build": "13B143",
+  "Type": "Release",
+  "Release Date": "21 October, 2015",
+  "Orginal File Name": "iPad6,7_9.1_13B143_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios9.1/031-41420-20151021-959715F2-73FC-11E5-83AC-AC7443DA716B/iPad6,7_9.1_13B143_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZVe7XR1kcADXZToYt3DVrA?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad6%2C7/iPad6.7_9.1_13B143_Restore.ipsw"
+ },
+ {
+  "Version": "9.3",
+  "Build": "13E5181d",
+  "Type": "Beta",
+  "Release Date": "11 January, 2016",
+  "Orginal File Name": "iPad6,7_9.3_13E5181d_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios9.3seed/031-45613-20160111-C530E730-B591-11E5-9150-E7268FD31F8F/iPad6,7_9.3_13E5181d_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "",
+  "Github Download": ""
+ }
 ]
 }
