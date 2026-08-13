@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Apple Store</title>
+    <title>AI Studio</title>
     <link rel="stylesheet" href="../../global-variables.css">
-    <link rel="icon" href="../images/applestore.png" type="image/png" />
+    <link rel="icon" href="../images/aistudio.png" type="image/png" />
     <script>
         (function(){
             try {
@@ -17,43 +17,55 @@
     </script>
 </head>
 <body>
-    <br>
-    <div class="top-controls">
-      <a class="top-link" href="../index.html"><button class="button-func">Go Back</button></a>
-      <a class="top-link" href="javascript:void(0)">
-            <button class="button-func" onclick="toggleDarkMode()">
+    <div class="sidebar collapsed" id="sidebar"> 
+        <div class="sidebar-header"> 
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button> 
+        </div>
+
+        <div class="sidebar-content">
+            <a class="sidebar-link" href="../../APK-save/index.html">APK-save</a>
+            <a class="sidebar-link" href="../../DEB-save/index.html">DEB-save</a>
+            <a class="sidebar-link" href="../../EXE-save/index.html">EXE-save</a>
+            <a class="sidebar-link" href="../../IPSW-save/index.html">IPSW-save</a>
+            <a class="sidebar-link" href="../../macOS-save/index.html">macOS-save</a>
+            <a class="sidebar-link" href="../../RSB-save/index.html">RSB-save</a>
+
+            <br>
+            <a class="sidebar-link" href="../index.html">Go Back</a>
+            <a class="sidebar-link" href="javascript:void(0)" onclick="toggleDarkMode()">
                     Appearance
-                </button>
             </a>
+        </div> 
     </div>
+    <script src="../../sidebar.js"></script>
+    <script src="../../dark-mode.js"></script>
+<br>
     <div class="responsive-table-wrapper">
     <h2>About this Application</h2>
   <table>
     <tr>
       <td>Application Name</td>
-      <td>Apple Store</td>
+      <td>AI Studio</td>
     </tr>
     <tr>
       <td>Seller</td>
-      <td>Apple Inc. (US Region); Apple Distribution International (Rest of World)</td>
+      <td>Google LLC</td>
     </tr>
     <tr>
       <td>Bundle Identifier</td>
-      <td>com.apple.store</td>
+      <td>com.google.AIStudio</td>
     </tr>
     <tr>
       <td>App Store</td>
-      <td><a href="https://apps.apple.com/us/app/apple-store/id375380948">https://apps.apple.com/us/app/apple-store/id375380948</a></td>
+      <td><a href="https://apps.apple.com/us/app/google-ai-studio/id6761388855">https://apps.apple.com/us/app/google-ai-studio/id6761388855</a> *Removed from App Store on 1 August, 2026<br>(Archived at Wayback Machine: <a href="https://web.archive.org/web/20260702222725/https://apps.apple.com/us/app/google-ai-studio/id6761388855">https://web.archive.org/web/20260702222725/https://apps.apple.com/us/app/google-ai-studio/id6761388855</a>)</td>
     </tr>
     <tr>
       <td>Developer Website</td>
-      <td>Not Provided</td>
+      <td><a href="https://web.archive.org/web/20260702222725/https://ai.google.dev/aistudio">https://web.archive.org/web/20260702222725/https://ai.google.dev/aistudio</a></td>
     </tr>
   </table>
   </div>
   <br>
-
-  <script src="../../dark-mode.js"></script>
     <div id="buttonContainer"></div>
     <div class="responsive-table-wrapper">
   <div id="tableContainer"></div>
@@ -61,7 +73,7 @@
 <script>
 function loadJSON(callback) {
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '../../../../IPA-save/data/applestore.json', true);
+  xhr.open('GET', '../data/aistudio.json', true);
   xhr.responseType = 'text';
 
   xhr.onload = function () {
