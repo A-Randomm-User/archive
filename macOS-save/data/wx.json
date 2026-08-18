@@ -1,6 +1,14 @@
 {
  "Universal":[
  {
+  "Version": "4.1.13",
+  "Release Date": "Aug 18, 2026",
+  "macOS Support": "macOS Monterey",
+  "Official Download Link": "https://dldir1v6.qq.com/weixin/Universal/Mac/WeChatMac_4.1.13.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1VMsK1_mH_SMZFD_pRr8sDg?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/wx/WeChatMac_4.1.13.dmg"
+ },
+ {
   "Version": "4.1.12",
   "Release Date": "Jul 22, 2026",
   "macOS Support": "macOS Monterey",
