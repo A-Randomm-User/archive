@@ -69,6 +69,26 @@
   "Apple Server": "https://secure-appldnld.apple.com/ios9/058-15433-20150916-2CFDDE78-5678-11E5-B33D-EDF76CA99CB1/iPad2,1_9.0_13A344_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1kgc9J3HyNRtmIaGz5Gft1Q?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_9.0_13A344_Restore.ipsw"
+ },
+ {
+  "Version": "9.0.1",
+  "Build": "13A404",
+  "Type": "Release",
+  "Release Date": "23 September, 2015",
+  "Orginal File Name": "iPad2,1_9.0.1_13A404_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/ios9.0.1/031-35305-20150923-C57E8330-5EFE-11E5-8473-245D51D92A8C/iPad2,1_9.0.1_13A404_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1u9r3I-vXq5E5n24_BGhI1g?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_9.0.1_13A404_Restore.ipsw"
+ },
+ {
+  "Version": "9.0.2",
+  "Build": "13A452",
+  "Type": "Release",
+  "Release Date": "30 September, 2015",
+  "Orginal File Name": "iPad2,1_9.0.2_13A452_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/ios9.0.2/031-37493-20150930-7EC95B66-64A0-11E5-9A5D-54E151D92A8C/iPad2,1_9.0.2_13A452_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/14dA8dc5HP_mf7LwtNxlltA?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_9.0.2_13A452_Restore.ipsw"
  }
 ],
 "iPad Pro (12.9-inch) (iPad6,7)":[
@@ -91,16 +111,6 @@
   "Apple Server": "http://appldnld.apple.com/ios9.1/031-41420-20151021-959715F2-73FC-11E5-83AC-AC7443DA716B/iPad6,7_9.1_13B143_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ZVe7XR1kcADXZToYt3DVrA?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad6%2C7/iPad6.7_9.1_13B143_Restore.ipsw"
- },
- {
-  "Version": "9.3",
-  "Build": "13E5181d",
-  "Type": "Beta",
-  "Release Date": "11 January, 2016",
-  "Orginal File Name": "iPad6,7_9.3_13E5181d_Restore.ipsw",
-  "Apple Server": "http://appldnld.apple.com/ios9.3seed/031-45613-20160111-C530E730-B591-11E5-9150-E7268FD31F8F/iPad6,7_9.3_13E5181d_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "",
-  "Github Download": ""
  }
 ]
 }

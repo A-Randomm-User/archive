@@ -217,6 +217,24 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Stq4lCRLsz64WT1WX7GGVg?pwd=1234"
  },
  {
+  "Version": "11.2",
+  "Build": "15C5092b",
+  "Type": "Beta",
+  "Release Date": "30 October, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.2_15C5092b_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.2seeds/091-41661-20171031-CF887228-BB40-11E7-97A7-B90752DBC410/iPhone_4.0_64bit_11.2_15C5092b_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gdiXDRgWSRS5Nc8RdPUnqQ?pwd=1234"
+ },
+ {
+  "Version": "11.2",
+  "Build": "15C5097d",
+  "Type": "Beta",
+  "Release Date": "6 November, 2017",
+  "Orginal File Name": "iPhone_4.0_64bit_11.2_15C5097d_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.2seeds/091-42970-20171106-6ADC7BD0-BFF0-11E7-AFDE-83D5682136F1/iPhone_4.0_64bit_11.2_15C5097d_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1YlPvxiPg5brk-1tHN3wqjw?pwd=1234"
+ },
+ {
   "Version": "11.3.1",
   "Build": "15E302",
   "Type": "Release",
@@ -226,7 +244,7 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1taqb841zFUR3M_RYVkQsPA?pwd=1234"
  }
 ],
-"iPhone 6 (iPhone 7,2)":[
+"iPhone 6 (iPhone 7,2) AND iPhone 6s (iPhone8,1)":[
  {
   "Version": "11.0",
   "Build": "15A5278f",
@@ -234,7 +252,7 @@
   "Release Date": "5 June, 2017",
   "Orginal File Name": "iPhone_4.7_11.0_15A5278f_Restore.ipsw",
   "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_5_2017_Seed/iPhone_4.7_11.0_15A5278f_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18SIzp5344aTFaqZX9RUirw?pwd=1234"
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1t4xX-g66tod0QvnRXVPRSw?pwd=1234"
  },
  {
   "Version": "11.0",
@@ -243,27 +261,7 @@
   "Release Date": "21 June, 2017",
   "Orginal File Name": "iPhone_4.7_11.0_15A5304i_Restore.ipsw",
   "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-19500-20170621-CA81D17E-55D4-11E7-9523-02B5C244ED54/iPhone_4.7_11.0_15A5304i_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1_O4L8moawk1o6cnB7UOHOg?pwd=1234"
- }
-],
-"iPhone 6s (iPhone 8,1) ":[
- {
-  "Version": "11.0",
-  "Build": "15A5278f",
-  "Type": "Beta",
-  "Release Date": "5 June, 2017",
-  "Orginal File Name": "iPhone_4.7_11.0_15A5278f_Restore.ipsw",
-  "Apple Server": "https://developer.apple.com/services-account/download?path=/WWDC_2017/iOS_and_tvOS_IPSWs_for_Jun_5_2017_Seed/iPhone_4.7_11.0_15A5278f_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1P6gT70vxX2xV22cGdOTXJA?pwd=1234"
- },
- {
-  "Version": "11.0",
-  "Build": "15A5304i",
-  "Type": "Beta",
-  "Release Date": "21 June, 2017",
-  "Orginal File Name": "iPhone_4.7_11.0_15A5304i_Restore.ipsw",
-  "Apple Server": "http://appldnld.apple.com/ios11.0seeds/091-19500-20170621-CA81D17E-55D4-11E7-9523-02B5C244ED54/iPhone_4.7_11.0_15A5304i_Restore.ipsw",
-  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/13y-Xp8VJ1DlyoJcqeLgynw?pwd=1234"
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1mqpfOBDIl6PjZpl5FAqW9g?pwd=1234"
  },
  {
   "Version": "11.0",
@@ -284,6 +282,15 @@
   "Orginal File Name": "iPhone10,6_11.1_15B93_Restore.ipsw",
   "Apple Server": "http://appldnld.apple.com/ios11.1seed/091-41194-20171023-8AEAD654-B5F2-11E7-8655-C76EBEA7E146/iPhone10,6_11.1_15B93_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/15uM-xhWAjQU8juUME8beLw?pwd=1234"
+ },
+ {
+  "Version": "11.1.1",
+  "Build": "15B150",
+  "Type": "Release",
+  "Release Date": "9 November, 2017",
+  "Orginal File Name": "iPhone10,6_11.1.1_15B150_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.1.1/091-42552-20171106-4525806E-C39A-11E7-B432-4BBCF8FD2868/iPhone10,6_11.1.1_15B150_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1q7Xjoziic8MHnDRoob5TuQ?pwd=1234"
  }
 ]
 }

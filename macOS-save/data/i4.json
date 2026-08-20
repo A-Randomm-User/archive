@@ -1,6 +1,14 @@
 {
 "Intel Mac":[
  {
+  "Version": "9.09",
+  "Release Date": "August 18, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/x64/i4Tools_v9.09.006_x64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1BwyNwRYuzo9Wv8qjTyDPPA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.09.006_x64.dmg"
+ },
+ {
   "Version": "9.08",
   "Release Date": "July 22, 2026",
   "macOS Support": "macOS High Sierra",
@@ -58,6 +66,14 @@
  }
 ],
 "Apple Silicon Mac":[
+ {
+  "Version": "9.09",
+  "Release Date": "August 18, 2026",
+  "macOS Support": "macOS High Sierra",
+  "Official Download Link": "https://d-updater.i4.cn/i4tools9/download/macos/arm64/i4Tools_v9.09.006_arm64.dmg",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/12G2GwZg7b440kHAr09Ld0Q?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/i4Tools/i4Tools_v9.09.006_arm64.dmg"
+ },
  {
   "Version": "9.08",
   "Release Date": "July 20, 2026",
