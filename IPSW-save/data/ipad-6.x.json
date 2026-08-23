@@ -161,6 +161,18 @@
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C1/iPad2.1_6.1.3_10B329_Restore.ipsw"
  }
 ],
+"iPad 3 (iPad3,1)":[
+ {
+  "Version": "6.0",
+  "Build": "10A5316k",
+  "Type": "Beta",
+  "Release Date": "11 June, 2012",
+  "Orginal File Name": "iPad3,1_6.0_10A5316k_Restore.ipsw",
+  "Apple Server": "http://adcdownload.apple.com/ios/ios_6_beta/ios_6_beta__ipad_wifi_3rd_generation__10a5316k.dmg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1j2150N4lyKucvTdtuEV_-g?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad3%2C1/iPad3.1_6.0_10A5316k_Restore.ipsw"
+ }
+],
 "iPad mini (iPad2,5)":[
  {
   "Version": "6.0",
