@@ -273,6 +273,24 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11kjBSElOv-cTptuoxfY4Kw?pwd=1234"
  },
  {
+  "Version": "11.1.1",
+  "Build": "15B150",
+  "Type": "Release",
+  "Release Date": "9 November, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.1.1_15B150_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.1.1/091-42101-20171106-452B427E-C39A-11E7-B022-39BCF8FD2868/iPad_64bit_TouchID_ASTC_11.1.1_15B150_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1FWS9nQ1v1tA-0AvuOlHKOQ?pwd=1234"
+ },
+ {
+  "Version": "11.1.2",
+  "Build": "15B202",
+  "Type": "Release",
+  "Release Date": "16 November, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.1.2_15B202_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.1.2/091-46717-20171116-4F8DCC9A-C9C7-11E7-8588-87E0F451CBCD/iPad_64bit_TouchID_ASTC_11.1.2_15B202_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/180N7a_jXlBz_Tge3c1R06Q?pwd=1234"
+ },
+ {
   "Version": "11.2.5",
   "Build": "15D5037e",
   "Type": "Beta",

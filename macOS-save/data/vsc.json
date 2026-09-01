@@ -227,6 +227,62 @@
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.78.0.app.zip"
  },
  {
+  "Version": "1.36.1",
+  "Release Date": "May, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.36.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1JTTdxHxuWXrdzFrm3zP3tw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.36.1.app.zip"
+ },
+ {
+  "Version": "1.36.0",
+  "Release Date": "May, 2019",
+  "macOS Support": "<b id=\"10.10\">OS X Yosemite</b>",
+  "Official Download Link": "https://update.code.visualstudio.com/1.36.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1Tz1uEVboKRYAfcxjbGtExA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.36.0.app.zip"
+ },
+ {
+  "Version": "1.35.1",
+  "Release Date": "May, 2019",
+  "macOS Support": "OS X Mavericks",
+  "Official Download Link": "https://update.code.visualstudio.com/1.35.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1uJsNxVm4jwTYk6tWIDVmzQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.35.1.app.zip"
+ },
+ {
+  "Version": "1.35.0",
+  "Release Date": "May, 2019",
+  "macOS Support": "OS X Mavericks",
+  "Official Download Link": "https://update.code.visualstudio.com/1.35.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1MExExHFBjJ2Uc5wQ5BTF2A?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.35.0.app.zip"
+ },
+ {
+  "Version": "1.34.0",
+  "Release Date": "April, 2019",
+  "macOS Support": "OS X Mavericks",
+  "Official Download Link": "https://update.code.visualstudio.com/1.34.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1p8Smi6XwzaWJP7-HEXSmIw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.34.0.app.zip"
+ },
+ {
+  "Version": "1.33.1",
+  "Release Date": "March, 2019",
+  "macOS Support": "OS X Mavericks",
+  "Official Download Link": "https://update.code.visualstudio.com/1.33.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1KvEvamBvmFoY1a-loIv06Q?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.33.1.app.zip"
+ },
+ {
+  "Version": "1.33.0",
+  "Release Date": "March, 2019",
+  "macOS Support": "OS X Mavericks",
+  "Official Download Link": "https://update.code.visualstudio.com/1.33.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1djOX_Tre3apNSOqXv5QoEw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.33.0.app.zip"
+ },
+ {
   "Version": "1.32.3",
   "Release Date": "February, 2019",
   "macOS Support": "OS X Mavericks",
