@@ -1086,6 +1086,13 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/off/4.x/4.8.2.plist",
   "Terabox": "https://1024terabox.com/s/103aM5xsT88aAVPf84s9YVQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1XbI9jdTJRumTKCmHndqTTA?pwd=1234"
+ },{
+  "Version": "4.8.3",
+  "IPA ID": 890694557,
+  "iOS Support": "iOS 15.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Swamp-718153412/off/4.x/4.8.3.plist",
+  "Terabox": "https://1024terabox.com/s/1-nm402GRKgwCA3s4uAXGRw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1UtbKnhnO-uHSpNYI854J2A?pwd=1234"
  }
 ]
 }
