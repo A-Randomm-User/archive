@@ -336,6 +336,42 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1d3ANLkpBhqHtFEDHJPRDIg?pwd=1234"
  },
  {
+  "Version": "11.2",
+  "Build": "15C114",
+  "Type": "Beta",
+  "Release Date": "1 December, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.2_15C114_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.2/091-51832-20171206-BA0CA5E6-D5F7-11E7-821B-37B9DC24E03F/iPad_64bit_TouchID_ASTC_11.2_15C114_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12KY-6MllqSYQRUCHu4yi5A?pwd=1234"
+ },
+ {
+  "Version": "11.2",
+  "Build": "15C114",
+  "Type": "Release",
+  "Release Date": "2 December, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.2_15C114_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.2/091-51832-20171206-BA0CA5E6-D5F7-11E7-821B-37B9DC24E03F/iPad_64bit_TouchID_ASTC_11.2_15C114_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12KY-6MllqSYQRUCHu4yi5A?pwd=1234"
+ },
+ {
+  "Version": "11.2.1",
+  "Build": "15C153",
+  "Type": "Release",
+  "Release Date": "13 December, 2017",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1L5TmJRKxHdfyS54VzDyvdQ?pwd=1234"
+ },
+ {
+  "Version": "11.2.2",
+  "Build": "15C202",
+  "Type": "Release",
+  "Release Date": "8 January, 2018",
+  "Orginal File Name": "iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw",
+  "Apple Server": "http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12HtgZLBdRGpEmfQ1bF1-4Q?pwd=1234"
+ },
+ {
   "Version": "11.2.5",
   "Build": "15D5037e",
   "Type": "Beta",

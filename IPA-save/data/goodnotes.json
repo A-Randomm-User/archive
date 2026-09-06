@@ -1,0 +1,54 @@
+{
+"ARM64":[
+ {
+  "Version": "5.0.0",
+  "IPA ID": 829397013,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Goodnotes-1444383602/arm64/5.0.0-593732652.plist",
+  "Terabox": "https://1024terabox.com/s/1Nl9xFJudDNMBJjJUcVCUsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1KCgw_EYrxlgLZgLzmZxM4A?pwd=1234"
+ },
+ {
+  "Version": "5.0.0",
+  "IPA ID": 829561574,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Goodnotes-1444383602/arm64/5.0.0-829561574.plist",
+  "Terabox": "https://1024terabox.com/s/1BhxOPWo0JUgiz_UYbslaAg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1xLew8S49BBxUzS_28UQtQQ?pwd=1234"
+ },
+ {
+  "Version": "5.0.0",
+  "IPA ID": 829881475,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Goodnotes-1444383602/arm64/5.0.0-829881475.plist",
+  "Terabox": "https://1024terabox.com/s/1dq59TRUUSneRo0hnZ4f2Mw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/10yijQ5QNPziwNjX9S2UqAw?pwd=1234"
+ }
+],
+"Official":[
+ {
+  "Version": "5.0.0",
+  "IPA ID": 829397013,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Goodnotes-1444383602/off/5.0.0-593732652.plist",
+  "Terabox": "https://1024terabox.com/s/1QiZq2RlW4tNAtAyk8cJl1w",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1nG_WlVu31Q0pfq1dnqBIcw?pwd=1234"
+ },
+ {
+  "Version": "5.0.0",
+  "IPA ID": 829561574,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Goodnotes-1444383602/off/5.0.0-829561574.plist",
+  "Terabox": "https://1024terabox.com/s/1f-lyngsQRBILrWA30nRCiQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1wI1BYRElZwZ2PID6IXJo9g?pwd=1234"
+ },
+ {
+  "Version": "5.0.0",
+  "IPA ID": 829881475,
+  "iOS Support": "iOS 12.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Goodnotes-1444383602/off/5.0.0-829881475.plist",
+  "Terabox": "https://1024terabox.com/s/1iA2A-ei2p84IVRTXaXCspw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1EX_BlTQhiS2ncxA96bkalQ?pwd=1234"
+ }
+]
+}
