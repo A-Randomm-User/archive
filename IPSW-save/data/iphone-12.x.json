@@ -561,6 +561,24 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1q1oNlazhHlWx4w1Yb_xBgw?pwd=1234"
  },
  {
+  "Version": "12.0",
+  "Build": "16A5362a",
+  "Type": "Beta",
+  "Release Date": "20 August, 2018",
+  "Orginal File Name": "iPhone_4.7_12.0_16A5362a_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-00978/ADB50AE6-A305-11E8-935A-A2AD701602F1/iPhone_4.7_12.0_16A5362a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1MyyYocaj4WhTBRG3i8YRfw?pwd=1234"
+ },
+ {
+  "Version": "12.0",
+  "Build": "16A5364a",
+  "Type": "Beta",
+  "Release Date": "23 August, 2018",
+  "Orginal File Name": "iPhone_4.7_12.0_16A5364a_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2018FallSeed/fullrestores/041-02071/19AECCBA-A661-11E8-A390-C12A92FA2FED/iPhone_4.7_12.0_16A5364a_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/12k-vcVtEuuFHwxxXIWt0eg?pwd=1234"
+ },
+ {
   "Version": "12.1.3",
   "Build": "16D39",
   "Type": "Release",
