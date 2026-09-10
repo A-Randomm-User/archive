@@ -76,10 +76,19 @@
   "Version": "27.0",
   "Build": "24A5430a",
   "Type": "Beta",
-  "Release Date": "31 August , 2026",
+  "Release Date": "31 August, 2026",
   "Orginal File Name": "iPad_Pro_A12X_A12Z_27.0_24A5430a_Restore.ipsw",
   "Apple Server": "https://updates.cdn-apple.com/2026SpringSeed/295ff534-4d0e-40bd-ba86-df778fd94233/iPad_Pro_A12X_A12Z_27.0_24A5430a_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Hd87JufTUhathpIxHW3VBg?pwd=1234"
+ },
+ {
+  "Version": "27.0",
+  "Build": "24A435",
+  "Type": "Release Candidate",
+  "Release Date": "9 September, 2026",
+  "Orginal File Name": "iPad_Pro_A12X_A12Z_27.0_24A435_Restore.ipsw",
+  "Apple Server": "https://updates.cdn-apple.com/2026FallFCS/220743cd-e67b-44da-a3a3-f18bd30e5a59/iPad_Pro_A12X_A12Z_27.0_24A435_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1H6348sie2WRZXFe2iIshXA?pwd=1234"
  }
 ]
 }
