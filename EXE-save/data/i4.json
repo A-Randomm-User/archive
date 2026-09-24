@@ -1,6 +1,20 @@
 {
 "x64":[
  {
+  "Version": "8.58",
+  "Release Date": "Sep 24, 2026",
+  "Official Download Link": "https://d-app6.i4.cn/i4tools/V8/8.60/i4Tools8_v8.60.013_Setup_x64.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/160TO0ZqRZzrhUroX8jBQOw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/i4tool/i4Tools8_v8.60.013_Setup_x64.exe"
+ },
+ {
+  "Version": "9.20",
+  "Release Date": "Sep 18, 2026",
+  "Official Download Link": "https://d-app6.i4.cn/i4tools/V9/9.20/i4Tools_v9.20.028_Setup_x64.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1-WqrbxQe6mYlm-pDPzSxoA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/i4tool/i4Tools_v9.20.028_Setup_x64.exe"
+ },
+ {
   "Version": "9.19",
   "Release Date": "Sep 2, 2026",
   "Official Download Link": "https://d-app6.i4.cn/i4tools/V9/9.19/i4Tools_v9.19_Setup_x64.exe",
@@ -100,6 +114,20 @@
  }
 ],
 "x86":[
+ {
+  "Version": "8.58",
+  "Release Date": "Sep 24, 2026",
+  "Official Download Link": "https://d-app6.i4.cn/i4tools/V8/8.60/i4Tools8_v8.60.013_Setup_x86.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1jrnynfWcn4UuKQTOiEJPAw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/i4tool/i4Tools8_v8.60.013_Setup_x86.exe"
+ },
+ {
+  "Version": "9.20",
+  "Release Date": "Sep 18, 2026",
+  "Official Download Link": "https://d-app6.i4.cn/i4tools/V9/9.20/i4Tools_v9.20.028_Setup_x86.exe",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1r69RAlg-DSFbgrAq8nJrNQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/EXE-save/releases/download/i4tool/i4Tools_v9.20.028_Setup_x86.exe"
+ },
  {
   "Version": "9.19",
   "Release Date": "Sep 2, 2026",
