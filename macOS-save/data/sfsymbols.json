@@ -1,9 +1,25 @@
 {
 "Apple Developer":[
  {
+  "Version": "27",
+  "Release Date": "Unknown",
+  "macOS Support": "macOS Sequoia 15.4",
+  "Official Download Link": "https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-27.dmg?2",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1hOlLHzxeiFO3L4hcBXsxRw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/SF-Symbols/SF-Symbols-27.dmg"
+ },
+ {
+  "Version": "8.0.1",
+  "Release Date": "Unknown",
+  "macOS Support": "macOS Sequoia 15.0",
+  "Official Download Link": "https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-8.dmg?2",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1HnhOjJyJcMPk5-9k4LowNw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/SF-Symbols/SF-Symbols-8.dmg"
+ },
+ {
   "Version": "8 Beta",
   "Release Date": "Unknown",
-  "macOS Support": "macOS Sequoia",
+  "macOS Support": "macOS Sequoia 15.0",
   "Official Download Link": "https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-8.dmg?2",
   "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1VW0Wa3FVZ4-TdDoMHfJxOg?pwd=1234",
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/SF-Symbols/SF-Symbols-8-Beta.dmg"
