@@ -584,7 +584,7 @@
   "Orginal File Name": "iPad2,3_5.0_9A334_Restore.ipsw",
   "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-9620.20111012.pnB4r/iPad2,3_5.0_9A334_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1R8UpY0J-DNbBQBAWJunFUQ?pwd=1234",
-  "Github Download": ""
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.0_9A334_Restore.ipsw"
  },
  {
   "Version": "5.0",
@@ -594,7 +594,7 @@
   "Orginal File Name": "iPad2,3_5.0_9A334_Restore.ipsw",
   "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-9620.20111012.pnB4r/iPad2,3_5.0_9A334_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1R8UpY0J-DNbBQBAWJunFUQ?pwd=1234",
-  "Github Download": ""
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.0_9A334_Restore.ipsw"
  },
  {
   "Version": "5.0.1",
@@ -615,6 +615,46 @@
   "Apple Server": "—",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19xfim9-sanEtZ0cp-_HnAg?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.0.1_9A404_Restore.ipsw"
+ },
+ {
+  "Version": "5.0.1",
+  "Build": "9A405",
+  "Type": "Release",
+  "Release Date": "10 November, 2011",
+  "Orginal File Name": "iPad2,3_5.0.1_9A405_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/041-3312.20111109.zp3ws/iPad2,3_5.0.1_9A405_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QQb59QyVvNACs-e5bqQFDg?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.0.1_9A405_Restore.ipsw"
+ },
+ {
+  "Version": "5.1",
+  "Build": "9B5117b",
+  "Type": "Beta",
+  "Release Date": "4 November, 2011",
+  "Orginal File Name": "iPad2,3_5.1_9B5117b_Restore.ipsw",
+  "Apple Server": "http://adcdownload.apple.com//ios/ios_5.1_beta/ios_5.1_beta__ipad_2_wifi__3g_gsm__9b5117b.dmg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1aAIf-txo3t8PeKLLaZ_ajA?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.1_9B5117b_Restore.ipsw"
+ },
+ {
+  "Version": "5.1",
+  "Build": "9B5127c",
+  "Type": "Beta",
+  "Release Date": "4 November, 2011",
+  "Orginal File Name": "iPad2,3_5.1_9B5127c_Restore.ipsw",
+  "Apple Server": "—",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1MXhxqGOuDtQQs9Yc_OCh5A?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.1_9B5127c_Restore.ipsw"
+ },
+ {
+  "Version": "5.1",
+  "Build": "9B5141a",
+  "Type": "Beta",
+  "Release Date": "4 November, 2011",
+  "Orginal File Name": "iPad2,3_5.1_9B5141a_Restore.ipsw",
+  "Apple Server": "—",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1LxYhsNY5QQcQhG7GkGCvvg?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad2%2C3/iPad2.3_5.1_9B5141a_Restore.ipsw"
  }
 ],
 "iPad 3 (iPad3,1)":[
@@ -637,6 +677,28 @@
   "Apple Server": "https://secure-appldnld.apple.com/iOS5.1.1/041-4327.20120427.xW6U6/iPad3,1_5.1.1_9B206_Restore.ipsw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1-Jk67ALrml_WvNLV1F7Nrg",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad3%2C1/iPad3.1_5.1.1_9B206_Restore.ipsw"
+ }
+],
+"iPad 3 (iPad3,2)":[
+ {
+  "Version": "5.1",
+  "Build": "9B176",
+  "Type": "Release",
+  "Release Date": "29 February, 2012",
+  "Orginal File Name": "iPad3,2_5.1_9B176_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS5/041-1955.20120307.CQvrt/iPad3,2_5.1_9B176_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1brJnyS7ufVjvomjpO_aCaw?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad3%2C2/iPad3.2_5.1_9B176_Restore.ipsw"
+ },
+ {
+  "Version": "5.1.1",
+  "Build": "9B206",
+  "Type": "Release",
+  "Release Date": "7 May, 2012",
+  "Orginal File Name": "iPad3,2_5.1.1_9B206_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iOS5.1.1/041-4328.20120427.1sCra/iPad3,2_5.1.1_9B206_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1fqBGUaucgpSMTfbuwf1UkQ?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPad3%2C2/iPad3.2_5.1.1_9B206_Restore.ipsw"
  }
 ]
 }
