@@ -227,6 +227,54 @@
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.78.0.app.zip"
  },
  {
+  "Version": "1.40.2",
+  "Release Date": "October, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.40.2/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1SQ6aCIyPvMnUc8Xd33t9kQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.40.2.app.zip"
+ },
+ {
+  "Version": "1.40.1",
+  "Release Date": "October, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.40.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/11N1wOE3eQqFxLBSQrc5M1w?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.40.1.app.zip"
+ },
+ {
+  "Version": "1.40.0",
+  "Release Date": "October, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.40.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/104YVPKsY7RpJZDrpIohjpw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.40.0.app.zip"
+ },
+ {
+  "Version": "1.39.2",
+  "Release Date": "September, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.39.2/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1Rjx4PFH3ta9uOfY2Em6Vbw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.39.2.app.zip"
+ },
+ {
+  "Version": "1.39.1",
+  "Release Date": "September, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.39.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1m7d9ThBlwJmEoZA2pLlnrw?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.39.1.app.zip"
+ },
+ {
+  "Version": "1.39.0",
+  "Release Date": "September, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.39.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/13EipGIOWPzNn4r64C6qByA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.39.0.app.zip"
+ },
+ {
   "Version": "1.38.1",
   "Release Date": "August, 2019",
   "macOS Support": "OS X Yosemite",

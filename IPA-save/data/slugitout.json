@@ -112,6 +112,20 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/SlugItOut-561577469/armv7/1.x/1.6.3.plist",
   "Terabox": "https://1024terabox.com/s/1Pvr1qJk6Ri4IfP6TRRJGOw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1a52vH1UyInO-Jq6PRduTXg?pwd=1234"
+ },{
+  "Version": "1.7.0",
+  "IPA ID": 780942921,
+  "iOS Support": "iOS 5.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/SlugItOut-561577469/armv7/1.x/1.7.0.plist",
+  "Terabox": "https://1024terabox.com/s/1ZAQGiIK6fTW-__BwqrZ95g",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1ADJQRB5ITSX5ohyBmeoT-g?pwd=1234"
+ },{
+  "Version": "1.8.0",
+  "IPA ID": 811151390,
+  "iOS Support": "iOS 5.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/SlugItOut-561577469/armv7/1.x/1.8.0.plist",
+  "Terabox": "https://1024terabox.com/s/1GB3kpkyCPA5hZQgYge9HTw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1p7nqH4Brx0EOsv-AWJssUA?pwd=1234"
  }
 ],
 "ARMv7s ARMv7 Combination":[
@@ -415,6 +429,20 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/SlugItOut-561577469/off/1.x/1.6.3.plist",
   "Terabox": "https://1024terabox.com/s/1-SjdXYoBGufLSShALdHa9g",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/19fH-Ji4-Cgn93ch5TluylA?pwd=1234"
+ },{
+  "Version": "1.7.0",
+  "IPA ID": 780942921,
+  "iOS Support": "iOS 5.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/SlugItOut-561577469/off/1.x/1.7.0.plist",
+  "Terabox": "https://1024terabox.com/s/1gNCBGpANHift0kKw4_utZw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/11_tkxvdiQd6FfBrpiW3PKA?pwd=1234"
+ },{
+  "Version": "1.8.0",
+  "IPA ID": 811151390,
+  "iOS Support": "iOS 5.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/SlugItOut-561577469/off/1.x/1.8.0.plist",
+  "Terabox": "https://1024terabox.com/s/1F6NatskqMADMSBK2Dm0WTg",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/18r4M_6khBzP5XfkKtaAA3w?pwd=1234"
  }
 ]
 }
