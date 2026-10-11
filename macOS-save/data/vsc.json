@@ -221,10 +221,58 @@
  {
   "Version": "1.78.0",
   "Release Date": "April, 2023",
-  "macOS Support": "macOS High Sierra",
+  "macOS Support": "<b id=\"10.13\">macOS High Sierra</b>",
   "Official Download Link": "https://update.code.visualstudio.com/1.78.0/darwin/stable",
   "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1997bHvk5jSTIP5kTKSv-tw?pwd=1234",
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.78.0.app.zip"
+ },
+ {
+  "Version": "1.77.3",
+  "Release Date": "March, 2023",
+  "macOS Support": "macOS El Capitan",
+  "Official Download Link": "https://update.code.visualstudio.com/1.77.3/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1ObMVZn5oKn0zjK1EnJkhTQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.77.3.app.zip"
+ },
+ {
+  "Version": "1.77.2",
+  "Release Date": "March, 2023",
+  "macOS Support": "macOS El Capitan",
+  "Official Download Link": "https://update.code.visualstudio.com/1.77.2/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1U6a_kh1q3xg0h9pBekwQXA",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.77.2.app.zip"
+ },
+ {
+  "Version": "1.77.1",
+  "Release Date": "March, 2023",
+  "macOS Support": "macOS El Capitan",
+  "Official Download Link": "https://update.code.visualstudio.com/1.77.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1XL4tcAVHoFyzCogsWH0P3w",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.77.1.app.zip"
+ },
+ {
+  "Version": "1.77.0",
+  "Release Date": "March, 2023",
+  "macOS Support": "macOS El Capitan",
+  "Official Download Link": "https://update.code.visualstudio.com/1.77.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1gpgMULgTbZ5ah-KCE2cZWA?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.77.0.app.zip"
+ },
+ {
+  "Version": "1.41.1",
+  "Release Date": "November, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.41.1/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/14cY5K4HCBTi_q2qjmHXV5A?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.41.1.app.zip"
+ },
+ {
+  "Version": "1.41.0",
+  "Release Date": "November, 2019",
+  "macOS Support": "OS X Yosemite",
+  "Official Download Link": "https://update.code.visualstudio.com/1.41.0/darwin/stable",
+  "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1X_JItg07Wn9Qa2xWrkdurQ?pwd=1234",
+  "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-intel/Visual.Studio.Code-1.41.0.app.zip"
  },
  {
   "Version": "1.40.2",
@@ -919,7 +967,7 @@
  {
   "Version": "1.78.0",
   "Release Date": "April, 2023",
-  "macOS Support": "macOS High Sierra",
+  "macOS Support": "<b id=\"10.13\">macOS High Sierra</b>",
   "Official Download Link": "https://update.code.visualstudio.com/1.78.0/darwin-arm64/stable",
   "Baidu Netdisk <br> (Password 1234)": "https://pan.baidu.com/s/1sVog4Pca1O5SSW-rplFIhg?pwd=1234",
   "Github": "https://github.com/A-Randomm-User/macOS-save/releases/download/vsc-silicon/Visual.Studio.Code-1.78.0.app.zip"
