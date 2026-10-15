@@ -50,5 +50,17 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1Xh0wPkx8EFKK1__hfBODvQ?pwd=1234",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod2%2C1/iPod2.1_4.2.1_8C148_Restore.ipsw"
  }
+],
+"iPod Touch 3 (iPod3,1)":[
+ {
+  "Version": "4.0",
+  "Build": "8A230m",
+  "Type": "Beta",
+  "Release Date": "8 April, 2010",
+  "Orginal File Name": "iPod3,1_4.0_8A230m_Restore.ipsw",
+  "Apple Server": "—",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QiFgcNNbF13nadc2rch2Nw",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod3%2C1/iPod3.1_4.0_8A230m_Restore.ipsw"
+ }
 ]
 }
