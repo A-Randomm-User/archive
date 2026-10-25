@@ -303,6 +303,14 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.70/1.26.70.20.plist",
   "Terabox": "https://1024terabox.com/s/1kkUQXnLKqsCQrcdTaRUcwQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1A4WPPz6eRlQ3sZa280D5iA?pwd=1234"
+ },
+ {
+  "Version": "1.26.70.21",
+  "IPA ID": "-",
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Testflight-Minecraft/arm64/1.26.70/1.26.70.21.plist",
+  "Terabox": "https://1024terabox.com/s/1bYTmHltfx_ON3cu6BOtb7w",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1L6h9u0P-IpnLNJfVsSkbZw"
  }
 ]
 }
