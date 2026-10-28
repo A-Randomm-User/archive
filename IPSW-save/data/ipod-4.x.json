@@ -62,5 +62,37 @@
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1QiFgcNNbF13nadc2rch2Nw",
   "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod3%2C1/iPod3.1_4.0_8A230m_Restore.ipsw"
  }
+],
+"iPod Touch 4 (iPod4,1)":[
+ {
+  "Version": "4.1",
+  "Build": "8B117",
+  "Type": "Golden Master",
+  "Release Date": "1 September, 2010",
+  "Orginal File Name": "iPod4,1_4.1_8B117_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/061-8490.20100901.hyjtR/iPod4,1_4.1_8B117_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1bvT-_0VauhtqYip-dl7VKg?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod4%2C1/iPod4.1_4.1_8B117_Restore.ipsw"
+ },
+ {
+  "Version": "4.1",
+  "Build": "8B117",
+  "Type": "Release",
+  "Release Date": "8 September, 2010",
+  "Orginal File Name": "iPod4,1_4.1_8B117_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/061-8490.20100901.hyjtR/iPod4,1_4.1_8B117_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1bvT-_0VauhtqYip-dl7VKg?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod4%2C1/iPod4.1_4.1_8B117_Restore.ipsw"
+ },
+ {
+  "Version": "4.1",
+  "Build": "8B118",
+  "Type": "Release",
+  "Release Date": "12 September, 2010",
+  "Orginal File Name": "iPod4,1_4.1_8B118_Restore.ipsw",
+  "Apple Server": "https://secure-appldnld.apple.com/iPhone4/061-9344.20100922.Urgt43/iPod4,1_4.1_8B118_Restore.ipsw",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1gsCdYFPQbrRvZN2sGTI4cw?pwd=1234",
+  "Github Download": "https://github.com/A-Randomm-User/IPSW-save/releases/download/iPod4%2C1/iPod4.1_4.1_8B118_Restore.ipsw"
+ }
 ]
 }
