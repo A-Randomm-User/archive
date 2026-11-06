@@ -2981,6 +2981,13 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/arm64/2026/26.52.plist",
   "Terabox": "https://1024terabox.com/s/1hxz2jz7Lj5ihOKrMB7rESw",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1tFNOeckAx-tfnNqEtHWZ4w?pwd=1234"
+ },{
+  "Version": "26.60",
+  "IPA ID": 892511333,
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/arm64/2026/26.60.plist",
+  "Terabox": "https://1024terabox.com/s/1M9uvQB4zM4lUbJIoP-y7YA",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1az4Lqj4c5fcHDt9MdoQDSQ?pwd=1234"
  }
 ],
 "Official":[
@@ -4801,6 +4808,13 @@
   "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/2026/26.52.plist",
   "Terabox": "https://1024terabox.com/s/1MWoghN16D2sNl4ixou-_YQ",
   "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1NUvbQ86E96P6dQwnRqJHfw?pwd=1234"
+ },{
+  "Version": "26.60",
+  "IPA ID": 892511333,
+  "iOS Support": "iOS 14.0+",
+  "Online Install": "itms-services://?action=download-manifest&url=https://a-randomm-user.github.io/IPA-save-ol/Minecraft-479516143/off/2026/26.60.plist",
+  "Terabox": "https://1024terabox.com/s/1Hrm3ig3exHSJbX2t72iVFQ",
+  "Baidu Netdisk <br> Password 1234": "https://pan.baidu.com/s/1r81U6NwpYYNL7MVAO-eagg?pwd=1234"
  }
 ]
 }
